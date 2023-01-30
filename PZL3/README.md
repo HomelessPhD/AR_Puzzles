@@ -50,6 +50,7 @@ Some ideas came to my mind, others were captured from Twitter or\and the telegra
 There are pretty "classic" ideas of what each image could code, but also there apretty exotic ideas. The last will be discussed at the end of this paper. Lets consider each picture one by one at first:
 
 ## 1-st key
+![1-st key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL3/pics/1.png )
 
 Thats pretty hard one. One may assume that it images 4 letters: "A", "N", "N" or "H", "D" or "O". That forms 4-symbol "word" just as requested: ANNO, ANHO, ANWO,... BUT, i doubt one of theese letter combinations is the answer. 
 ANNO could be interpreted as "since" meaning the year (like the "ANNO 1901" that could be found on top of some European buildings that means that it was constructed in year 1901, and that was the first i thought it should be - the year of Arweave birthday or ICO or any other related date - may be even DD/MM combination).
@@ -59,6 +60,7 @@ More trivial answers here would be 4-letter words somehow related to Arweave or 
 Finally, i consider the next keys: 2014, 2015, 2016, 2017, 2018, 2019, a16z, ANHO, hack, logo, tags, apps, dapp, hack, text, icon, name, page, html, link, http, main, mail, type, json, file, luck,....
 
 ## 2-nd key
+![2-nd key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL3/pics/2.png )
 
 This a tricky piece. 
 
@@ -73,6 +75,7 @@ Finally, i'd consider the next keys here: md12, mine, mail, path, road, main, li
 Someone could also look for the block number 21863 - but there is nothing interesting about it. (sure, many complex manipulations could be done with block data - but that is a dead end).
 
 ## 3-rd key
+![3-rd key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL3/pics/3.png )
 
 This picture was directly hinted by the @Tiamat. "With N.1.7.0.0 release, third pic became obsolete". It is very likely related to Arweave sources [6'], especially N.1.7.0.0 release. The most interesting part of this release comments (readme) are the following:
 
@@ -117,6 +120,7 @@ Recalling that picture likely to image the mining process and contains two lette
 Finally, i'd consider the next keys here: ASIC, a384, -384, a256, -256, hash, mine, farm, earn, gpus, Elli, IPFS, luck, ...
 
 ## 4-th key
+![4-th key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL3/pics/4.png )
 
 This pic was mentioned in a small talk in discord between @Tiamat and one of the developers. That talk is not very helpful (given above).
 Anyway, the first thing came to mind is AR transaction or AR coin transaction or swap procedure or selling or just pointing to the price or cost. Also, should be noted that transaction in AR bring\store the data.
@@ -128,18 +132,22 @@ Some could propose LOKI or SILO here (arweave product) [7] - just look at pictur
 Finally, i'd consider the next keys here: artx, LOKI, SILO, coin, cash, data, cost, rate, swap, sell, list, view, arql, luck, ...
 
 ## 5-th key
+![5-th key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL3/pics/5.png )
 
 One may notice here the map of SCANdinavia or more like Denmark, Norway, Sweden (DNS). And first things could be reasoned here: it is SCAN or PORT that is used in Arweave node that is 1984. Some others propose here LOKI from Scandinavian mythology that is also a name of " a decentralised network" that collaborated with Arweave in "the creation of SILO" (one of arweave product) [7].
 
 Finally, i'd consider the next keys here: scan, port, 1984, silo, loki, " dns", luck, ...
 
 ## 6-th key
+![6-th key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL3/pics/6.png )
+
 Thats the tree. Interesting fact - it seems to have 4 roots, 4 branches, 32 leafs. @Tiamat mentioned this: " It's not my fault that people see a tree with - - - -  and they actually type TREE and expect to unlock.".
 
 Well, not gonna judge his statement, but he said #3 should be very easy, so the option TREE was on my list before i've found that discord statement made by him. Tree could symbolize the graph or tree-like data structure. So it could be data, root, node or their alliases like "beam" (the is the name of the node program or daemon - correct me if i wrong). Also it could be Arweave-Sparse Merkle Tree (ASMT). Look this page stored in arweave for example [8].
 
 
 ## 7-th key
+![7-th key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL3/pics/7.png )
 
 Many solvers got stuck on this picture, but i clearly see the easy answer here: it are letters U, p, L, L, that could form PULL (that can also be represented by its sound like pool).
 
@@ -148,6 +156,8 @@ Some think that it could be a point to UpVest that invested in arweave some fund
 Finally, i'd consider the next keys here: pull,  pool, vest, node, fork, luck,...
 
 ## 8-th key
+![8-th key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL3/pics/8.png )
+
 The last one is tricky, but seems to be mentioned by @Tiamat in his official twitter hints: " Did anybody count the dots?". Considering he pointed the picture 8 only and all black object on it, it results in 58 "dots". The base58 encoding is a typical in cryptosphere, so BASE could be mean here.
 
 Finally, i'd consider the next keys here: base, data, apps, dapp, star, cost, code, luck,...
@@ -158,6 +168,7 @@ Finally, i'd consider the next keys here: base, data, apps, dapp, star, cost, co
 `TO BE WRITTEN VERY SOON (day or two i will fill this section)`
 
 # Brute-Force - "that's impossible (?!) no it's necessary" [10]
+
 
 `TO BE WRITTEN VERY SOON (day or two i will fill this section)`
 
