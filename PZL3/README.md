@@ -173,7 +173,7 @@ Finally, i'd consider the next keys here: `base, data, apps, dapp, star, cost, c
 1) I suppose, all the puzzle could be related to Arweave project [[10]](https://arweave.news/what-is-arweave-ar/),[[10']](https://arwiki.wiki/#/en/main) or even more convrete - the mining. Fresh article about Arweave mining could be found here [[10'']](https://arwiki.wiki/#/en/arweave-mining)
 2) I have posted in twitter [[11]](https://twitter.com/miningpredict) an exotic idea - all 8 "keys" should form one sentence. Moreover, some words or symbols typed in __ __ __ __ placeholders could decay to pieces forming several words with its neighboards. Just look at an example below:
 
-![idea]https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL3/pics/idea.png)
+![idea?](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL3/pics/idea.png)
 
 4) 
 
