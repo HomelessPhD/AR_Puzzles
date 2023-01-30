@@ -108,7 +108,7 @@ Anyway, the first thing came to mind is AR transaction or AR coin transaction or
 
 Some could propose LOKI or SILO here (arweave product) [7] - just look at picture in article
 
-![LOKI - SILO](LOKI_SILO.png )
+![LOKI - SILO](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL3/pics/LOKI_SILO.png)
 
 Finally, i'd consider the next keys here: artx, LOKI, SILO, coin, cash, data, cost, rate, swap, sell, list, view, arql, luck, ...
 
