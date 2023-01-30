@@ -168,7 +168,7 @@ Finally, i'd consider the next keys here: base, data, apps, dapp, star, cost, co
 `TO BE WRITTEN VERY SOON (day or two i will fill this section)`
 
 # Brute-Force - "that's impossible (?!) no it's necessary" [10]
-
+![brute it TARS!!!](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL3/pics/interstellar-cooper.gif)
 
 `TO BE WRITTEN VERY SOON (day or two i will fill this section)`
 
