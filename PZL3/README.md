@@ -11,25 +11,37 @@ Puzzle consists of the HTML page (sources also attached in this git - but could 
 
 # The official hints given by the puzzle creator are listed below:
 
+
+    
+```
     From Twitter:
     
-```	
 1] Did anybody count the dots?
 
 2] With N.1.7.0.0 release, third pic became obsolete 😉
 ```    
 
-	From discord:
 	
 ```
+	From discord:
 3] You'd be surprised how easy #3 is
 
-4] It is not hard actually, someone which followed the project during last six months should solve 7 images easily and for 1 some luck needed 
+4] It is not hard actually, someone which followed the project during last six months 
+should solve 7 images easily and for 1 some luck needed 
 
-5] When you reach a question/part and you have more answers for it, most likely none of them is the right one 🙂
-6] It's not my fault that people see a tree with - - - -  and they actually type TREE and expect to unlock.
+5] When you reach a question/part and you have more answers for it, most likely none of them
+is the right one 🙂
 
-7] (Some dev about other dev guessing the answer for pic 4) Haha interesting, when we first looked at it, I think @arweave-india got number 4 😆 -> (PZL creator) I'm 99% she was thinking about the right answer, which  by the way, in the sketch was different, but this one was so obvious, I just adjusted to it:)  -> (that other dev that guessing) Hehe, I think I might be in the right area now for a few more of the clues for puzzle 3 🤔 Good job though, I am impressed at how tricky it is! -> (pzl creator) exactly, once you get on the right track, one by one they seem much easier
+6] It's not my fault that people see a tree with - - - -  and they actually type TREE and
+expect to unlock.
+
+7] (Some dev about other dev guessing the answer for pic 4) Haha interesting, when we first 
+looked at it, I think @arweave-india got number 4 😆 -> (PZL creator) I'm 99% she was thinking 
+about the right answer, which  by the way, in the sketch was different, but this one was so 
+obvious, I just adjusted to it:)  -> (that other dev that guessing) Hehe, I think I might be 
+in the right area now for a few more of the clues for puzzle 3 🤔 Good job though, I am 
+impressed at how tricky it is! -> (pzl creator) exactly, once you get on the right track, 
+one by one they seem much easier
 ```
 
 Some ideas came to my mind, others were captured from Twitter or\and the telegram group [3] - you definitely should visit it for ideas sharing.
