@@ -60,7 +60,7 @@ ANNO could be interpreted as "since" meaning the year (like the "ANNO 1901" that
 ANHO could be assumed to denote the investor who supported the Arweave project by a descent investment - "ANdreessen HOrowitz" or "a16z" that is a logo of his company and so it could be the key.
 More trivial answers here would be 4-letter words somehow related to Arweave or the image.
 
-Finally, i consider the next keys: 2014, 2015, 2016, 2017, 2018, 2019, a16z, ANHO, hack, logo, tags, apps, dapp, hack, text, icon, name, page, html, link, http, main, mail, type, json, file, luck,....
+Finally, i consider the next keys: `2014, 2015, 2016, 2017, 2018, 2019, a16z, ANHO, hack, logo, tags, apps, dapp, hack, text, icon, name, page, html, link, http, main, mail, type, json, file, luck,....`
 
 ## 2-nd key
 ![2-nd key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL3/pics/2.png )
