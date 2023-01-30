@@ -178,10 +178,11 @@ Finally, i'd consider the next keys here: base, data, apps, dapp, star, cost, co
 `TO BE WRITTEN VERY SOON (day or two i will fill this section)`
 
 
-Any ideas\questions or propositions you may send to generalizatorSUB@gmail.com - also look at my twitter @MiningPredict.
-
 ## P.S.
+
 Thank you for spending time on my notes, i hope it was not totally useless and you've found something interesting. 
+
+Any ideas\questions or propositions you may send to generalizatorSUB@gmail.com - also look at my twitter @MiningPredict.
 
 I have read all Tiamat posts in discord. ENGLISH is not my native, i am tired af, its so boring\sleepy to read all those. I mean, it would be "hard" to read in Russian\Ukraine but in english magnified x2,x3. Now i have mostly the same ideas as before actually. Constructing new "brute" list. Will re-read all posts for those 6 months Tiamat talking about. Have already viewed all twitter posts\youtube videos\articles for that period of time. Discord and telegram on the way cause previously i have not viewed those.
 
