@@ -171,7 +171,7 @@ Finally, i'd consider the next keys here: base, data, apps, dapp, star, cost, co
 
 `TO BE WRITTEN VERY SOON (day or two i will fill this section)`
 
-# Brute-Force - "that's impossible (?!) no it's necessary" [10](https://www.youtube.com/watch?v=6ixvpLCdqkA)
+# Brute-Force - "that's impossible (?!)" [10](https://www.youtube.com/watch?v=6ixvpLCdqkA)
 ![Its necessary](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL3/pics/Cooper_necessary.gif)
 ![brute it TARS!!!](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL3/pics/interstellar-cooper.gif)
 
