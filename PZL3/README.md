@@ -4,10 +4,10 @@ This puzzle is one from the series of Arweave Puzzles made by @Tiamat (official 
 
 Puzzle consists of the HTML page (sources also attached in this git - but could be found on Arweave "blockchain") page with an AES encrypted message (the Arweave wallet with 1000 AR coins on it). The decryption mechanism is already built in page so the solver should only type the correct 4-symbols "words" (4-symbol combinations) to the 8 placeholders as show on picture below. The key to the puzzle solving is an image with 8 separated pictures:
 
-![AR puzzle #3 keys](pzl_3.png )
+![AR puzzle #3 keys](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL3/pics/pzl_3.png )
 
 
-![AR puzzle #3 solving](pzl_3_keys_screen.png )
+![AR puzzle #3 solving](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL3/pics/pzl_3_keys_screen.png )
 
 # The official hints given by the puzzle creator are listed below:
 
@@ -49,7 +49,7 @@ This a tricky piece.
 
 The first thing the solvers usually do here is googling this number "21863" that results in coordinates: 21863 is ZIP code (index) of Snow Hill, MD in USA [4]. That instantly gives: "snow", "hill", "city", "town", "code", "mail" keys. Recalling the fact that the picture contains this number in romb with arrows - someone could go further and see that roads around the city forms the romb AND the road MD12 goes through the city (through the romb) exactly or very likely as drawn on the picture by two arrows. So another option here is "md12", "road", "path". Going even further with thi idea - i have found that there is a mine not far by the md12 road [5] - somewhere close to the bolder arrow on the picture.
 
-![Snow HIll MD12 - ZIP 21863](MD12.png )
+![Snow HIll MD12 - ZIP 21863](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL3/pics/MD12.png)
 
 Another interesting idea about this picture - "21863" missing the "0". In other words - it is a date: 2018\06\03 that could be interpreted as Arweave ICO date for example, that also give "date", "fund" keys.
 
