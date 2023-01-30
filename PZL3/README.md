@@ -2,7 +2,7 @@
 
 Here i am going to publish ideas i consider about and dummy instruments related to Arweave puzzle #3.
 
-This puzzle is one from the series of Arweave Puzzles made by @Tiamat (official Arweave project discord member, apps developer, miner, early investor). Originally, puzzle posted in official @Tiamat twitter [1](https://twitter.com/ArweaveP/status/1132936723162378240): with hints and link to the blockchain [[2]](https://kszeqgxezf5quhzld4nhpasyilhxphclq2peqi5mrn7utxmqhwga.arweave.net/VLJIGuTJewofKx8ad4JYQs93nEuGnkgjrIt_Sd2QPYw
+This puzzle is one from the series of Arweave Puzzles made by @Tiamat (official Arweave project discord member, apps developer, miner, early investor). Originally, puzzle posted in official @Tiamat twitter [[1]](https://twitter.com/ArweaveP/status/1132936723162378240): with hints and link to the blockchain [[2]](https://kszeqgxezf5quhzld4nhpasyilhxphclq2peqi5mrn7utxmqhwga.arweave.net/VLJIGuTJewofKx8ad4JYQs93nEuGnkgjrIt_Sd2QPYw
 )
 
 Puzzle consists of the HTML page (sources also attached in this git - but could be found on Arweave "blockchain") page with an AES encrypted message (the Arweave wallet with **1000 AR** coins on it, that is around of **10 k$** right now). The decryption mechanism is already built in page so the solver should only type the correct 4-symbols "words" (4-symbol combinations) to the 8 placeholders as show on picture below. The key to the puzzle solving is an image with 8 separated pictures:
@@ -47,7 +47,7 @@ impressed at how tricky it is! -> (pzl creator) exactly, once you get on the rig
 one by one they seem much easier
 ```
 
-Some ideas came to my mind, others were captured from Twitter or\and the telegram group [3](@arweavep) - you definitely should visit it for ideas sharing.
+Some ideas came to my mind, others were captured from Twitter or\and the telegram group [[3]](@arweavep) - you definitely should visit it for ideas sharing.
 (at first few months i have forcefully avoided visiting any forums or groups when i saw the puzzle at first because i thought that ideas of others could freeze my own thinking process - it is when you start to think primarly in the way proposed by some other solver and, got stuck on it, but later trying my own ideas with my own dummy brute forcing method i skipped that rule. I am actively posting any ideas came to my mind in that group, hoping someone of us will be able to solve the puzzle sharing some part of revenue and GLORY)
 
 There are pretty "classic" ideas of what each image could code, but also there apretty exotic ideas. The last will be discussed at the end of this paper. Lets consider each picture one by one at first:
@@ -67,7 +67,7 @@ Finally, i consider the next keys: 2014, 2015, 2016, 2017, 2018, 2019, a16z, ANH
 
 This a tricky piece. 
 
-The first thing the solvers usually do here is googling this number "21863" that results in coordinates: 21863 is ZIP code (index) of Snow Hill, MD in USA [4](https://www.unitedstateszipcodes.org/21863/). That instantly gives: "snow", "hill", "city", "town", "code", "mail" keys. Recalling the fact that the picture contains this number in romb with arrows - someone could go further and see that roads around the city forms the romb AND the road MD12 goes through the city (through the romb) exactly or very likely as drawn on the picture by two arrows. So another option here is "md12", "road", "path". Going even further with thi idea - i have found that there is a mine not far by the md12 road [5](https://thediggings.com/places/md0472391417/map) - somewhere close to the bolder arrow on the picture.
+The first thing the solvers usually do here is googling this number "21863" that results in coordinates: 21863 is ZIP code (index) of Snow Hill, MD in USA [[4]](https://www.unitedstateszipcodes.org/21863/). That instantly gives: "snow", "hill", "city", "town", "code", "mail" keys. Recalling the fact that the picture contains this number in romb with arrows - someone could go further and see that roads around the city forms the romb AND the road MD12 goes through the city (through the romb) exactly or very likely as drawn on the picture by two arrows. So another option here is "md12", "road", "path". Going even further with thi idea - i have found that there is a mine not far by the md12 road [[5]](https://thediggings.com/places/md0472391417/map) - somewhere close to the bolder arrow on the picture.
 
 ![Snow HIll MD12 - ZIP 21863](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL3/pics/MD12.png)
 
@@ -80,7 +80,7 @@ Someone could also look for the block number 21863 - but there is nothing intere
 ## 3-rd key
 ![3-rd key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL3/pics/3.png )
 
-This picture was directly hinted by the @Tiamat. "With N.1.7.0.0 release, third pic became obsolete". It is very likely related to Arweave sources [6'](https://github.com/ArweaveTeam/arweave/releases), especially N.1.7.0.0 release [6](https://github.com/ArweaveTeam/arweave/releases/tag/N.1.7.0.0). The most interesting part of this release comments (readme) are the following:
+This picture was directly hinted by the @Tiamat. "With N.1.7.0.0 release, third pic became obsolete". It is very likely related to Arweave sources [[6']](https://github.com/ArweaveTeam/arweave/releases), especially N.1.7.0.0 release [[6]](https://github.com/ArweaveTeam/arweave/releases/tag/N.1.7.0.0). The most interesting part of this release comments (readme) are the following:
 
 ```
 We're very happy to announce the N.1.7.0.0 release of the Arweave node!
@@ -128,7 +128,7 @@ Finally, i'd consider the next keys here: ASIC, a384, -384, a256, -256, hash, mi
 This pic was mentioned in a small talk in discord between @Tiamat and one of the developers. That talk is not very helpful (given above).
 Anyway, the first thing came to mind is AR transaction or AR coin transaction or swap procedure or selling or just pointing to the price or cost. Also, should be noted that transaction in AR bring\store the data.
 
-Some could propose LOKI or SILO here (arweave product) [7](https://arweave.medium.com/building-silo-a-truly-private-internet-556c860222ca) - just look at picture in article
+Some could propose LOKI or SILO here (arweave product) [[7]](https://arweave.medium.com/building-silo-a-truly-private-internet-556c860222ca) - just look at picture in article
 
 ![LOKI - SILO](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL3/pics/LOKI_SILO.png)
 
@@ -137,7 +137,7 @@ Finally, i'd consider the next keys here: artx, LOKI, SILO, coin, cash, data, co
 ## 5-th key
 ![5-th key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL3/pics/5.png )
 
-One may notice here the map of SCANdinavia or more like Denmark, Norway, Sweden (DNS). And first things could be reasoned here: it is SCAN or PORT that is used in Arweave node that is 1984. Some others propose here LOKI from Scandinavian mythology that is also a name of " a decentralised network" that collaborated with Arweave in "the creation of SILO" (one of arweave product) [7](https://arweave.medium.com/building-silo-a-truly-private-internet-556c860222ca).
+One may notice here the map of SCANdinavia or more like Denmark, Norway, Sweden (DNS). And first things could be reasoned here: it is SCAN or PORT that is used in Arweave node that is 1984. Some others propose here LOKI from Scandinavian mythology that is also a name of " a decentralised network" that collaborated with Arweave in "the creation of SILO" (one of arweave product) [[7]](https://arweave.medium.com/building-silo-a-truly-private-internet-556c860222ca).
 
 Finally, i'd consider the next keys here: scan, port, 1984, silo, loki, " dns", luck, ...
 
@@ -146,7 +146,7 @@ Finally, i'd consider the next keys here: scan, port, 1984, silo, loki, " dns", 
 
 Thats the tree. Interesting fact - it seems to have 4 roots, 4 branches, 32 leafs. @Tiamat mentioned this: " It's not my fault that people see a tree with - - - -  and they actually type TREE and expect to unlock.".
 
-Well, not gonna judge his statement, but he said #3 should be very easy, so the option TREE was on my list before i've found that discord statement made by him. Tree could symbolize the graph or tree-like data structure. So it could be data, root, node or their alliases like "beam" (the is the name of the node program or daemon - correct me if i wrong). Also it could be Arweave-Sparse Merkle Tree (ASMT). Look this page stored in arweave for example [8](https://5ykygzjsftdm7ri7dutxuj45jiabjs7mvidaw5gaqbvcwkwm7wlq.arweave.net/7hWDZTIsxs_FHx0neiedSgAUy-yqBgt0wIBqKyrM_Zc
+Well, not gonna judge his statement, but he said #3 should be very easy, so the option TREE was on my list before i've found that discord statement made by him. Tree could symbolize the graph or tree-like data structure. So it could be data, root, node or their alliases like "beam" (the is the name of the node program or daemon - correct me if i wrong). Also it could be Arweave-Sparse Merkle Tree (ASMT). Look this page stored in arweave for example [[8]](https://5ykygzjsftdm7ri7dutxuj45jiabjs7mvidaw5gaqbvcwkwm7wlq.arweave.net/7hWDZTIsxs_FHx0neiedSgAUy-yqBgt0wIBqKyrM_Zc
 ).
 
 
@@ -155,7 +155,7 @@ Well, not gonna judge his statement, but he said #3 should be very easy, so the 
 
 Many solvers got stuck on this picture, but i clearly see the easy answer here: it are letters U, p, L, L, that could form PULL (that can also be represented by its sound like pool).
 
-Some think that it could be a point to UpVest that invested in arweave some funds [9](https://support.upvest.co/support/solutions/folders/47000738293)
+Some think that it could be a point to UpVest that invested in arweave some funds [[9]](https://support.upvest.co/support/solutions/folders/47000738293)
 
 Finally, i'd consider the next keys here: pull,  pool, vest, node, fork, luck,...
 
