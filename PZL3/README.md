@@ -12,12 +12,15 @@ Puzzle consists of the HTML page (sources also attached in this git - but could 
 # The official hints given by the puzzle creator are listed below:
 
     From Twitter:
+    
 ```	
 1] Did anybody count the dots?
 
 2] With N.1.7.0.0 release, third pic became obsolete 😉
 ```    
+
 	From discord:
+	
 ```
 3] You'd be surprised how easy #3 is
 
