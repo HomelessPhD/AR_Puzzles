@@ -169,9 +169,12 @@ Finally, i'd consider the next keys here: base, data, apps, dapp, star, cost, co
 
 # "Exotic" ideas
 
+1) I suppose, all the puzzle could be related to Arweave project [[10]](https://arweave.news/what-is-arweave-ar/),[[10']](https://arwiki.wiki/#/en/main) or even more convrete - the mining. Fresh article about Arweave mining could be found here [[10'']](https://arwiki.wiki/#/en/arweave-mining)
+2) I have posted in twitter [[11]](https://twitter.com/miningpredict) an exotic idea - all 8 "keys" should form one sentence. More
+
 `TO BE WRITTEN VERY SOON (day or two i will fill this section)`
 
-# Brute-Force - "that's impossible (?!)" [10](https://www.youtube.com/watch?v=6ixvpLCdqkA)
+# Brute-Force - "that's impossible (?!)" [12](https://www.youtube.com/watch?v=6ixvpLCdqkA)
 ![Its necessary](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL3/pics/Cooper_necessary.gif)
 ![brute it TARS!!!](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL3/pics/interstellar-cooper.gif)
 
@@ -209,7 +212,14 @@ I have read all Tiamat posts in discord. ENGLISH is not my native, i am tired af
 
 [9] UpVest invested in Arweave - https://support.upvest.co/support/solutions/folders/47000738293
 
-[10] "that's impossible (?!) no it's necessary"  - https://www.youtube.com/watch?v=6ixvpLCdqkA
+[10] AR - https://arweave.news/what-is-arweave-ar/
+[10'] AR - https://arwiki.wiki/#/en/main
+[10''] AR mining - https://arwiki.wiki/#/en/arweave-mining
+
+[11] MiningPredict (my twitter page) - https://twitter.com/miningpredict
+
+[12] "that's impossible (?!) no it's necessary"  - https://www.youtube.com/watch?v=6ixvpLCdqkA
+
 
 -------------------------------------------------------------------------
 ### Support
