@@ -73,7 +73,7 @@ The first thing the solvers usually do here is googling this number "21863" that
 
 Another interesting idea about this picture - "21863" missing the "0". In other words - it is a date: 2018\06\03 that could be interpreted as Arweave ICO date for example, that also give "date", "fund" keys.
 
-Finally, i'd consider the next keys here: md12, mine, mail, path, road, main, link, text, code, hash, fund, date, towm city, hill, snow, data, mark, luck, ...
+Finally, i'd consider the next keys here: `md12, mine, mail, path, road, main, link, text, code, hash, fund, date, towm city, hill, snow, data, mark, luck, ...`
 
 Someone could also look for the block number 21863 - but there is nothing interesting about it. (sure, many complex manipulations could be done with block data - but that is a dead end).
 
@@ -120,7 +120,7 @@ Reliability and operations improvements
 Recalling that picture likely to image the mining process and contains two letters "SH", the next ideas instantly come to mind:
 "ASIC" (the mining algorithm has been changed from sha384 to RandomX that should have helped ordinary miners in their battle with ASICS), "a384" or "-384"  that stands form SHA 384 that is an old mining algorithm the was replaced by RandomX in this release. Also, HTTP server Ellis were replaced with Cowboy. And some IPFS arrangements as well.
  
-Finally, i'd consider the next keys here: ASIC, a384, -384, a256, -256, hash, mine, farm, earn, gpus, Elli, IPFS, luck, ...
+Finally, i'd consider the next keys here: `ASIC, a384, -384, a256, -256, hash, mine, farm, earn, gpus, Elli, IPFS, luck, ...`
 
 ## 4-th key
 ![4-th key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL3/pics/4.png )
@@ -132,14 +132,14 @@ Some could propose LOKI or SILO here (arweave product) [[7]](https://arweave.med
 
 ![LOKI - SILO](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL3/pics/LOKI_SILO.png)
 
-Finally, i'd consider the next keys here: artx, LOKI, SILO, coin, cash, data, cost, rate, swap, sell, list, view, arql, luck, ...
+Finally, i'd consider the next keys here: `artx, LOKI, SILO, coin, cash, data, cost, rate, swap, sell, list, view, arql, luck, ...`
 
 ## 5-th key
 ![5-th key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL3/pics/5.png )
 
 One may notice here the map of SCANdinavia or more like Denmark, Norway, Sweden (DNS). And first things could be reasoned here: it is SCAN or PORT that is used in Arweave node that is 1984. Some others propose here LOKI from Scandinavian mythology that is also a name of " a decentralised network" that collaborated with Arweave in "the creation of SILO" (one of arweave product) [[7]](https://arweave.medium.com/building-silo-a-truly-private-internet-556c860222ca).
 
-Finally, i'd consider the next keys here: scan, port, 1984, silo, loki, " dns", luck, ...
+Finally, i'd consider the next keys here: `scan, port, 1984, silo, loki, " dns", luck, ...`
 
 ## 6-th key
 ![6-th key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL3/pics/6.png )
@@ -149,6 +149,7 @@ Thats the tree. Interesting fact - it seems to have 4 roots, 4 branches, 32 leaf
 Well, not gonna judge his statement, but he said #3 should be very easy, so the option TREE was on my list before i've found that discord statement made by him. Tree could symbolize the graph or tree-like data structure. So it could be data, root, node or their alliases like "beam" (the is the name of the node program or daemon - correct me if i wrong). Also it could be Arweave-Sparse Merkle Tree (ASMT). Look this page stored in arweave for example [[8]](https://5ykygzjsftdm7ri7dutxuj45jiabjs7mvidaw5gaqbvcwkwm7wlq.arweave.net/7hWDZTIsxs_FHx0neiedSgAUy-yqBgt0wIBqKyrM_Zc
 ).
 
+Finally, i'd consider the next keys here: `tree, root, ASMT, node, byte, data, beam, luck, ...`
 
 ## 7-th key
 ![7-th key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL3/pics/7.png )
@@ -157,20 +158,23 @@ Many solvers got stuck on this picture, but i clearly see the easy answer here: 
 
 Some think that it could be a point to UpVest that invested in arweave some funds [[9]](https://support.upvest.co/support/solutions/folders/47000738293)
 
-Finally, i'd consider the next keys here: pull,  pool, vest, node, fork, luck,...
+Finally, i'd consider the next keys here: `pull,  pool, vest, node, fork, luck,...`
 
 ## 8-th key
 ![8-th key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL3/pics/8.png )
 
 The last one is tricky, but seems to be mentioned by @Tiamat in his official twitter hints: " Did anybody count the dots?". Considering he pointed the picture 8 only and all black object on it, it results in 58 "dots". The base58 encoding is a typical in cryptosphere, so BASE could be mean here.
 
-Finally, i'd consider the next keys here: base, data, apps, dapp, star, cost, code, luck,...
+Finally, i'd consider the next keys here: `base, data, apps, dapp, star, cost, code, luck,...`
 
 
 # "Exotic" ideas
 
 1) I suppose, all the puzzle could be related to Arweave project [[10]](https://arweave.news/what-is-arweave-ar/),[[10']](https://arwiki.wiki/#/en/main) or even more convrete - the mining. Fresh article about Arweave mining could be found here [[10'']](https://arwiki.wiki/#/en/arweave-mining)
-2) I have posted in twitter [[11]](https://twitter.com/miningpredict) an exotic idea - all 8 "keys" should form one sentence. More
+2) I have posted in twitter [[11]](https://twitter.com/miningpredict) an exotic idea - all 8 "keys" should form one sentence. Moreover, some words or symbols typed in __ __ __ __ placeholders could decay to pieces forming several words with its neighboards. Just look at an example below:
+![idea?](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL3/pics/idea.png)
+
+4) 
 
 `TO BE WRITTEN VERY SOON (day or two i will fill this section)`
 
