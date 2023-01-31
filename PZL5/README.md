@@ -42,9 +42,9 @@ Finally, i consider the next keys: `"a", "A", "x", "X", "*", ".", "0", "1", " ",
 
 ## 2-nd key
 ![2-nd key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL5/pics/2.png )
-This images the mashroom and butterfly.
+This images the mushroom and butterfly. Could be coded by first letters as `mb` or `MB` or `Mb` (yeah, like megabyte, hmm). Also could be coded by length of words: `89`.
 
-Finally, i'd consider the next keys here: `md12, mine, mail, path, road, main, link, text, code, hash, fund, date, towm city, hill, snow, data, mark, luck, ...`
+Finally, i'd consider the next keys here: `mb, Mb, MB, 89, sh, ...`
 
 
 ## 3-rd key
@@ -53,6 +53,10 @@ Here are the general idea about what picture representes the key # 3 - the shini
 
 ..., BUT, it is not on the dash line path. In contrast, the top of the tree is on the dashed line path
 ![optional 3-rd key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL5/pics/3_possible.png )
+
+Considering the first option, most of us would guess the MoonLight sonata composed by Ludwig van Beethoven [[4]](https://musescore.com/classicman/scores/55352). 
+![moonlight sonata](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL5/pics/moon_light_sonata.png )
+
 
 Finally, i'd consider the next keys here: `...`
 
@@ -152,7 +156,7 @@ https://twitter.com/arweavep/status/1135460147881529344
 
 [3] Telegram group of Arweave puzzles solvers community - @arweavep
 
-
+[4] Moonlight sonata by Ludwig van Beethoven - https://musescore.com/classicman/scores/55352
 
 [11] MiningPredict (my twitter page) - https://twitter.com/miningpredict
 
