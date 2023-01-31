@@ -100,7 +100,7 @@ Finally, i'd consider the next keys here: `"Picasso"`,`"picasso"`, `...`
 
 # "Exotic" ideas
 
-1] I also considered the idea to represent all keys (inputs) as Unicode characters (taking the unicode for each symbol i recognise). For example, here is the dove of peace “🕊” (U+1F54A) [[9]] (https://www.compart.com/en/unicode/U+1F54A) - 7 symbols occupied ideally. For shorter cases some symbols from unicode represantation could be removed (like U, or U+ or zeroes).
+1] I also considered the idea to represent all keys (inputs) as Unicode characters (taking the unicode for each symbol i recognise). For example, here is the dove of peace “🕊” (U+1F54A) [[9]](https://www.compart.com/en/unicode/U+1F54A) - 7 symbols occupied ideally. For shorter cases some symbols from unicode represantation could be removed (like U, or U+ or zeroes).
 
 `to be continued`
 
