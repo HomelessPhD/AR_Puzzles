@@ -177,7 +177,7 @@ Finally, i'd consider the next keys here: `base, data, apps, dapp, star, cost, c
 ![idea?](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL3/pics/idea.png)
 
 3) Some telegram member assumed, that each picture could somehow be related to symbols on the PC keyboard: `1 - "!", 2 - "@", 3 - "#", 4 - "$", 5 - "%", 6 - "^", 7 - "&", 8 - "*"`
-Should say, that this idea seems very funny and same time interesting. "!" - could be related to company anouncement (may be year or date),  @ could be related to emails or just mail, # is for hashing, $ - even presented on the picture itself and could be related to cash or cost or sell and swap or rate ..., % - rate (no great ideas here, maybe its from controlling symbols), ^ - top of the tree or fork or root etc., & - could be related to pools where miner & miner & miner ... do the work (lol), * - points even drawn on that picture but could be related to star or "luck" (anything). 
+Should say, that this idea seems very funny and same time interesting. `"!"` - could be related to company anouncement (may be year or date),  `"@"` could be related to emails or just mail, `"#"` is for hashing, `"$"` - even presented on the picture itself and could be related to cash or cost or sell and swap or rate ..., `"%"` - rate (no great ideas here, maybe its from controlling symbols), `"^"` - top of the tree or fork or root etc., `"&"` - could be related to pools where miner & miner & miner ... do the work (lol), `"*"` - points even drawn on that picture but could be related to star or "luck" (anything). 
 
 
 `to be continued`
