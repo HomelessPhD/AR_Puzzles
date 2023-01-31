@@ -240,5 +240,5 @@ P.S. Successfully evacuated from occupied regions of Ukraine.
 
 **DOGE**: `DQvfzvVyb4tnBpkd3DRUfbwJjgPSjadDTb`
 
-**AR**: 0UM6uoLrrnxXuYpHMBDAv-6txNTMdaEkR2m_bP_1HyE
+**AR**: `0UM6uoLrrnxXuYpHMBDAv-6txNTMdaEkR2m_bP_1HyE`
 (have never used Arweave wallet)
