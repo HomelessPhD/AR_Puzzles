@@ -136,7 +136,7 @@ Anyway, with my JS approach i bruted a million inputs per day - and no success.
 
 Thank you for spending time on my notes, i hope it was not totally useless and you've found something interesting. 
 
-Any ideas\questions or propositions you may send to generalizatorSUB@gmail.com - also look at my twitter [[11]] (https://twitter.com/miningpredict) @MiningPredict.
+Any ideas\questions or propositions you may send to generalizatorSUB@gmail.com - also look at my twitter [[11]](https://twitter.com/miningpredict) @MiningPredict.
 
 -------------------------------------------------------------------------
 ### References:
