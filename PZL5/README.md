@@ -35,10 +35,14 @@ There are pretty "classic" ideas of what each image could code, but also there a
 ## 1-st key
 ![1-st key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL5/pics/1.png )
 
-Finally, i consider the next keys: `....`
+It seemed to be an entry point of this Scavanger Hunt because it has an arrow that indicates the direction onto the dashed line. The input placeholder for this likely to be just one symbol length. The @Tiamat hinted this key directly: `"x" on paper = what on computer?"`. But its again too vague to understand. The first idea came to mind here is to interpret this "x" as multiplication and so on pc it could be: `"*"`, `"."`, `"x"`, but also it could mean the number 10 in Roman numerals and them it could be represented by hexadeciaml 10: `"a", "A"`. It also could be `"0"` or `"1"` or even space `" "`, if it means some kind of placeholder for your choice (so on PC it was empty but on paper some placed x in negative meaning).
+
+
+Finally, i consider the next keys: `"a", "A", "x", "X", "*", ".", "0", "1", " ",....`
 
 ## 2-nd key
 ![2-nd key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL5/pics/2.png )
+This images the mashroom and butterfly.
 
 Finally, i'd consider the next keys here: `md12, mine, mail, path, road, main, link, text, code, hash, fund, date, towm city, hill, snow, data, mark, luck, ...`
 
