@@ -42,7 +42,7 @@ Finally, i consider the next keys: `"a", "A", "x", "X", "*", ".", "0", "1", " ",
 
 ## 2-nd key
 ![2-nd key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL5/pics/2.png )
-This images the mushroom and butterfly. Could be coded by first letters as `mb` or `MB` or `Mb` (yeah, like megabyte, hmm). Also could be coded by the length of words: `89`.
+This images the mushroom and butterfly. Could be coded by first letters as `mb` or `MB` or `Mb` (yeah, like megabyte, hmm). Also could be coded by the length of words: `89` (`"It also can be a number."` remember?).
 
 Finally, i'd consider the next keys here: `"mb", "Mb", "MB", "89", "sh", ...`
 
@@ -73,6 +73,8 @@ Finally, i'd consider the next keys here: `"Eris"`,`"eris"`,`"ERIS"`,`"Elli"`,`"
 
 ## 5-th key
 ![5-th key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL5/pics/5.png )
+Taking @Tiamat hint about the tree: `"For GoT fans, the tree should ring a bell 🤐"` the banner on hte shield on this picture could be treated as Umber banner [[7]](https://gameofthrones.fandom.com/wiki/House_Umber):
+![Umber banner](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL5/pics/Umber_banner.png )
 
 Finally, i'd consider the next keys here: ` ...`
 
@@ -167,6 +169,8 @@ https://twitter.com/arweavep/status/1135460147881529344
 [5] Moonlight sonata by Ludwig van Bethoven (first keys) https://www.youtube.com/watch?v=TNWMSo2y2L8
 
 [6] Eris - https://en.wiktionary.org/wiki/Eris
+
+[7] Umber house from GoT - https://gameofthrones.fandom.com/wiki/House_Umber
 
 [11] MiningPredict (my twitter page) - https://twitter.com/miningpredict
 
