@@ -66,7 +66,10 @@ Finally, i'd consider the next keys here: `"N14"`,`"#14"`,`"n14"`,`"o27"`,`"O27"
 ## 4-th key
 ![4-th key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL5/pics/4.png )
 
-Finally, i'd consider the next keys here: `...`
+As a Ukrainian\Russian native speaker, the first thing i see here is cyrilic letter `ж`. But more likely it is the Eris symbol [[6]](https://en.wiktionary.org/wiki/Eris)
+![moonlight sonata](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL5/pics/Eris_symbol.png )
+
+Finally, i'd consider the next keys here: `"Eris"`,`"eris"`,`"ERIS"`,`"Elli"`,`"elli"`,`...`
 
 ## 5-th key
 ![5-th key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL5/pics/5.png )
@@ -163,6 +166,7 @@ https://twitter.com/arweavep/status/1135460147881529344
 
 [5] Moonlight sonata by Ludwig van Bethoven (first keys) https://www.youtube.com/watch?v=TNWMSo2y2L8
 
+[6] Eris - https://en.wiktionary.org/wiki/Eris
 
 [11] MiningPredict (my twitter page) - https://twitter.com/miningpredict
 
