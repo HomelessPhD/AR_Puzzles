@@ -86,32 +86,32 @@ Tiamat (the puzzle creator) has defended the puzzle from blind bruteforce. The w
 
 ```
 ....
-decodewallet(t,e){
-    for(var i = CryptoJS.SHA512(e), n = 0; n < 11512; n++)
-	    i = CryptoJS.SHA512(i);
+function decodewallet(t,e)
+{
+    for(var i=CryptoJS.SHA512(e),n=0;n<11512;n++)
+	    i=CryptoJS.SHA512(i);
 		
-	CryptoJS.algo.AES.keySize = 32, CryptoJS.algo.EvpKDF.cfg.iterations=1e4, CryptoJS.algo.EvpKDF.cfg.keySize=32;
+	CryptoJS.algo.AES.keySize=32,CryptoJS.algo.EvpKDF.cfg.iterations=1e4,CryptoJS.algo.EvpKDF.cfg.keySize=32;
 	var r = CryptoJS.AES.decrypt(t,i.toString());
+	
 	return out=hex2a(r),out
 }
 ....
 
-var msg="U2FsdGVkX18fDw....<LOTS OF SYMBOLS - SEE THE SOURCES>"
+var msg="U2FsdGVkX1+E2/9....<LOTS OF SYMBOLS - SEE THE SOURCES>"
 
 function proceed() {
-        var x = document.getElementsByClassName("inputs");
-	var code = "";
-	for (var i=0; i < x.length; i++)
-	        code+ = x[i].value;
-		
-	code = code.toLowerCase();
-        a = decodewallet(msg, code);
-	
-        if (a.search('"kty":"RSA"')>-1) {
-                document.getElementById('dstatus').innerHTML="SUCCESS";
-                download("arweave_keyfile_wHP6OPG5GMF5dedo_CD8AAy6x8La-gfI5b5pk65Tx_0.json",a);
-        }
-        else document.getElementById('dstatus').innerHTML="FAILED";
+	var x = document.getElementsByClassName("inputs");
+        var code="";
+        for (var i=0;i<x.length;i++)
+                code+=x[i].value;
+
+	a=decodewallet(msg,code);
+	if (a.search('"kty":"RSA"')>-1) {
+		document.getElementById('dstatus').innerHTML="SUCCESS";
+		download("arweave_keyfile_G2BaxD9phYHJ55VaEY-aX28FtQCKLORMMQSc74IaqYg.json",a);
+	}
+	else document.getElementById('dstatus').innerHTML="FAILED";
 }
 
 ```
