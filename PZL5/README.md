@@ -83,14 +83,18 @@ Finally, i'd consider the next keys here: `"Umber"`, `"umber'`, `"amber"`,`"Ambe
 ## 6-th key
 ![6-th key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL5/pics/6.png )
 
-This is ... piece of wood?! So - `"lamber"`, `"Lumber"`, `"timber"`, `"Timber"`. Some assume it point us to the logarithm of some number... but i dont know how to relate it with other puzzle parts though.
+This is ... piece of wood?! So - `"lumber"`, `"Lumber"`, `"timber"`, `"Timber"`. Some assume it points us to the logarithm of some number... but i dont know how to relate it with other puzzle parts though.
 
-Finally, i'd consider the next keys here: `"lamber"`, `"Lumber"`, `"timber"`, `"Timber"`, `...`
+Finally, i'd consider the next keys here: `"lumber"`, `"Lumber"`, `"timber"`, `"Timber"`, `...`
 
 ## 7-th key
 ![7-th key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL5/pics/7.png )
 
-Finally, i'd consider the next keys here: `...`
+Most would relate this to Pablo Picasso [[8]](https://en.wikipedia.org/wiki/Pablo_Picasso) painting - "The dove of peace".
+
+![Picasso - The dove of peace ](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL5/pics/dove_of_peace.png )
+
+Finally, i'd consider the next keys here: `"Picasso"`,`"picasso"`, `...`
 
 
 
@@ -175,6 +179,8 @@ https://twitter.com/arweavep/status/1135460147881529344
 [6] Eris - https://en.wiktionary.org/wiki/Eris
 
 [7] Umber house from GoT - https://gameofthrones.fandom.com/wiki/House_Umber
+
+[8] Pablo Picasso - https://en.wikipedia.org/wiki/Pablo_Picasso
 
 [11] MiningPredict (my twitter page) - https://twitter.com/miningpredict
 
