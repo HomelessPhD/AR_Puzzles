@@ -42,13 +42,13 @@ Finally, i consider the next keys: `"a", "A", "x", "X", "*", ".", "0", "1", " ",
 
 ## 2-nd key
 ![2-nd key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL5/pics/2.png )
-This images the mushroom and butterfly. Could be coded by first letters as `mb` or `MB` or `Mb` (yeah, like megabyte, hmm). Also could be coded by length of words: `89`.
+This images the mushroom and butterfly. Could be coded by first letters as `mb` or `MB` or `Mb` (yeah, like megabyte, hmm). Also could be coded by the length of words: `89`.
 
 Finally, i'd consider the next keys here: `mb, Mb, MB, 89, sh, ...`
 
 
 ## 3-rd key
-Here are the general idea about what picture representes the key # 3 - the shining moon with a notes...
+Here are the general idea about what picture representes key # 3 - the shining moon with a notes...
 ![3-rd key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL5/pics/3.png )
 
 ..., BUT, it is not on the dash line path. In contrast, the top of the tree is on the dashed line path
@@ -57,8 +57,11 @@ Here are the general idea about what picture representes the key # 3 - the shini
 Considering the first option, most of us would guess the MoonLight sonata composed by Ludwig van Beethoven [[4]](https://musescore.com/classicman/scores/55352). 
 ![moonlight sonata](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL5/pics/moon_light_sonata.png )
 
+Moonlight sonate could be encoded using 3 symbols as the following: `N14`,`#14`,`n14`,`o27`,`O27`,`c#m`,`C#M`,`LbB`,`LVB`,`lvb`,`GCE`,`gce`. [[5]](https://www.youtube.com/watch?v=TNWMSo2y2L8)
 
-Finally, i'd consider the next keys here: `...`
+Considering the second option, i could assume here `top` or `tip` or  (top of the tree - actually crown it is)
+
+Finally, i'd consider the next keys here: `N14`,`#14`,`n14`,`o27`,`O27`,`c#m`,`C#M`,`LbB`,`LVB`,`lvb`,`GCE`,`gce`,`top`,`tip`,`...`
 
 ## 4-th key
 ![4-th key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL5/pics/4.png )
@@ -157,6 +160,9 @@ https://twitter.com/arweavep/status/1135460147881529344
 [3] Telegram group of Arweave puzzles solvers community - @arweavep
 
 [4] Moonlight sonata by Ludwig van Beethoven - https://musescore.com/classicman/scores/55352
+
+[5] Moonlight sonata by Ludwig van Bethoven (first keys) https://www.youtube.com/watch?v=TNWMSo2y2L8
+
 
 [11] MiningPredict (my twitter page) - https://twitter.com/miningpredict
 
