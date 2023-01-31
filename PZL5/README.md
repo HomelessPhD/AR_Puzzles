@@ -18,9 +18,13 @@ Puzzle consists of the HTML page (sources also attached in this git - but could 
 ```
     From Twitter:
     
-1] Did anybody count the dots?
+1] "x" on paper = what on computer?
 
-2] With N.1.7.0.0 release, third pic became obsolete 😉
+2] Someone asked: "What word can be on 2 letters ?" And the puzzle creator answered: "It also can be a number."
+
+3] For GoT fans, the tree should ring a bell 🤐
+
+4] The list of unsolved #Arweave puzzles ordered by difficulty probably looks like: 3, 9, 8, 5 ,7
 ```    
 
 Some ideas came to my mind, others were captured from Twitter or\and the telegram group [[3]](@arweavep) - you definitely should visit it for ideas sharing.
