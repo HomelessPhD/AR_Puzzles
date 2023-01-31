@@ -67,7 +67,7 @@ Finally, i'd consider the next keys here: `"N14"`,`"#14"`,`"n14"`,`"o27"`,`"O27"
 ![4-th key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL5/pics/4.png )
 
 As a Ukrainian\Russian native speaker, the first thing i see here is cyrilic letter `ж`. But more likely it is the Eris symbol [[6]](https://en.wiktionary.org/wiki/Eris)
-![moonlight sonata](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL5/pics/Eris_symbol.png )
+![Eris symbol](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL5/pics/Eris_symbol.png )
 
 Finally, i'd consider the next keys here: `"Eris"`,`"eris"`,`"ERIS"`,`"Elli"`,`"elli"`,`...`
 
