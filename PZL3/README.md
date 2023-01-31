@@ -276,6 +276,7 @@ I have read all Tiamat posts in discord. ENGLISH is not my native, i am tired af
 [12] "that's impossible (?!) no it's necessary"  - https://www.youtube.com/watch?v=6ixvpLCdqkA
 
 [13] CryptoJS bug - https://github.com/brix/crypto-js/issues/293
+
 -------------------------------------------------------------------------
 ### Support
 I am poor Ukrainian student that will really appreciate any donations.
