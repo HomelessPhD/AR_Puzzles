@@ -186,6 +186,53 @@ Should say, that this idea seems very funny and same time interesting. `"!"` - c
 ![Its necessary](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL3/pics/Cooper_necessary.gif)
 ![brute it TARS!!!](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL3/pics/interstellar-cooper.gif)
 
+Tiamat (the puzzle creator) has defended the puzzle from blind bruteforce. The wallet JSON string (that contains the private key) AES-encrypted by 512 bit pass-key. The 512 bit pass-key is a result of 11512 sequential SHA512 evaluations of the "keys" typed by the user - better look page sources or code snippet below.
+
+```
+....
+decodewallet(t,e){
+    for(var i = CryptoJS.SHA512(e), n = 0; n < 11512; n++)
+	    i = CryptoJS.SHA512(i);
+		
+	CryptoJS.algo.AES.keySize = 32, CryptoJS.algo.EvpKDF.cfg.iterations=1e4, CryptoJS.algo.EvpKDF.cfg.keySize=32;
+	var r = CryptoJS.AES.decrypt(t,i.toString());
+	return out=hex2a(r),out
+}
+....
+
+var msg="U2FsdGVkX18fDw....<LOTS OF SYMBOLS - SEE THE SOURCES>"
+
+function proceed() {
+        var x = document.getElementsByClassName("inputs");
+	var code = "";
+	for (var i=0; i < x.length; i++)
+	        code+ = x[i].value;
+		
+	code = code.toLowerCase();
+        a = decodewallet(msg, code);
+	
+        if (a.search('"kty":"RSA"')>-1) {
+                document.getElementById('dstatus').innerHTML="SUCCESS";
+                download("arweave_keyfile_wHP6OPG5GMF5dedo_CD8AAy6x8La-gfI5b5pk65Tx_0.json",a);
+        }
+        else document.getElementById('dstatus').innerHTML="FAILED";
+}
+
+```
+First, the bruteforce of the inputs is slown down by 11512 SHA512 + AES decryption. On a typical CPU you could expect around 0.5 sec for one thread (or CPU core) to compute this decrypting in browser (javascript that is in the original page) 
+
+The Second problem - javascript library CryptoJS used here for computing AES decrypting: seems like it has a bug\feature that makes its results unique for some cases. Thus, using 512-bit key the CryptoJS AES gives the result that the typical AES library - not [[13]](https://github.com/brix/crypto-js/issues/293) and so to build some efficient brute force instrument, the coder will need at least to adjust the AES library he use to follow CryptoJS ruined logic. At least, that is how i see it now.
+
+In general, the list of answers to try on this puzzle could be all possible combinations of all allowed symbols that will result in a huge list (assume all numbers {0-9}, letters{a-z}, special chars {,.\|+=...} ~ 50 different symbols or so) == `50^32 ~ 10^54` but that unreal to be brutted even if some efficient code will brute this task on all bitcoin ASICS on the plannet with their typical hashing speed.
+
+Usually, the solver who wants to try to apply brute force here will compose a dictionary of possible "keys" - inputs. All "keys" or inputs mentioned in this README and probably all 4-letter words and abbreviations or terms mentioned on Arweave materials (including twitter, telegram, discord, promo materials, ..., Britain enyclopedia, whatever) - see extramaterials attached in this git. Typically, such a dictionary will be still huge for bruteforce on reasonable resource with the code we have - some of a core telegram members stated to try trillions of combinations on their PCs using some effective code (cant confirm the code efficience and\or correctness). And so, words for brute should be filtered. 
+
+The ideal bruteforce program, i guess, will consist of two parts: the first will compose a list of inputs and - precompute the 11512 SHA512 hashing of the inputs; the second will compute AES with the resulted 512 bit keys and compare the result with "kty":"RSA" substring. The work could be done in chunks: portion of the dictionary transformed into 512-key and transfered for AES evaluation - to resolve problem of memory and probably to paralelize the work in a more efficient manner. SHA512 is easy part while AES is a problem due to mentioned "bug\feature" of CryptoJS lib.
+
+I have composed a simple JavaScript code to do a bruteforce just in browser - thus i could avoid of re-coding CryptoJS features and yet this solution is a snail (very slow - 0.5 sec per core on 1 input). Later i have speed up this approach precomputing sha512 key on the c-program (CPU) and it increased the speed but yet not enough to call this a WIN. JavaScript just killing all mood here. 
+
+Anyway, with my JS approach i bruted a million inputs per day - and no success.
+
 `TO BE WRITTEN VERY SOON (day or two i will fill this section)`
 
 
@@ -228,7 +275,7 @@ I have read all Tiamat posts in discord. ENGLISH is not my native, i am tired af
 
 [12] "that's impossible (?!) no it's necessary"  - https://www.youtube.com/watch?v=6ixvpLCdqkA
 
-
+[13] CryptoJS bug - https://github.com/brix/crypto-js/issues/293
 -------------------------------------------------------------------------
 ### Support
 I am poor Ukrainian student that will really appreciate any donations.
