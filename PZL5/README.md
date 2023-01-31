@@ -44,7 +44,11 @@ Finally, i'd consider the next keys here: `md12, mine, mail, path, road, main, l
 
 
 ## 3-rd key
+Here are the general idea about what picture representes the key # 3 - the shining moon with a notes...
 ![3-rd key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL5/pics/3.png )
+
+..., BUT, it is not on the dash line path. In contrast, the top of the tree is on the dashed line path
+![optional 3-rd key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL5/pics/3_possible.png )
 
 Finally, i'd consider the next keys here: `...`
 
