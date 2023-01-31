@@ -3,7 +3,7 @@
 Here i am going to publish ideas i consider about and dummy instruments related to Arweave puzzle #5.
 
 This puzzle is one from the series of Arweave Puzzles made by @Tiamat (official Arweave project discord member, apps developer, miner, early investor). Originally, puzzle posted in official @Tiamat twitter [[1]](
-https://twitter.com/arweavep/status/1135460147881529344): with hints and link to the blockchain [[2]](https://kszeqgxezf5quhzld4nhpasyilhxphclq2peqi5mrn7utxmqhwga.arweave.net/VLJIGuTJewofKx8ad4JYQs93nEuGnkgjrIt_Sd2QPYw
+https://twitter.com/arweavep/status/1135460147881529344): with hints and link to the blockchain [[2]](https://d5zw4kksq5gasg7ezkjvdpey562svcviatdltuyga43lrkexvngq.arweave.net/H3NuKVKHTAkb5MqTUbyY77UqiqgExrnTBgc2uKiXq00
 )
 
 Puzzle consists of the HTML page (sources also attached in this git - but could be found on Arweave "blockchain") page with an AES encrypted message (the Arweave wallet with **500 AR** coins on it, that is around of **5 k$** right now). The decryption mechanism is already built in page so the solver should only type the correct symbols to the 7 placeholders as show on picture below. The key to the puzzle solving is an image of "child-like scavenger hunt map" with 7 (or 8 depend on your interpretation) separated pictures\objects:
