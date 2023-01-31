@@ -18,13 +18,13 @@ in this git around this README file) code in there
 Do not forget to adjust the script for YOUr needs replacing default "keys" (inputs):
 
 ```
-var k_1 = ["icon","logo","text","name",'page',"html","link","tags","apps","http","main","hack","mail","type","luck"];  
-var k_2 = ["md12","mine","mail","hash","path","road","main","link","text","code","luck"];
-var k_3 = ["a384","-384","asic","hash","luck"];
-var k_4 = ["cash","cost","swap","cost","rate","artx" ,"sell","list","arql","view","data","luck"];
-var k_5 = [" dns","port","1984","scan","luck"];
-var k_6 = ["root","ASMT","node","byte","data","beam","luck"];
-var k_7 = ["pool","pull","vest","node","luck"];
+var k_1 = ["1","0","*","_",".","A","a"];  
+var k_2 = ["mb","Mb","MB","89"];
+var k_3 = ["Top","top","LVB","LvB","N14","n14","#14","o27","O27"];
+var k_4 = ["Eris","eris"];
+var k_5 = ["Umber","umber","Amber","amber"];
+var k_6 = ["lumber","Lumber","timber","Timber"];
+var k_7 = ["Picasso","picasso"];
 ```
 
 The script work could be easily paralelized - just open few instances of the page and make the same procedure in both, BUT adjust the parameters in script: look at variables **thr_ind** and **thr_num**.
