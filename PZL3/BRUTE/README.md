@@ -4,11 +4,13 @@
 
 Based on the idea to simply automotize the input of expected solutions on the puzzle page. It could be run simply from the puzzle page in browser:
 ```
-1) Open the puzzle #3 page in browser [[1]](https://kszeqgxezf5quhzld4nhpasyilhxphclq2peqi5mrn7utxmqhwga.arweave.net/VLJIGuTJewofKx8ad4JYQs93nEuGnkgjrIt_Sd2QPYw)
+1) Open the puzzle #3 page in browser [1]
 
-2) Turn on the developer tools (ctr+shift+I im most browsers or simply find that feature in the options menu) that will look similar to this [[2]](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools)
+2) Turn on the developer tools (ctr+shift+I im most browsers or simply find that feature in the options menu) 
+that will look similar to this [2]
 
-3) Go to the console in developer tools, and type or copy-paste the whole bruteforce JavaScript (found it attached in this git around this README file) code in there
+3) Go to the console in developer tools, and type or copy-paste the whole bruteforce JavaScript (found it attached
+in this git around this README file) code in there
 
 4) Wait till the script finish its work
 ```
@@ -40,3 +42,8 @@ page #2 script:
         var thr_num = 2;   
     ...
 ```
+
+# References
+[1] Arweave Puzzle #3 page - https://kszeqgxezf5quhzld4nhpasyilhxphclq2peqi5mrn7utxmqhwga.arweave.net/VLJIGuTJewofKx8ad4JYQs93nEuGnkgjrIt_Sd2QPYw
+
+[2] Open developers tools \ using Java Script console in Firefox - https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools
