@@ -57,31 +57,35 @@ Here are the general idea about what picture representes key # 3 - the shining m
 Considering the first option, most of us would guess the MoonLight sonata composed by Ludwig van Beethoven [[4]](https://musescore.com/classicman/scores/55352). 
 ![moonlight sonata](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL5/pics/moon_light_sonata.png )
 
-Moonlight sonate could be encoded using 3 symbols as the following: `N14`,`#14`,`n14`,`o27`,`O27`,`c#m`,`C#M`,`LbB`,`LVB`,`lvb` and `GCE`,`gce` that could represents those first three piano-keys [[5]](https://www.youtube.com/watch?v=TNWMSo2y2L8)
+Moonlight sonate could be encoded using 3 symbols as the following: `"N14"`, `"#14"`, `"n14'`, `"o27'`, `"O27"`, `"c#m"`, `"C#M"`, `"LbB"`, `"LVB"`, `"lvb"` and `"GCE'`, `"gce"`, `"gcE", "GCe"` that could represents those first three piano-keys [[5]](https://www.youtube.com/watch?v=TNWMSo2y2L8)
 
-Considering the second option, i could assume here `top` or `tip` or  (top of the tree - actually crown it is)
+Considering the second option, i could assume here `"top"` or `"tip"` or  (top of the tree - actually crown it is)
 
-Finally, i'd consider the next keys here: `"N14"`,`"#14"`,`"n14"`,`"o27"`,`"O27"`,`"c#m"`,`"C#M"`,`"LbB"`,`"LVB"`,`"lvb"`,`"GCE"`,`"gce"`,`"top"`,`"tip"`,`...`
+Finally, i'd consider the next keys here: `"N14"`, `"#14"`, `"n14"`, `"o27"`, `"O27"`, `"c#m"`, `"C#M"`, `"LbB"`, `"LVB"`, `"lvb"`, `"GCE"`, `"gce"`,`"gcE"`,`"GCe"`, `"top"`, `"tip"`,`...`
 
 ## 4-th key
 ![4-th key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL5/pics/4.png )
 
-As a Ukrainian\Russian native speaker, the first thing i see here is cyrilic letter `ж`. But more likely it is the Eris symbol [[6]](https://en.wiktionary.org/wiki/Eris)
+As a Ukrainian\Russian native speaker, the first thing i see here is cyrilic letter `"ж"`. But more likely it is the Eris symbol [[6]](https://en.wiktionary.org/wiki/Eris)
 ![Eris symbol](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL5/pics/Eris_symbol.png )
 
 Finally, i'd consider the next keys here: `"Eris"`,`"eris"`,`"ERIS"`,`"Elli"`,`"elli"`,`...`
 
 ## 5-th key
 ![5-th key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL5/pics/5.png )
-Taking @Tiamat hint about the tree: `"For GoT fans, the tree should ring a bell 🤐"` the banner on hte shield on this picture could be treated as Umber banner [[7]](https://gameofthrones.fandom.com/wiki/House_Umber):
+
+Taking @Tiamat hint about the tree: `"For GoT fans, the tree should ring a bell 🤐"` the banner on the shield on this picture could be treated as Umber banner [[7]](https://gameofthrones.fandom.com/wiki/House_Umber):
+
 ![Umber banner](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL5/pics/Umber_banner.png )
 
-Finally, i'd consider the next keys here: ` ...`
+Finally, i'd consider the next keys here: `"Umber"`, `"umber'`, `"amber"`,`"Amber'`,`"House'`,`"house"`, `...`
 
 ## 6-th key
 ![6-th key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL5/pics/6.png )
 
-Finally, i'd consider the next keys here: ` ...`
+This is ... piece of wood?! So - `"lamber"`, `"Lumber"`, `"timber"`, `"Timber"`. Some assume it point us to the logarithm of some number... but i dont know how to relate it with other puzzle parts though.
+
+Finally, i'd consider the next keys here: `"lamber"`, `"Lumber"`, `"timber"`, `"Timber"`, `...`
 
 ## 7-th key
 ![7-th key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL5/pics/7.png )
