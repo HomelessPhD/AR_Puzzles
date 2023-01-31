@@ -27,7 +27,7 @@ for (var i_8=0; i_8 < k_8.length; i_8++)
 	
 
 	var thr_ind = 1;
-	var thr_num = 6;
+	var thr_num = 1;
 	var start_ind = (thr_ind-1) * Math.ceil(code_u_arr.length / thr_num);
 	var finish_ind = Math.min(code_u_arr.length, thr_ind * Math.ceil(code_u_arr.length / thr_num));
 	console.log("ind: "+thr_ind+", start: "+start_ind+", finish: "+finish_ind);
