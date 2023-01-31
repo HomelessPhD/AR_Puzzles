@@ -23,7 +23,7 @@ for (var i_5=0; i_5 < k_5.length; i_5++)
 for (var i_6=0; i_6 < k_6.length; i_6++)
 for (var i_7=0; i_7 < k_7.length; i_7++)
 for (var i_8=0; i_8 < k_8.length; i_8++)
-    code_u_arr.push(k_1[i_1]+k_2[i_2]+k_3[i_3]+k_4[i_4]+k_5[i_5]+k_6[i_6]+k_7[i_7]+k_8[i_8]);
+    code_u_arr.push((k_1[i_1]+k_2[i_2]+k_3[i_3]+k_4[i_4]+k_5[i_5]+k_6[i_6]+k_7[i_7]+k_8[i_8]).toLowerCase());
 	
 
 	var thr_ind = 1;
