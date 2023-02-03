@@ -104,7 +104,7 @@ Finally, i'd consider the next keys here: `"Picasso"`,`"picasso"`, `...`
 
 2] Another interesting thing to look at in this puzzle the dashed line itself: it has exactly 7 segments of different sub-segments number. Could be some math hidden here?
 
-3] Some of us also see the math here or at the posibility for puzzle being math-related. The triangle remind me binomial theorem - Pascal triangle [[10]](https://en.wikipedia.org/wiki/Binomial_theorem): may it be that all placeholders should be filled with digits to form some kind of mathematical combination?
+3] Some of us also see the math here or at the posibility for puzzle being math-related. The triangle reminds me binomial theorem - Pascal triangle [[10]](https://en.wikipedia.org/wiki/Binomial_theorem): may it be that all placeholders should be filled with digits to form some kind of mathematical combination?
 
 `to be continued`
 
