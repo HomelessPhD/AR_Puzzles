@@ -58,7 +58,7 @@ There are pretty "classic" ideas of what each image could code, but also there a
 
 The firs object (key) is an image of a tree with four types of leaves: winter type (no leaves), springt type (flower or young leaves), summer type (green leaves), autumn type (yellow leaves). The hint ecnoded in page (as shown here) contains two symbols: "V*". That could mean that the answer to this part of the puzzle is some series of symbols that starts with "V". The first thing that came here to mind is `"four seasons"` - the `group of four violin concertos by Italian composer Antonio Vivaldi, each of which gives musical expression to a season of the year` [[5]](https://en.wikipedia.org/wiki/The_Four_Seasons_(Vivaldi)). The hint maid by @Tiamat (puzzle developer) in his message on AR blockchain kind of supports this way of thinking. So, the probable answer here is `"Vivaldi"` itself, right?
 
-Finally, i consider the next keys: `"Vivaldi", "vivaldi", ....`
+Finally, i consider the next keys: `"Vivaldi"`, `"vivaldi"`, `"AntonioLucioVivaldi"`, `"AntonioVivaldi"`, `"Antonio"`, `"music"`, `"violin"`, `....`
 
 ## 2-nd key
 ![2-nd key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL7/pics/2.png )
@@ -69,7 +69,7 @@ Some try to compose here a word like in child riddles: `"Pi"`+ `"ta"` (half of a
 
 Other noticing here the key objects form the `"Life of Pi"` novel\film [[6]](https://en.wikipedia.org/wiki/Life_of_Pi_(film)): "...The storyline revolves around two survivors of a shipwreck who are on a lifeboat stranded `in the Pacific Ocean` for 227 days. One is a sixteen-year-old Indian boy named `Pi` Patel (Suraj Sharma) and the other is a ferocious Bengal tiger named Richard Parker... One night, a humpback `whale` destroys the raft and its supplies....". And the hint given by @Tiamat in his AR blockchain message seems like support this way of thinking. It somehow related to "Life of Pi". Another thing here to think about: we have no html-encoded hint here but there are 3 sub-parts in this image and probably `3` could be considered here is a hint (jsut a crazy idea to think about) - it could be 3 words for example (Life + of + Pi). So, i'd consider here some life of Pi related words or names. For example, the name of the author (Yann Martel) or real name of the tiger "Thirsty" (he was accidentally named as Richard Parker).
 
-Finally, i'd consider the next keys here: `"LifeOfPi","lifeofpi","RichardParker","richardparker","YannMartel","yannmartel","Martel","martel","Yann","yann","Thirsty","thirsty" ...`
+Finally, i'd consider the next keys here: `"LifeOfPi"`, `"lifeofpi"`, `"RichardParker"`, `"richardparker"`, `"YannMartel"`, `"yannmartel"`, `"Martel"`, `"martel"`, `"Yann"`, `"yann"`, `"Thirsty"`, `"thirsty"`, `"film"`, `"book"`, `"story"`, `...`
 
 
 ## 3-rd key
