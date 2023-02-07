@@ -45,6 +45,9 @@ Seasons, Life of Pi, Behemoth.
     
 ```
 
+* There are some extra hints coded in page - some picture\objects shows the small textual hint when the mouse cursor points them at (shown in details below).
+
+
 Some ideas came to my mind, others were captured from Twitter or\and the telegram group [[4]](@arweavep) - you definitely should visit it for ideas sharing.
 (at first few months i have forcefully avoided visiting any forums or groups when i saw the puzzle at first because i thought that ideas of others could freeze my own thinking process - it is when you start to think primarly in the way proposed by some other solver and, got stuck on it, but later trying my own ideas with my own dummy brute forcing method i skipped that rule. I am actively posting any ideas came to my mind in that group, hoping someone of us will be able to solve the puzzle sharing some part of revenue and GLORY)
 
@@ -53,7 +56,9 @@ There are pretty "classic" ideas of what each image could code, but also there a
 ## 1-st key
 ![1-st key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL7/pics/1.png )
 
-Finally, i consider the next keys: `"a",....`
+The firs object (key) is an image of a tree with four types of leaves: winter type (no leaves), springt type (flower or young leaves), summer type (green leaves), autumn type (yellow leaves). The hint ecnoded in page (as shown here) contains two symbols: "V*". That could mean that the answer to this part of the puzzle is some series of symbols that starts with "V". The first thing that came here to mind is `"four seasons"` - the `group of four violin concertos by Italian composer Antonio Vivaldi, each of which gives musical expression to a season of the year` [[5]](https://en.wikipedia.org/wiki/The_Four_Seasons_(Vivaldi)). The hint maid by @Tiamat (puzzle developer) in his message on AR blockchain kind of supports this way of thinking. So, the probable answer here is `"Vivaldi"` itself, right?
+
+Finally, i consider the next keys: `"Vivaldi", "vivaldi", ....`
 
 ## 2-nd key
 ![2-nd key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL7/pics/2.png )
@@ -168,7 +173,7 @@ https://twitter.com/arweavep/status/1139528547612209152
 
 [4] Telegram group of Arweave puzzles solvers community - @arweavep
 
-
+[5] Four seasons, Antonio Lucio Vivaldi - https://en.wikipedia.org/wiki/The_Four_Seasons_(Vivaldi)
 
 [11] MiningPredict (my twitter page) - https://twitter.com/miningpredict
 
