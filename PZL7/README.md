@@ -77,14 +77,16 @@ Finally, i'd consider the next keys here: `"LifeOfPi"`, `"lifeofpi"`, `"RichardP
 
 The image of a plastic bottle with a label "manner". The HTML encoded hint is "{9}" that most likely should be treated as a size of the answer - 9 letters. Some guessed it could be a synonym to label AND manner at the same time: `"etiquette"` - this word relates to manners and in some languages the label on the bottle (and other production) called as "etiquette". Seems like a nice option. But after reading a @Tiamat hint given in twitter: "💡"manner" is a tricky anagram, look very carefully on the visual context and also on the overall environment of the puzzle!", i realized that there is a perfect word that fits this situation. It is 9-letters word: "permanent". The bottle itself represented here as PET [[7]](https://en.wikipedia.org/wiki/Polyethylene_terephthalate) and adding here manner treating it as anagram the only word of 9 letter you could assemble would be "permanent". Beside, the word combination permanent manner frequently occur in Arweave documentation.
 
-(Another idea came to my mind was the name of PET bottles inventor - `"Nathaniel"` [8](https://en.wikipedia.org/wiki/Nathaniel_Wyeth_(inventor)))
+(Another idea came to my mind was the name of PET bottles inventor - `"Nathaniel"` [[8]](https://en.wikipedia.org/wiki/Nathaniel_Wyeth_(inventor)))
 
 Finally, i'd consider the next keys here: `"Permanent"`, `"permanent"`, `"Etiquette"`, `"etiquette"`, `"etiquette"`, `"Nathaniel"`, `"nathaniel"`, `...`
 
 ## 4-th key
 ![4-th key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL7/pics/4.png )
 
-Finally, i'd consider the next keys here: `"Eris"`,`...`
+This found to be an anagram for "The domain of Edgar Allan Poe" and yet the HTML-encoded hint shows "7". There is a short story composed by Edgar Allan Poe named as "THE DOMAIN OF ARNHEIM" [[9]](https://www.bauerverlag.eu/downloads/domain_.pdf). `"Arnheim"` is a 7 letter word that fits the requested length and the anagram context. Another word that can be used too could be the names from this story. For example, `"Ellison"`.
+
+Finally, i'd consider the next keys here: `"Arnheim"`, `"arnheim"`, `"Ellison"`, `"ellison"`, `...`
 
 ## 5-th key
 ![5-th key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL7/pics/5.png )
@@ -189,6 +191,8 @@ https://twitter.com/arweavep/status/1139528547612209152
 [7] PET - https://en.wikipedia.org/wiki/Polyethylene_terephthalate
 
 [8] PET bottle inventor - https://en.wikipedia.org/wiki/Nathaniel_Wyeth_(inventor)
+
+[9]  THE DOMAIN OF ARNHEIM, Edgar Allan Poe - https://www.bauerverlag.eu/downloads/domain_.pdf
 
 [11] MiningPredict (my twitter page) - https://twitter.com/miningpredict
 
