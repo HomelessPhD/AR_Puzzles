@@ -91,9 +91,9 @@ Finally, i'd consider the next keys here: `"Arnheim"`, `"arnheim"`, `"Ellison"`,
 ## 5-th key
 ![5-th key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL7/pics/5.png )
 
+This is image of a black cat and a flower of daisies that in russian is also called as "margarita". The flower hase face on it hinting us that its "alive". The HTML-encoded hint says "{8}". Some familiar with Russian literature seeing here link to Bulgakovs' book "Master and Margarita" [[10]](https://en.wikipedia.org/wiki/The_Master_and_Margarita). Beside of Margarita, there is a cat `Behemoth`: "...An enormous demonic black cat (said to be as big as a hog) who speaks, walks on two legs, and can transform into human shape for brief periods of time. He has a penchant for chess, vodka, pistols, and obnoxious sarcasm. He is evidently the least-respected member of Woland's team – Margarita boldly takes to slapping Behemoth on the head after one of his many ill-timed jokes, without fear of retaliation. In the last chapters, it appears that Behemoth is a demon pageboy, the best clown in the world. His name (Бегемот) refers to both the Biblical monster and the Russian word for hippopotamus...". The @Tiamat hints made on Twitter: `The hint for the cat is "literature"! 📚`, and one made on AR blockchain message: "These have been circulating among some group of solvers, of course they are not the straight answers, but they will lead you there: Seasons, Life of Pi, Behemoth." justifying this ideas and the way of thinking. The answer likely related to Bulgakovs' Master and Margarita.
 
-
-Finally, i'd consider the next keys here: `"Behemoth"`, `"behemoth"`, `"Bulgakov"`, `"bulgakov"`, `"Azazello"`, `"azazello"`, `"Koroviev"`, `"koroviev"`  `...`
+Finally, i'd consider the next keys here: `"Behemoth"`, `"behemoth"`, `"Bulgakov"`, `"bulgakov"`, `"Azazello"`, `"azazello"`, `"Koroviev"`, `"koroviev"`,  `...`
 
 ## 6-th key
 ![6-th key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL7/pics/6.png )
@@ -196,7 +196,7 @@ https://twitter.com/arweavep/status/1139528547612209152
 
 [9]  THE DOMAIN OF ARNHEIM, Edgar Allan Poe - https://www.bauerverlag.eu/downloads/domain_.pdf
 
-...
+[10] Master and Margarita, Bulgakov - https://en.wikipedia.org/wiki/The_Master_and_Margarita
 
 [11] MiningPredict (my twitter page) - https://twitter.com/miningpredict
 
