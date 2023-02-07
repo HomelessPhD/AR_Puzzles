@@ -58,7 +58,7 @@ There are pretty "classic" ideas of what each image could code, but also there a
 
 The firs object (key) is an image of a tree with four types of leaves: winter type (no leaves), springt type (flower or young leaves), summer type (green leaves), autumn type (yellow leaves). The hint ecnoded in page (as shown here) contains two symbols: "V*". That could mean that the answer to this part of the puzzle is some series of symbols that starts with "V". The first thing that came here to mind is `"four seasons"` - the `group of four violin concertos by Italian composer Antonio Vivaldi, each of which gives musical expression to a season of the year` [[5]](https://en.wikipedia.org/wiki/The_Four_Seasons_(Vivaldi)). The hint maid by @Tiamat (puzzle developer) in his message on AR blockchain kind of supports this way of thinking. So, the probable answer here is `"Vivaldi"` itself, right?
 
-Finally, i consider the next keys: `"Vivaldi"`, `"vivaldi"`, `"AntonioLucioVivaldi"`, `"AntonioVivaldi"`, `"Antonio"`, `"music"`, `"violin"`, `....`
+Finally, i consider the next keys: `"Vivaldi"`, `"vivaldi"`, `"AntonioLucioVivaldi"`, `"AntonioVivaldi"`, `"Antonio"`, `"music"`, `"violin"`, `"Valid"`, `"valid"`, `....`
 
 ## 2-nd key
 ![2-nd key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL7/pics/2.png )
@@ -91,22 +91,24 @@ Finally, i'd consider the next keys here: `"Arnheim"`, `"arnheim"`, `"Ellison"`,
 ## 5-th key
 ![5-th key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL7/pics/5.png )
 
-Finally, i'd consider the next keys here: `"Umber"`, `...`
+
+
+Finally, i'd consider the next keys here: `"Behemoth"`, `"behemoth"`, `"Bulgakov"`, `"bulgakov"`, `"Azazello"`, `"azazello"`, `"Koroviev"`, `"koroviev"`  `...`
 
 ## 6-th key
 ![6-th key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL7/pics/6.png )
 
-Finally, i'd consider the next keys here: `"lumber"`, `...`
+Finally, i'd consider the next keys here: `"Solar"`, `"Lunar"`, `"solar"`, `"lunar"`, `"Solareclipse"`, `"SolarEclipse"`, `"solareclipse"`, `"Lunareclipse"`, `"LunarEclipse"`, `"lunareclipse"`, `"1157"`, `"eclipses"`, `"Eclipses"`, ... `<some years from 1900 to 2100>`, `...`
 
 ## 7-th key
 ![7-th key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL7/pics/7.png )
 
-Finally, i'd consider the next keys here: `"Picasso"`, `...`
+Finally, i'd consider the next keys here: `"Buterin"`, `"buterin"`, `"ANABP01"`, `"anabp01"`, `"Achacha"`, `"achacha"`, `...`
 
 ## 8-th key
 ![7-th key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL7/pics/8.png )
 
-Finally, i'd consider the next keys here: `"Picasso"`, `...`
+Finally, i'd consider the next keys here: `"462"`, `"11"`, `"143176176209"`, `...`
 
 # "Exotic" ideas
 
