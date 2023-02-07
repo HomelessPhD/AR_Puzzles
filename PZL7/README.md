@@ -91,12 +91,18 @@ Finally, i'd consider the next keys here: `"Arnheim"`, `"arnheim"`, `"Ellison"`,
 ## 5-th key
 ![5-th key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL7/pics/5.png )
 
-This is image of a black cat and a flower of daisies that in russian is also called as "margarita". The flower hase face on it hinting us that its "alive". The HTML-encoded hint says "{8}". Some familiar with Russian literature seeing here link to Bulgakovs' book "Master and Margarita" [[10]](https://en.wikipedia.org/wiki/The_Master_and_Margarita). Beside of Margarita, there is a cat `Behemoth`: "...An enormous demonic black cat (said to be as big as a hog) who speaks, walks on two legs, and can transform into human shape for brief periods of time. He has a penchant for chess, vodka, pistols, and obnoxious sarcasm. He is evidently the least-respected member of Woland's team – Margarita boldly takes to slapping Behemoth on the head after one of his many ill-timed jokes, without fear of retaliation. In the last chapters, it appears that Behemoth is a demon pageboy, the best clown in the world. His name (Бегемот) refers to both the Biblical monster and the Russian word for hippopotamus...". The @Tiamat hints made on Twitter: `The hint for the cat is "literature"! 📚`, and one made on AR blockchain message: "These have been circulating among some group of solvers, of course they are not the straight answers, but they will lead you there: Seasons, Life of Pi, Behemoth." justifying this ideas and the way of thinking. The answer likely related to Bulgakovs' Master and Margarita.
+This is an image of a black cat and a flower of daisies that in Russian is also called "margarita". The flower has a face on it hinting us that its "alive". The HTML-encoded hint says "{8}". Some familiar with Russian literature see here a link to Bulgakovs' book "Master and Margarita" [[10]](https://en.wikipedia.org/wiki/The_Master_and_Margarita). Beside of Margarita, there is a cat `Behemoth`: "...An enormous demonic black cat (said to be as big as a hog) who speaks, walks on two legs, and can transform into human shape for brief periods of time. He has a penchant for chess, vodka, pistols, and obnoxious sarcasm. He is evidently the least-respected member of Woland's team – Margarita boldly takes to slapping Behemoth on the head after one of his many ill-timed jokes, without fear of retaliation. In the last chapters, it appears that Behemoth is a demon pageboy, the best clown in the world. His name (Бегемот) refers to both the Biblical monster and the Russian word for hippopotamus...". The @Tiamat hints made on Twitter: `The hint for the cat is "literature"! 📚`, and one made on AR blockchain message: "These have been circulating among some group of solvers, of course they are not the straight answers, but they will lead you there: Seasons, Life of Pi, Behemoth." justifying this ideas and the way of thinking. The answer likely related to Bulgakovs' Master and Margarita.
 
 Finally, i'd consider the next keys here: `"Behemoth"`, `"behemoth"`, `"Bulgakov"`, `"bulgakov"`, `"Azazello"`, `"azazello"`, `"Koroviev"`, `"koroviev"`,  `...`
 
 ## 6-th key
 ![6-th key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL7/pics/6.png )
+
+That one is tough but easy. Most assume that answer is the fourth number in the series, but it also could be a name of tthe series as whole object or series of numbers just pointing to the correct answer. There is no HTML-encoded hints same as Twitter hints for this. I assume the answer more likely the 4-digit number, probably a year (most of controversial pictures\keys in this puzzle have some hints about their length\size, but not this one - i expect this caused by predictable from its nature length: 4 digits like previous 3 numbers).
+
+Googling these numbers, one may find an interesting coincidence: all numbers treated as years will result in eclipses (solar or lunar or even both). Probably the fourth number is also a year of some special Lunar or Solar eclipse. [[11]](https://in-the-sky.org/eclipses.php)
+
+Also, this series of years related to some special sub-series of "strong" Eclipses (with some special attribute or feature) with a specific name that is the right answer. Some tethrada.
 
 Finally, i'd consider the next keys here: `"Solar"`, `"Lunar"`, `"solar"`, `"lunar"`, `"Solareclipse"`, `"SolarEclipse"`, `"solareclipse"`, `"Lunareclipse"`, `"LunarEclipse"`, `"lunareclipse"`, `"1157"`, `"eclipses"`, `"Eclipses"`, ... `<some years from 1900 to 2100>`, `...`
 
@@ -116,7 +122,7 @@ Finally, i'd consider the next keys here: `"462"`, `"11"`, `"143176176209"`, `..
 
 `to be continued`
 
-# Brute-Force - "that's impossible (?!)" [12](https://www.youtube.com/watch?v=6ixvpLCdqkA)
+# Brute-Force - "that's impossible (?!)" [13](https://www.youtube.com/watch?v=6ixvpLCdqkA)
 ![Its necessary](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL3/pics/Cooper_necessary.gif)
 ![brute it TARS!!!](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL3/pics/interstellar-cooper.gif)
 
@@ -153,7 +159,7 @@ function proceed()
 ```
 First, the bruteforce of the inputs is slown down by 11512 SHA512 + AES decryption. On a typical CPU you could expect around 0.5 sec for one thread (or CPU core) to compute this decrypting in browser (javascript that is in the original page) 
 
-The Second problem - javascript library CryptoJS used here for computing AES decrypting: seems like it has a bug\feature that makes its results unique for some cases. Thus, using 512-bit key the CryptoJS AES gives the result that the typical AES library - not [[13]](https://github.com/brix/crypto-js/issues/293) and so to build some efficient brute force instrument, the coder will need at least to adjust the AES library he use to follow CryptoJS ruined logic. At least, that is how i see it now.
+The Second problem - javascript library CryptoJS used here for computing AES decrypting: seems like it has a bug\feature that makes its results unique for some cases. Thus, using 512-bit key the CryptoJS AES gives the result that the typical AES library - not [[14]](https://github.com/brix/crypto-js/issues/293) and so to build some efficient brute force instrument, the coder will need at least to adjust the AES library he use to follow CryptoJS ruined logic. At least, that is how i see it now.
 
 In general, the list of answers to try on this puzzle could be all possible combinations of all allowed symbols that will result in a huge list (assume all numbers {0-9}, letters{a-z}, special chars {,.\|+=...} ~ 50 different symbols or so) == `50^32 ~ 10^54` but that unreal to be brutted even if some efficient code will brute this task on all bitcoin ASICS on the plannet with their typical hashing speed.
 
@@ -172,7 +178,7 @@ Anyway, with my JS approach i bruted a million inputs per day - and no success.
 
 Thank you for spending time on my notes, i hope it was not totally useless and you've found something interesting. 
 
-Any ideas\questions or propositions you may send to generalizatorSUB@gmail.com - also look at my twitter [[11]](https://twitter.com/miningpredict) @MiningPredict.
+Any ideas\questions or propositions you may send to generalizatorSUB@gmail.com - also look at my twitter [[12]](https://twitter.com/miningpredict) @MiningPredict.
 
 -------------------------------------------------------------------------
 ### References:
@@ -198,11 +204,13 @@ https://twitter.com/arweavep/status/1139528547612209152
 
 [10] Master and Margarita, Bulgakov - https://en.wikipedia.org/wiki/The_Master_and_Margarita
 
-[11] MiningPredict (my twitter page) - https://twitter.com/miningpredict
+[11] Lunar\solar eclipses - https://in-the-sky.org/eclipses.php
 
-[12] "that's impossible (?!) no it's necessary"  - https://www.youtube.com/watch?v=6ixvpLCdqkA
+[12] MiningPredict (my twitter page) - https://twitter.com/miningpredict
 
-[13] CryptoJS bug - https://github.com/brix/crypto-js/issues/293
+[13] "that's impossible (?!) no it's necessary"  - https://www.youtube.com/watch?v=6ixvpLCdqkA
+
+[14] CryptoJS bug - https://github.com/brix/crypto-js/issues/293
 
 -------------------------------------------------------------------------
 ### Support
