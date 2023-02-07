@@ -63,7 +63,13 @@ Finally, i consider the next keys: `"Vivaldi", "vivaldi", ....`
 ## 2-nd key
 ![2-nd key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL7/pics/2.png )
 
-Finally, i'd consider the next keys here: `"mb", ...`
+This a bit tough and not so straight. There are 3 symbols on this picture: `Pi` (looks very similar to Greek letter pi), `tail\fin` (looks like a fin or half of a tail of some fish), 'wave' (looks like a wave or sea surface).
+
+Some try to compose here a word like in child riddles: `"Pi"`+ `"ta"` (half of a "tail" = "ta"+"il") + "C" (like sea by sound), resulting in some "Pitac", but i have not recovered anything reasonable this way.
+
+Other noticing here the key objects form the `"Life of Pi"` novel\film [[6]](https://en.wikipedia.org/wiki/Life_of_Pi_(film)): "...The storyline revolves around two survivors of a shipwreck who are on a lifeboat stranded `in the Pacific Ocean` for 227 days. One is a sixteen-year-old Indian boy named `Pi` Patel (Suraj Sharma) and the other is a ferocious Bengal tiger named Richard Parker... One night, a humpback `whale` destroys the raft and its supplies....". And the hint given by @Tiamat in his AR blockchain message seems like support this way of thinking. It somehow related to "Life of Pi". Another thing here to think about: we have no html-encoded hint here but there are 3 sub-parts in this image and probably `3` could be considered here is a hint (jsut a crazy idea to think about) - it could be 3 words for example (Life + of + Pi). So, i'd consider here some life of Pi related words or names. For example, the name of the author (Yann Martel) or real name of the tiger "Thirsty" (he was accidentally named as Richard Parker).
+
+Finally, i'd consider the next keys here: `"LifeOfPi","lifeofpi","RichardParker","richardparker","YannMartel","yannmartel","Martel","martel","Yann","yann","Thirsty","thirsty" ...`
 
 
 ## 3-rd key
@@ -174,6 +180,8 @@ https://twitter.com/arweavep/status/1139528547612209152
 [4] Telegram group of Arweave puzzles solvers community - @arweavep
 
 [5] Four seasons, Antonio Lucio Vivaldi - https://en.wikipedia.org/wiki/The_Four_Seasons_(Vivaldi)
+
+[6] Life of Pi (film) - https://en.wikipedia.org/wiki/Life_of_Pi_(film)
 
 [11] MiningPredict (my twitter page) - https://twitter.com/miningpredict
 
