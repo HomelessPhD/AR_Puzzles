@@ -75,8 +75,11 @@ Finally, i'd consider the next keys here: `"LifeOfPi"`, `"lifeofpi"`, `"RichardP
 ## 3-rd key
 ![3-rd key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL7/pics/3.png )
 
+The image of a plastic bottle with a label "manner". The HTML encoded hint is "{9}" that most likely should be treated as a size of the answer - 9 letters. Some guessed it could be a synonym to label AND manner at the same time: `"etiquette"` - this word relates to manners and in some languages the label on the bottle (and other production) called as "etiquette". Seems like a nice option. But after reading a @Tiamat hint given in twitter: "💡"manner" is a tricky anagram, look very carefully on the visual context and also on the overall environment of the puzzle!", i realized that there is a perfect word that fits this situation. It is 9-letters word: "permanent". The bottle itself represented here as PET [[7]](https://en.wikipedia.org/wiki/Polyethylene_terephthalate) and adding here manner treating it as anagram the only word of 9 letter you could assemble would be "permanent". Beside, the word combination permanent manner frequently occur in Arweave documentation.
 
-Finally, i'd consider the next keys here: `"N14"`,`...`
+(Another idea came to my mind was the name of PET bottles inventor - `"Nathaniel"` [8](https://en.wikipedia.org/wiki/Nathaniel_Wyeth_(inventor)))
+
+Finally, i'd consider the next keys here: `"Permanent"`, `"permanent"`, `"Etiquette"`, `"etiquette"`, `"etiquette"`, `"Nathaniel"`, `"nathaniel"`, `...`
 
 ## 4-th key
 ![4-th key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL7/pics/4.png )
@@ -182,6 +185,10 @@ https://twitter.com/arweavep/status/1139528547612209152
 [5] Four seasons, Antonio Lucio Vivaldi - https://en.wikipedia.org/wiki/The_Four_Seasons_(Vivaldi)
 
 [6] Life of Pi (film) - https://en.wikipedia.org/wiki/Life_of_Pi_(film)
+
+[7] PET - https://en.wikipedia.org/wiki/Polyethylene_terephthalate
+
+[8] PET bottle inventor - https://en.wikipedia.org/wiki/Nathaniel_Wyeth_(inventor)
 
 [11] MiningPredict (my twitter page) - https://twitter.com/miningpredict
 
