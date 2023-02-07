@@ -196,6 +196,8 @@ https://twitter.com/arweavep/status/1139528547612209152
 
 [9]  THE DOMAIN OF ARNHEIM, Edgar Allan Poe - https://www.bauerverlag.eu/downloads/domain_.pdf
 
+...
+
 [11] MiningPredict (my twitter page) - https://twitter.com/miningpredict
 
 [12] "that's impossible (?!) no it's necessary"  - https://www.youtube.com/watch?v=6ixvpLCdqkA
