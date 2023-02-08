@@ -5,7 +5,7 @@ Here i am going to publish ideas i consider about and dummy instruments related 
 This puzzle is one from the series of Arweave Puzzles made by @Tiamat (official Arweave project discord member, apps developer, miner, early investor). Originally, puzzle posted in official @Tiamat twitter [[1]](
 https://twitter.com/ArweaveP/status/1215166049227808770?cxt=HHwWhIC1tazFkd0hAAAA): with hints and link to the blockchain [[2]](https://mwgauw2twixdxh3fm6mywx7tvuxo442xtckttdbhpbctxz3em5fq.arweave.net/ZYwKW1OyLjufZWeZi1_zrS7uc1eYlTmMJ3hFO-dkZ0s)
 
-Puzzle consists of the HTML page (sources also attached in this git - but could be found on Arweave "blockchain") page with an AES encrypted message (the private key to the Ethereum wallet with **3 ETH** coins on it, that is around of **5 k$** right now). The decryption mechanism is already built in page so the solver should only type the correct symbols to the placeholder as show on picture below. The key to the puzzle solving is an 8 separated pictures\objects:
+Puzzle consists of the HTML page (sources also attached in this git - but could be found on Arweave "blockchain") page with an AES encrypted message (the private key to the AR wallet with **400 AR** coins on it, that could be around of **4.5 k$** right now - but it has been `emptied already`). The decryption mechanism is already built in page so the solver should only type the correct symbols to the placeholder as show on picture below. The key to the puzzle solving is an 8 separated pictures\objects:
 
 ![AR puzzle #8 keys](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL8/pics/PZL8.png )
 
@@ -26,23 +26,30 @@ Puzzle consists of the HTML page (sources also attached in this git - but could 
 (at first few months i have forcefully avoided visiting any forums or groups when i saw the puzzle at first because i thought that ideas of others could freeze my own thinking process - it is when you start to think primarly in the way proposed by some other solver and, got stuck on it, but later trying my own ideas with my own dummy brute forcing method i skipped that rule. I am actively posting any ideas came to my mind in that group, hoping someone of us will be able to solve the puzzle sharing some part of revenue and GLORY)
 
 
+All three keys here tells a short story of death, probably some human death stories. The puzzle creator expected us to solve this puzzle so these should be some famous, well known people. People with known or at least "publicly expected" death.
 
 ## 1-st key
 ![1-st key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL8/pics/1.png )
 
+One of the versions for this key is Grigori Rasputin [[4]](https://en.wikipedia.org/wiki/Grigori_Rasputin#:~:text=Rasputin%20was%20murdered%20during%20the,range%20shot%20to%20his%20forehead.) According to one version mentioned on wiki, his death satisfies the mentioned in the key:` "...Yusupov said he invited Rasputin to his home shortly after midnight and ushered him into the basement. Yusupov offered Rasputin tea and cakes which had been laced with cyanide. Rasputin initially refused the cakes but then began to eat them and, to Yusupov's surprise, appeared unaffected by the poison. Rasputin then asked for some Madeira wine (which had also been poisoned) and drank three glasses, but still showed no sign of distress. At around 2:30 am, Yusupov excused himself to go upstairs, where his fellow conspirators were waiting. He took a revolver from Dmitry Pavlovich, then returned to the basement and told Rasputin that he'd "better look at the crucifix and say a prayer", referring to a crucifix in the room, then shot him once in the chest. The conspirators then drove to Rasputin's apartment, with Sukhotin wearing Rasputin's coat and hat in an attempt to make it look as though Rasputin had returned home that night. Upon returning to the Moika Palace, Yusupov went back to the basement to ensure that Rasputin was dead. Suddenly, Rasputin leaped up and attacked Yusupov, who freed himself with some effort and fled upstairs. Rasputin followed Yusupov into the palace's courtyard, where he was shot by Purishkevich. He collapsed into a snowbank. The conspirators then wrapped his body in cloth, drove it to the Petrovsky Bridge, and dropped it into the Malaya Nevka River...."`
 
-Finally, i consider the next keys: `""`, `....`
+
+Finally, assuming that the length of the answer is 8 i consider the next keys: `"Rasputin"`,`"rasputin"` `....`
 
 ## 2-nd key
 ![2-nd key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL8/pics/2.png )
 
-Finally, i'd consider the next keys here: `""`, `...`
+This should be some famous human. Assuming `....i know Winston....` related to *Winston Churchill*, then googling `willhelm that known winston` the first google links has title `Kaiser Wilhelm II and Winston Churchill together at a military` [[5]](https://historycolored.com/photos/8773/kaiser-wilhelm-ii-and-winston-churchill-together-at-a-military-demonstration-september-1906/)
+Finally, googling the `Kaiser Wilhelm II`, one may have found his biography [[6]](https://en.wikipedia.org/wiki/Wilhelm_II,_German_Emperor) that looks very interesting:
+`...Wilhelm died of a pulmonary embolism in Doorn, Netherlands, on 4 June 1941, at the age of 82, just weeks before the Axis invasion of the Soviet Union...`
+
+Finally, assuming that the length of the answer is 7 i consider the next keys: `"Wilhelm"`, `"wilhelm"`, `...`
 
 
 ## 3-rd key
 ![3-rd key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL8/pics/3.png )
 
-Finally, i'd consider the next keys here: `"Permanent"`, `...`
+Finally, assuming that the length of the answer is 8 i consider the next keys: `"Alekhine"`, `"alekhine"`, `...`
 
 
 # Brute-Force - "that's impossible (?!)" [14](https://www.youtube.com/watch?v=6ixvpLCdqkA)
@@ -116,7 +123,11 @@ Any ideas\questions or propositions you may send to generalizatorSUB@gmail.com -
 
 [3] Telegram group of Arweave puzzles solvers community - @arweavep
 
+[4] Grigori Rasputin - https://en.wikipedia.org/wiki/Grigori_Rasputin#:~:text=Rasputin%20was%20murdered%20during%20the,range%20shot%20to%20his%20forehead.
 
+[5] Kaiser Wilhelm II and Winston Churchill together at a military demonstration - https://historycolored.com/photos/8773/kaiser-wilhelm-ii-and-winston-churchill-together-at-a-military-demonstration-september-1906/
+
+[6] Wilhelm II, German Emperor - https://en.wikipedia.org/wiki/Wilhelm_II,_German_Emperor
 
 [13] MiningPredict (my twitter page) - https://twitter.com/miningpredict
 
