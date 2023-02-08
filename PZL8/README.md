@@ -19,7 +19,7 @@ Puzzle consists of the HTML page (sources also attached in this git - but could 
     
 1] So far no puzzle from the series was solved with brute force, but of course it depends on your computation power.
 
-9] The list of unsolved #Arweave puzzles ordered by difficulty probably looks like: 3, 9, 8, 5 ,7
+2] The list of unsolved #Arweave puzzles ordered by difficulty probably looks like: 3, 9, 8, 5 ,7
 ```    
 
 *** This puzzle was laready solved when i written this page. *** Anyway, i advise you to visit the telegram group [[3]](@arweavep) - you definitely should visit it for ideas sharing.
