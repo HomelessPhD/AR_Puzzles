@@ -98,7 +98,7 @@ Finally, i'd consider the next keys here: `"Behemoth"`, `"behemoth"`, `"Bulgakov
 ## 6-th key
 ![6-th key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL7/pics/6.png )
 
-That one is tough but easy. Most assume that answer is the fourth number in the series, but it also could be a name of tthe series as whole object or series of numbers just pointing to the correct answer. There is no HTML-encoded hints same as Twitter hints for this. I assume the answer more likely the 4-digit number, probably a year (most of controversial pictures\keys in this puzzle have some hints about their length\size, but not this one - i expect this caused by predictable from its nature length: 4 digits like previous 3 numbers).
+That one is tough but easy. Most assume that answer is the fourth number in the series, but it also could be a name of the series as whole object or series of numbers just pointing to the correct answer. There is no HTML-encoded hints same as Twitter hints for this. I assume the answer more likely the 4-digit number, probably a year (most of controversial pictures\keys in this puzzle have some hints about their length\size, but not this one - i expect this caused by predictable from its nature length: 4 digits like previous 3 numbers).
 
 Googling these numbers, one may find an interesting coincidence: all numbers treated as years will result in eclipses (solar or lunar or even both). Probably the fourth number is also a year of some special Lunar or Solar eclipse. [[11]](https://in-the-sky.org/eclipses.php)
 
@@ -109,7 +109,13 @@ Finally, i'd consider the next keys here: `"Solar"`, `"Lunar"`, `"solar"`, `"lun
 ## 7-th key
 ![7-th key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL7/pics/7.png )
 
-Finally, i'd consider the next keys here: `"Buterin"`, `"buterin"`, `"ANABP01"`, `"anabp01"`, `"Achacha"`, `"achacha"`, `...`
+The first idea is to search the information about fruit found in 2014 and somehow filter their names or story correspond to visual context of this key (squirel) and HTML-coded hint that says: "{7}". Some fruit names are: ANABP01, Achacha, ...
+
+But another idea seems more promising. Searching for crypto related facts related to 2014 one may find out that Vitaly "Vitalik" Buterin actually won  World Technology Network Award in 2014 [[12]](https://www.coindesk.com/markets/2014/11/19/ethereums-vitalik-buterin-wins-world-technology-network-award/). The squirel could be easily related to Vitalik itself and new fruit is.... ETHereum. Assuming the hint saying it should be 7 letter word, the answer could be: Butering or Vitalik.
+
+![Vitalik](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL7/pics/VB.jpg )
+
+Finally, i'd consider the next keys here: `"Buterin"`, `"buterin"`,`Vitalik`,`vitalik`,`Network`,`network`, `"ANABP01"`, `"anabp01"`, `"Achacha"`, `"achacha"`, `...`
 
 ## 8-th key
 ![7-th key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL7/pics/8.png )
@@ -122,7 +128,7 @@ Finally, i'd consider the next keys here: `"462"`, `"11"`, `"143176176209"`, `..
 
 `to be continued`
 
-# Brute-Force - "that's impossible (?!)" [13](https://www.youtube.com/watch?v=6ixvpLCdqkA)
+# Brute-Force - "that's impossible (?!)" [14](https://www.youtube.com/watch?v=6ixvpLCdqkA)
 ![Its necessary](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL3/pics/Cooper_necessary.gif)
 ![brute it TARS!!!](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL3/pics/interstellar-cooper.gif)
 
@@ -159,7 +165,7 @@ function proceed()
 ```
 First, the bruteforce of the inputs is slown down by 11512 SHA512 + AES decryption. On a typical CPU you could expect around 0.5 sec for one thread (or CPU core) to compute this decrypting in browser (javascript that is in the original page) 
 
-The Second problem - javascript library CryptoJS used here for computing AES decrypting: seems like it has a bug\feature that makes its results unique for some cases. Thus, using 512-bit key the CryptoJS AES gives the result that the typical AES library - not [[14]](https://github.com/brix/crypto-js/issues/293) and so to build some efficient brute force instrument, the coder will need at least to adjust the AES library he use to follow CryptoJS ruined logic. At least, that is how i see it now.
+The Second problem - javascript library CryptoJS used here for computing AES decrypting: seems like it has a bug\feature that makes its results unique for some cases. Thus, using 512-bit key the CryptoJS AES gives the result that the typical AES library - not [[15]](https://github.com/brix/crypto-js/issues/293) and so to build some efficient brute force instrument, the coder will need at least to adjust the AES library he use to follow CryptoJS ruined logic. At least, that is how i see it now.
 
 In general, the list of answers to try on this puzzle could be all possible combinations of all allowed symbols that will result in a huge list (assume all numbers {0-9}, letters{a-z}, special chars {,.\|+=...} ~ 50 different symbols or so) == `50^32 ~ 10^54` but that unreal to be brutted even if some efficient code will brute this task on all bitcoin ASICS on the plannet with their typical hashing speed.
 
@@ -178,7 +184,7 @@ Anyway, with my JS approach i bruted a million inputs per day - and no success.
 
 Thank you for spending time on my notes, i hope it was not totally useless and you've found something interesting. 
 
-Any ideas\questions or propositions you may send to generalizatorSUB@gmail.com - also look at my twitter [[12]](https://twitter.com/miningpredict) @MiningPredict.
+Any ideas\questions or propositions you may send to generalizatorSUB@gmail.com - also look at my twitter [[13]](https://twitter.com/miningpredict) @MiningPredict.
 
 -------------------------------------------------------------------------
 ### References:
@@ -206,11 +212,13 @@ https://twitter.com/arweavep/status/1139528547612209152
 
 [11] Lunar\solar eclipses - https://in-the-sky.org/eclipses.php
 
-[12] MiningPredict (my twitter page) - https://twitter.com/miningpredict
+[12] Vitalik Buterin, Ethereum, World Technology Network Award - https://www.coindesk.com/markets/2014/11/19/ethereums-vitalik-buterin-wins-world-technology-network-award/
 
-[13] "that's impossible (?!) no it's necessary"  - https://www.youtube.com/watch?v=6ixvpLCdqkA
+[13] MiningPredict (my twitter page) - https://twitter.com/miningpredict
 
-[14] CryptoJS bug - https://github.com/brix/crypto-js/issues/293
+[14] "that's impossible (?!) no it's necessary"  - https://www.youtube.com/watch?v=6ixvpLCdqkA
+
+[15] CryptoJS bug - https://github.com/brix/crypto-js/issues/293
 
 -------------------------------------------------------------------------
 ### Support
