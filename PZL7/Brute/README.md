@@ -18,7 +18,7 @@ in this git around this README file) code in there
 Do not forget to adjust the script for YOUr needs replacing default "keys" (inputs):
 
 ```
-var k_1 = ["Vivaldi", "vivaldi", "AntonioLucioVivaldi", "AntonioVivaldi", "Antonio", "music", "violin", "Valid", "valid", ....];
+var k_1 = ["Vivaldi", "vivaldi", "AntonioLucioVivaldi", "AntonioVivaldi", "Antonio", "music", "violin", "Valid", "valid"];
 var k_2 = ["LifeOfPi", "lifeofpi", "RichardParker", "richardparker", "227", "YannMartel", "yannmartel", "Martel", "martel", "Yann", "yann", "Thirsty", "thirsty", "film", "book", "story"];
 var k_3 = ["Permanent", "permanent", "Etiquette", "etiquette", "etiquette", "Nathaniel", "nathaniel"];
 var k_4 = ["Arnheim", "arnheim", "Ellison", "ellison"];
