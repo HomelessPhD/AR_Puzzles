@@ -1,0 +1,52 @@
+var k_1 = ["Vivaldi", "vivaldi", "AntonioLucioVivaldi", "AntonioVivaldi", "Antonio", "music", "violin", "Valid", "valid", ....];
+var k_2 = ["LifeOfPi", "lifeofpi", "RichardParker", "richardparker", "YannMartel", "yannmartel", "Martel", "martel", "Yann", "yann", "Thirsty", "thirsty", "film", "book", "story"];
+var k_3 = ["Permanent", "permanent", "Etiquette", "etiquette", "etiquette", "Nathaniel", "nathaniel"];
+var k_4 = ["Arnheim", "arnheim", "Ellison", "ellison"];
+var k_5 = ["Behemoth", "behemoth", "Bulgakov", "bulgakov", "Azazello", "azazello", "Koroviev", "koroviev"];
+var k_6 = ["Solar", "Lunar", "solar", "lunar", "Solareclipse", "SolarEclipse", "solareclipse", "Lunareclipse", "LunarEclipse", "lunareclipse", "1157", "eclipses", "Eclipses"];
+for(var i=0;i<200;i++)
+  k_6.push(1900+i)
+  
+var k_7 = ["Buterin", "buterin",Vitalik,vitalik,Network,network, "ANABP01", "anabp01", "Achacha", "achacha"];
+var k_8 = ["462", "11", "143176176209", "14399176154110187176132209"];
+
+var code_u_arr = [];
+var temp = ""
+for (var i_1=0; i_1 < k_1.length; i_1++)
+for (var i_2=0; i_2 < k_2.length; i_2++)
+for (var i_3=0; i_3 < k_3.length; i_3++)
+for (var i_4=0; i_4 < k_4.length; i_4++)
+for (var i_5=0; i_5 < k_5.length; i_5++)
+for (var i_6=0; i_6 < k_6.length; i_6++)
+for (var i_7=0; i_7 < k_7.length; i_7++)
+for (var i_8=0; i_8 < k_8.length; i_8++)    
+    if((k_1[i_1]+k_2[i_2]+k_3[i_3]+k_4[i_4]+k_5[i_5]+k_6[i_6]+k_7[i_7]+k_8[i_8]).length == 57)
+        code_u_arr.push(""+k_1[i_1]+k_2[i_2]+k_3[i_3]+k_4[i_4]+k_5[i_5]+k_6[i_6]+k_7[i_7]+k_8[i_8]);
+	
+	
+
+	var thr_ind = 1;
+	var thr_num = 1;
+	var start_ind = (thr_ind-1) * Math.ceil(code_u_arr.length / thr_num);
+	var finish_ind = Math.min(code_u_arr.length, thr_ind * Math.ceil(code_u_arr.length / thr_num));
+	console.log("ind: "+thr_ind+", start: "+start_ind+", finish: "+finish_ind);
+
+	var a_u = ""; 
+	var max_len_res = ""
+	var max_len_ind = 0
+	for (var i_s =start_ind; i_s<finish_ind; i_s++)
+	{
+		a_u = decodewallet(msg, code_u_arr[i_s]);
+		console.log(a_u.search('{"version":3,"id"')+" "+i_s+" | length: "+a_u.length)
+		if(a_u.length>max_len_res.length)
+		{
+		    max_len_res = a_u;
+		    max_len_ind = i_s;
+		}
+		
+		if (a_u.search('{"version":3,"id"')>-1)
+		{ 
+			download("13f968d3bb996f39838ade86109b8150ba890d7e.json",a_u);
+			console.log(a_u)			
+		}
+	}
