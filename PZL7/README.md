@@ -140,7 +140,6 @@ Finally, i'd consider the next keys here: `"462"`, `"11"`, `"143176176209"`,`"14
 
 # "Exotic" ideas
 
-1] ...
 
 `to be continued`
 
