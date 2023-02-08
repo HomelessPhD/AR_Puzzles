@@ -100,11 +100,11 @@ Finally, i'd consider the next keys here: `"Behemoth"`, `"behemoth"`, `"Bulgakov
 
 That one is tough but easy. Most assume that answer is the fourth number in the series, but it also could be a name of the series as whole object or series of numbers just pointing to the correct answer. There is no HTML-encoded hints same as Twitter hints for this. I assume the answer more likely the 4-digit number, probably a year (most of controversial pictures\keys in this puzzle have some hints about their length\size, but not this one - i expect this caused by predictable from its nature length: 4 digits like previous 3 numbers).
 
-Googling these numbers, one may find an interesting coincidence: all numbers treated as years will result in eclipses (solar or lunar or even both). Probably the fourth number is also a year of some special Lunar or Solar eclipse. [[11]](https://in-the-sky.org/eclipses.php)
+Googling these numbers, one may find an interesting coincidence: all numbers treated as years will result in eclipses (solar or lunar or even both). Probably the fourth number is also a year of some special Lunar or Solar eclipse. [[11]](https://in-the-sky.org/eclipses.php) (for example: 1984 and 1958 are years of total solar eclipse, 2047 is a year of total lunar eclipse....).
 
 Also, this series of years related to some special sub-series of "strong" Eclipses (with some special attribute or feature) with a specific name that is the right answer. Some tethrada.
 
-Finally, i'd consider the next keys here: `"Solar"`, `"Lunar"`, `"solar"`, `"lunar"`, `"Solareclipse"`, `"SolarEclipse"`, `"solareclipse"`, `"Lunareclipse"`, `"LunarEclipse"`, `"lunareclipse"`, `"1157"`, `"eclipses"`, `"Eclipses"`, ... `<some years from 1900 to 2100>`, `...`
+Finally, i'd consider the next keys here: `"Solar"`, `"Lunar"`, `"solar"`, `"lunar"`, `"Solareclipse"`, `"SolarEclipse"`, `"solareclipse"`, `"Lunareclipse"`, `"LunarEclipse"`, `"lunareclipse"`, `"1157"`, `"eclipses"`, `"Eclipses"`,`"eclipse"`, `"Eclipse"`, ... `<some years from 1900 to 2100>`, `...`
 
 ## 7-th key
 ![7-th key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL7/pics/7.png )
