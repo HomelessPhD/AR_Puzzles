@@ -115,7 +115,7 @@ But another idea seems more promising. Searching for crypto related facts relate
 
 ![Vitalik](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL7/pics/VB.jpg )
 
-Finally, i'd consider the next keys here: `"Buterin"`, `"buterin"`,`Vitalik`,`vitalik`,`Network`,`network`, `"ANABP01"`, `"anabp01"`, `"Achacha"`, `"achacha"`, `...`
+Finally, i'd consider the next keys here: `"Buterin"`, `"buterin"`,`"Vitalik"`,`"vitalik"`,`"Network"`,`"network"`, `"ANABP01"`, `"anabp01"`, `"Achacha"`, `"achacha"`, `...`
 
 ## 8-th key
 ![7-th key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL7/pics/8.png )
