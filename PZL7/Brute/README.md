@@ -27,7 +27,7 @@ var k_6 = ["Solar", "Lunar", "solar", "lunar", "Solareclipse", "SolarEclipse", "
 for(var i=0;i<200;i++)
   k_6.push(1900+i)
   
-var k_7 = ["Buterin", "buterin",Vitalik,vitalik,Network,network, "ANABP01", "anabp01", "Achacha", "achacha"];
+var k_7 = ["Buterin", "buterin", "Vitalik", "vitalik", "Network", "network", "ANABP01", "anabp01", "Achacha", "achacha"];
 var k_8 = ["462", "11", "143176176209", "14399176154110187176132209"];
 ```
 
