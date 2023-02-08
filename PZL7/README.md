@@ -69,7 +69,7 @@ Some try to compose here a word like in child riddles: `"Pi"`+ `"ta"` (half of a
 
 Other noticing here the key objects form the `"Life of Pi"` novel\film [[6]](https://en.wikipedia.org/wiki/Life_of_Pi_(film)): "...The storyline revolves around two survivors of a shipwreck who are on a lifeboat stranded `in the Pacific Ocean` for 227 days. One is a sixteen-year-old Indian boy named `Pi` Patel (Suraj Sharma) and the other is a ferocious Bengal tiger named Richard Parker... One night, a humpback `whale` destroys the raft and its supplies....". And the hint given by @Tiamat in his AR blockchain message seems like support this way of thinking. It somehow related to "Life of Pi". Another thing here to think about: we have no html-encoded hint here but there are 3 sub-parts in this image and probably `3` could be considered here is a hint (jsut a crazy idea to think about) - it could be 3 words for example (Life + of + Pi). So, i'd consider here some life of Pi related words or names. For example, the name of the author (Yann Martel) or real name of the tiger "Thirsty" (he was accidentally named as Richard Parker).
 
-Finally, i'd consider the next keys here: `"LifeOfPi"`, `"lifeofpi"`, `"227"`, `"RichardParker"`, `"richardparker"`, `"YannMartel"`, `"yannmartel"`, `"Martel"`, `"martel"`, `"Yann"`, `"yann"`, `"Thirsty"`, `"thirsty"`, `"film"`, `"book"`, `"story"`, `...`
+Finally, i'd consider the next keys here: `"LifeOfPi"`, `"lifeofpi"`, `"227"`,`"Pi"`,`"pi"`, `"PiscineMolitorPatel"`, `"PiscinePatel"`, `"Piscine"`, `"RichardParker"`, `"richardparker"`, `"YannMartel"`, `"yannmartel"`, `"Martel"`, `"martel"`, `"Yann"`, `"yann"`, `"Thirsty"`, `"thirsty"`, `"film"`, `"book"`, `"story"`, `...`
 
 
 ## 3-rd key
