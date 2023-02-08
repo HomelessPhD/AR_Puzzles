@@ -111,7 +111,7 @@ Finally, i'd consider the next keys here: `"Solar"`, `"Lunar"`, `"solar"`, `"lun
 
 The first idea is to search the information about fruit found in 2014 and somehow filter their names or story correspond to visual context of this key (squirel) and HTML-coded hint that says: "{7}". Some fruit names are: ANABP01, Achacha, ...
 
-But another idea seems more promising. Searching for crypto related facts related to 2014 one may find out that Vitaly "Vitalik" Buterin actually won  World Technology Network Award in 2014 [[12]](https://www.coindesk.com/markets/2014/11/19/ethereums-vitalik-buterin-wins-world-technology-network-award/). The squirel could be easily related to Vitalik itself and new fruit is.... ETHereum. Assuming the hint saying it should be 7 letter word, the answer could be: Butering or Vitalik.
+But another idea seems more promising. Searching for crypto related facts related to 2014 one may find out that Vitaly "Vitalik" Buterin (with ETHereum) actually won World Technology Network Award in 2014 [[12]](https://www.coindesk.com/markets/2014/11/19/ethereums-vitalik-buterin-wins-world-technology-network-award/). The squirel could be easily related to Vitalik itself and new fruit is.... ETHereum. Assuming the hint saying it should be 7 letter word, the answer could be: Butering or Vitalik.
 
 ![Vitalik](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL7/pics/VB.jpg )
 
@@ -120,7 +120,23 @@ Finally, i'd consider the next keys here: `"Buterin"`, `"buterin"`,`Vitalik`,`vi
 ## 8-th key
 ![7-th key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL7/pics/8.png )
 
-Finally, i'd consider the next keys here: `"462"`, `"11"`, `"143176176209"`, `...`
+Here, i assume, hint "perimeter 🧐" should be applied. Some tried to find rules here for numbers - one of such is that all numbers are 11 multipliers. I have tried simply apply the "perimeter" hint here to actually find the perimeter of all rectangles including the general rectangle that contains all smaller ones. Assuming the number written in smaller rectangles denoting their perimeters, the system of equations for the big rectangle perimeter is simple as follow:
+
+![7-th key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL7/pics/perimeter.png )
+
+```
+P = 2*(a1+a2+a3+b1+b2+b3)
+(a1+b2)*2=154
+(a2+b1)*2=99
+(a2+b2)*2=110
+(a2+b3)*2=132
+(a3+b2)=187
+```
+[[WolframAlpha solving]](https://www.wolframalpha.com/input?i=Solve%5B%7B+%28a1%2Bb2%29*2%3D%3D154%2C+%28a2%2Bb1%29*2%3D%3D99%2C+%28a2%2Bb2%29*2%3D%3D110%2C+%28a2%2Bb3%29*2%3D%3D132%2C+%28a3%2Bb2%29*2%3D%3D187%2C+x%3D%3D2*%28a1%2Ba2%2Ba3%2Bb1%2Bb2%2Bb3%29%7D%2C+x%5D)
+
+Where finally, the perimeter equals to P = 462. The same system may be used to find the perimeters of smaller unknown rectangles: `(a1+b1)*2 = 143`, `(a3+b1)*2=176`, `(a1+b3)*2=176`, `(a3+b3)*2 = 209 `. Interesting fact - all perimeters are 11 multipliers including the perimeter of big (outer) rectangle.
+
+Finally, i'd consider the next keys here: `"462"`, `"11"`, `"143176176209"`,`"14399176154110187176132209"`, `...`
 
 # "Exotic" ideas
 
