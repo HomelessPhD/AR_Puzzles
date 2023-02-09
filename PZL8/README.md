@@ -55,7 +55,7 @@ The biography of the [[7]](https://en.wikipedia.org/wiki/Alexander_Alekhine) sui
 Finally, assuming that the length of the answer is 8 i consider the next keys: `"Alekhine"`, `"alekhine"`, `...`
 
 
-# Brute-Force - "that's impossible (?!)" [14](https://www.youtube.com/watch?v=6ixvpLCdqkA)
+# Brute-Force - "that's impossible (?!)" [9](https://www.youtube.com/watch?v=6ixvpLCdqkA)
 ![Its necessary](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL3/pics/Cooper_necessary.gif)
 ![brute it TARS!!!](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL3/pics/interstellar-cooper.gif)
 
@@ -96,7 +96,7 @@ function proceed()
 ```
 First, the bruteforce of the inputs is slown down by 11512 SHA512 + AES decryption. On a typical CPU you could expect around 0.5 sec for one thread (or CPU core) to compute this decrypting in browser (javascript that is in the original page) 
 
-The Second problem - javascript library CryptoJS used here for computing AES decrypting: seems like it has a bug\feature that makes its results unique for some cases. Thus, using 512-bit key the CryptoJS AES gives the result that the typical AES library - not [[15]](https://github.com/brix/crypto-js/issues/293) and so to build some efficient brute force instrument, the coder will need at least to adjust the AES library he use to follow CryptoJS ruined logic. At least, that is how i see it now.
+The Second problem - javascript library CryptoJS used here for computing AES decrypting: seems like it has a bug\feature that makes its results unique for some cases. Thus, using 512-bit key the CryptoJS AES gives the result that the typical AES library - not [[10]](https://github.com/brix/crypto-js/issues/293) and so to build some efficient brute force instrument, the coder will need at least to adjust the AES library he use to follow CryptoJS ruined logic. At least, that is how i see it now.
 
 In general, the list of answers to try on this puzzle could be all possible combinations of all allowed symbols that will result in a huge list (assume all numbers {0-9}, letters{a-z}, special chars {,.\|+=...} ~ 50 different symbols or so) == `50^32 ~ 10^54` but that unreal to be brutted even if some efficient code will brute this task on all bitcoin ASICS on the plannet with their typical hashing speed.
 
@@ -115,7 +115,7 @@ Anyway, with my JS approach i bruted a million inputs per day - and no success.
 
 Thank you for spending time on my notes, i hope it was not totally useless and you've found something interesting. 
 
-Any ideas\questions or propositions you may send to generalizatorSUB@gmail.com - also look at my twitter [[13]](https://twitter.com/miningpredict) @MiningPredict.
+Any ideas\questions or propositions you may send to generalizatorSUB@gmail.com - also look at my twitter [[8]](https://twitter.com/miningpredict) @MiningPredict.
 
 -------------------------------------------------------------------------
 ### References:
@@ -134,11 +134,11 @@ Any ideas\questions or propositions you may send to generalizatorSUB@gmail.com -
 
 [7] Alexander Alekhine - https://en.wikipedia.org/wiki/Alexander_Alekhine
 
-[13] MiningPredict (my twitter page) - https://twitter.com/miningpredict
+[8] MiningPredict (my twitter page) - https://twitter.com/miningpredict
 
-[14] "that's impossible (?!) no it's necessary"  - https://www.youtube.com/watch?v=6ixvpLCdqkA
+[9] "that's impossible (?!) no it's necessary"  - https://www.youtube.com/watch?v=6ixvpLCdqkA
 
-[15] CryptoJS bug - https://github.com/brix/crypto-js/issues/293
+[10] CryptoJS bug - https://github.com/brix/crypto-js/issues/293
 
 -------------------------------------------------------------------------
 ### Support
