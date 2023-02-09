@@ -51,7 +51,11 @@ Finally, assuming that the length of the answer is 7 i consider the next keys: `
 
 The biography of the [[7]](https://en.wikipedia.org/wiki/Alexander_Alekhine) suit the key context:
 ```
-...After World War II, Alekhine was not invited to chess tournaments outside the Iberian Peninsula, because of his alleged Nazi affiliation. His original invitation to the London 1946 tournament was withdrawn when the other competitors protested. While planning for a World Championship match against Botvinnik,[65] Alekhine died aged 53 in his hotel room in Estoril, Portugal, on March 24, 1946.[83] The circumstances of his death are still a matter of debate.....
+...After World War II, Alekhine was not invited to chess tournaments outside the Iberian Peninsula, because 
+of his alleged Nazi affiliation. His original invitation to the London 1946 tournament was withdrawn when 
+the other competitors protested. While planning for a World Championship match against Botvinnik,[65] Alekhine 
+died aged 53 in his hotel room in Estoril, Portugal, on March 24, 1946.[83] The circumstances of his death are 
+still a matter of debate.....
 ```
 
 Finally, assuming that the length of the answer is 8 i consider the next keys: `"Alekhine"`, `"alekhine"`, `...`
