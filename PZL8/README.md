@@ -49,6 +49,8 @@ Finally, assuming that the length of the answer is 7 i consider the next keys: `
 ## 3-rd key
 ![3-rd key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL8/pics/3.png )
 
+The biography of the [[7]](https://en.wikipedia.org/wiki/Alexander_Alekhine) suit the key context.
+
 Finally, assuming that the length of the answer is 8 i consider the next keys: `"Alekhine"`, `"alekhine"`, `...`
 
 
@@ -128,6 +130,8 @@ Any ideas\questions or propositions you may send to generalizatorSUB@gmail.com -
 [5] Kaiser Wilhelm II and Winston Churchill together at a military demonstration - https://historycolored.com/photos/8773/kaiser-wilhelm-ii-and-winston-churchill-together-at-a-military-demonstration-september-1906/
 
 [6] Wilhelm II, German Emperor - https://en.wikipedia.org/wiki/Wilhelm_II,_German_Emperor
+
+[7] Alexander Alekhine - https://en.wikipedia.org/wiki/Alexander_Alekhine
 
 [13] MiningPredict (my twitter page) - https://twitter.com/miningpredict
 
