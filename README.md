@@ -9,4 +9,5 @@ Solving of Arweave Puzzles
 
 [Puzzle #8 (    Solved)](https://github.com/HomelessPhD/AR_Puzzles/tree/main/PZL8)
 
-No worries - i am just have started to fill this section. Hope in a week i'll fill all puzzles sections with ideas i have proposed and\or gathered.
+ONGOING - in the middle of operation, wait for updates!
+(please, someone, save me from this madeness - 1 BTC would be enough for me to calm and simply got regular job)
