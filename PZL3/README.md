@@ -198,6 +198,20 @@ Finally, i'd consider the next keys here: `base, data, apps, dapp, star, cost, c
    [4] The fourth picture (the lower its part) could image the "AR CASH" concept (the native token of the network that is actually were called as AR.CASH".
    While the ARWEAVE LOGO on the upper part of the picture could shape the answer slicing it to 4-letter: "(AR.)CASH" 
    
+   [5] The fifth picture is a MAP of THREE COUNTRIES: Denmark Norway Sweden (DNS).
+   Its pretty weak and generally hard to - workaround using the proposed concept-hint rule, but the answer here could be "(DNS)PORT" or
+   "(DNS)1984" or "(PORT)1984" or "(MAP)SCAN". Propose your options in terms of concept-hint idea guys.
+   
+   [6] The sixth picture shows the TREE that have 4 roots, 4 branches and 32 leafs. I could assume that MERKLE TREE pictured here, that
+   is the concept. And TREE is a answer-shaping hint here. The MERKLE tree is actually a HASH tree so i could assume "HASH(TREE)" solution.
+   
+   [7] This picture could be interpreted as "UP" and "CACTUS". Weak idea here to think it pointing to the UPVEST investor. The letters Up shaped on
+   the picture as some weird cactus (needles around letters) and one could assume "WEST" here that very close to VEST - thats why UPVEST seemed to be
+   a concept here. The hint - those two letters "UP" that shape the answer to "(UP)VEST"
+   
+   [8] Here, again, a weak solution - there are 58 circular objects on the picture that will be assumed as a hint. The concept part could be taken from 
+   the fact that it is the final picture. Some crypto operations end with BASE58 encodings. BASE58 could be the concept while "58" is a answer-shaping hint.
+   The solution - "BASE(58)"
    
    ```
 
