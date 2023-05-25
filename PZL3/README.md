@@ -169,6 +169,23 @@ Finally, i'd consider the next keys here: `base, data, apps, dapp, star, cost, c
 
 
 # "Exotic" ideas
+0)   I assume each picture could contain at least two parts: the one that determine some complex term or concept 
+   (process of block mining pictured on 3rd picture - the algorithm before N 1.7.0.0 was SHA384) and the second
+   part slice or shape this term or concept into 4-letter result ( (SH)A384 - "SH" already pictured on the image 
+   leaving 4-letter result "A384)
+   
+   Moving this way, i could propose the next simple ideas for all 8 keys that still seems not strong enough to be
+   assumed as final solution but could point us in the right direction:
+   ```
+   [1] It is the first picture in puzzle and so i could assume its order could mean something - most ppl would get know
+   about the ARWEAVE at its announcement and so its "ANNOUNCE". It pictures the 4 letters "ANNO" leaving "UNCE" for solution.
+       (its pretty weak i should say)  
+       Another idea that is actually pretty close to previous - it is the first picture meaning the START of the project. And 
+   it has 4 letters "ANNO" that mean "SINCE" meaning in some languages (in Europe one could meat the string on the building
+   "ANNO 1902" meaning that building was build in 1902 and currently stay since that year). 
+   So i could assume here the "SINCE 2017" or "SINCE 2018" or "SINCE 2019" with slicing it to the year only 4-digit answer.
+       (this looks better than previous option, but still weal)
+   ```
 
 1) I suppose, all the puzzle could be related to Arweave project [[10]](https://arweave.news/what-is-arweave-ar/),[[10']](https://arwiki.wiki/#/en/main) or even more convrete - the mining. Fresh article about Arweave mining could be found here [[10'']](https://arwiki.wiki/#/en/arweave-mining)
 
