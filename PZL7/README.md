@@ -84,9 +84,12 @@ Finally, i'd consider the next keys here: `"Permanent"`, `"permanent"`, `"Etique
 ## 4-th key
 ![4-th key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL7/pics/4.png )
 
-This was found to be an anagram for "The domain of Edgar Allan Poe" and yet the HTML-encoded hint shows "7". There is a short story composed by Edgar Allan Poe named "THE DOMAIN OF ARNHEIM" [[9]](https://www.bauerverlag.eu/downloads/domain_.pdf). `"Arnheim"` is a 7 letter word that fits the requested length and the anagram context. Another word that can be used too could be the names from this story. For example, `"Ellison"`.
+This was found to be an anagram for "The domain of Edgar Allan Poe" and yet the HTML-encoded hint shows "7". 
+In general, one could notice that the DOMAIN of Edgar Allan Poe is literature. If be more specific - "FICTION", "MYSTERY", "MADNESS", "MACABRE".
 
-Finally, i'd consider the next keys here: `"Arnheim"`, `"arnheim"`, `"Ellison"`, `"ellison"`, `...`
+There is also a short story composed by Edgar Allan Poe named "THE DOMAIN OF ARNHEIM" [[9]](https://www.bauerverlag.eu/downloads/domain_.pdf). `"Arnheim"` is a 7 letter word that fits the requested length and the anagram context. Another word that can be used too could be the names from this story. For example, `"Ellison"`.
+
+Finally, i'd consider the next keys here: `"Arnheim"`, `"arnheim"`, `"Ellison"`, `"ellison"`, `"Fiction"`, `"fiction"`, `"Mystery"`,`"mystery"`, `"Madness"`,`"madness"`, `"Macabre"`, `"macabre"`, `...`
 
 ## 5-th key
 ![5-th key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL7/pics/5.png )
