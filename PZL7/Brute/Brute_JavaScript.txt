@@ -1,7 +1,7 @@
 var k_1 = ["Vivaldi", "vivaldi", "AntonioLucioVivaldi", "AntonioVivaldi", "Antonio", "music", "violin", "Valid", "valid"];
 var k_2 = ["LifeOfPi", "lifeofpi", "RichardParker", "richardparker", "227", "YannMartel", "yannmartel", "Martel", "martel", "Yann", "yann", "Thirsty", "thirsty", "film", "book", "story"];
 var k_3 = ["Permanent", "permanent", "Etiquette", "etiquette", "etiquette", "Nathaniel", "nathaniel"];
-var k_4 = ["Arnheim", "arnheim", "Ellison", "ellison"];
+var k_4 = ["Arnheim", "arnheim", "Ellison", "ellison", "Fiction", "fiction", "Mystery","mystery", "Madness","madness", "Macabre", "macabre"];
 var k_5 = ["Behemoth", "behemoth", "Bulgakov", "bulgakov", "Azazello", "azazello", "Koroviev", "koroviev"];
 var k_6 = ["Solar", "Lunar", "solar", "lunar", "Solareclipse", "SolarEclipse", "solareclipse", "Lunareclipse", "LunarEclipse", "lunareclipse", "1157", "eclipses", "Eclipses"];
 for(var i=0;i<200;i++)
