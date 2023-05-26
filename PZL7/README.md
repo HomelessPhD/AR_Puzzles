@@ -114,7 +114,7 @@ Finally, i'd consider the next keys here: `"Solar"`, `"Lunar"`, `"solar"`, `"lun
 
 The first idea is to search the information about fruit found in 2014 and somehow filter their names or story correspond to visual context of this key (squirel) and HTML-coded hint that says: "{7}". Some fruit names are: ANABP01, Achacha, ...
 
-But another idea seems more promising. Searching for crypto related facts related to 2014 one may find out that Vitaly "Vitalik" Buterin (with ETHereum) actually won World Technology Network Award in 2014 [[12]](https://www.coindesk.com/markets/2014/11/19/ethereums-vitalik-buterin-wins-world-technology-network-award/). The squirel could be easily related to Vitalik itself and new fruit is.... ETHereum. Assuming the hint saying it should be 7 letter word, the answer could be: Butering or Vitalik.
+But another idea seems more promising. Searching for crypto related facts related to 2014 one may find out that Vitaly "Vitalik" Buterin (with ETHereum) actually won World Technology Network Award in 2014 [[12]](https://www.coindesk.com/markets/2014/11/19/ethereums-vitalik-buterin-wins-world-technology-network-award/). The squirel could be easily related to Vitalik itself and new fruit is.... ETHereum. Assuming the hint saying it should be 7 letter word, the answer could be: Buterin or Vitalik.
 
 ![Vitalik](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL7/pics/VB.jpg )
 
