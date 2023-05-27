@@ -107,7 +107,9 @@ Googling these numbers, one may find an interesting coincidence: all numbers tre
 
 Also, this series of years related to some special sub-series of "strong" Eclipses (with some special attribute or feature) with a specific name that is the right answer. Some tethrada.
 
-Finally, i'd consider the next keys here: `"Solar"`, `"Lunar"`, `"solar"`, `"lunar"`, `"Solareclipse"`, `"SolarEclipse"`, `"solareclipse"`, `"Lunareclipse"`, `"LunarEclipse"`, `"lunareclipse"`, `"1157"`, `"eclipses"`, `"Eclipses"`,`"eclipse"`, `"Eclipse"`, ... `<some years from 1900 to 2100>`, `...`
+One active telegram member proposed another "1984" relation for this key: "Who controls the past controls the future. Who controls the present controls the past." This is the quote from George Orwell's 1984 novel and so the answer could be "1984" or "present" or even the name of the novel author.
+
+Finally, i'd consider the next keys here: `"Solar"`, `"Lunar"`, `"solar"`, `"lunar"`, `"Solareclipse"`, `"SolarEclipse"`, `"solareclipse"`, `"Lunareclipse"`, `"LunarEclipse"`, `"lunareclipse"`, `"1157"`, `"eclipses"`, `"Eclipses"`,`"eclipse"`, `"Eclipse"`, ... `<some years from 1900 to 2100>`, `Orwell`,`GeorgeOrwell`, `...`
 
 ## 7-th key
 ![7-th key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL7/pics/7.png )
