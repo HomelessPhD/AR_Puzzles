@@ -40,7 +40,22 @@ It is a stock image of dice [[4]](https://www.nicepng.com/ourpic/u2e6r5w7w7a9q8a
 ## 2-nd key
 
 ![AR puzzle #10 key #2](https://github.com/HomelessPhD/AR_Puzzles/blob/42008e05471a8821fdf8d1277455f597c14ab6f5/PZL10/pics/pzl10_key_2.jpg)
-....
+
+It is an image of  three numbers: 6, 3, 18. They could mean the Arweave ICO date: 2018\06\03 that could be interpreted as Arweave ICO date. Known facts about that [[5]](https://icodrops.com/arweave/):
+
+```
+...
+Important: 1.1% of genesis block supply (55 mln tokens) is available in the public sale, for which there is a hardcap of $400k USD.
+...
+ TOKEN SALE: 3 JUN – 6 JUN (2018)
+Ticker: AR Token 
+type: ERC20 
+ICO Token Price: 1 AR = 0.73 USD
+Fundraising Goal: ETH
+Total Tokens: 66,000,000 
+Available for Token Sale: 20,6%
+Whitelist: YES (UNTIL 25 MAY, JOIN ) Accepts: ETH
+
 
 ## 3-rd key
 
@@ -137,6 +152,8 @@ https://twitter.com/ArweaveP/status/1250025710133092353
 [3] Telegram group of Arweave puzzles solvers community - @arweavep
 
 [4] Dice stock image - https://www.nicepng.com/ourpic/u2e6r5w7w7a9q8a9_open-dice-svg/
+
+[5] Arweave ICO - https://icodrops.com/arweave/
 
 [11] MiningPredict (my twitter page) - https://twitter.com/miningpredict
 
