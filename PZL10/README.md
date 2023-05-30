@@ -61,7 +61,8 @@ Whitelist: YES (UNTIL 25 MAY, JOIN ) Accepts: ETH
 ## 3-rd key
 
 ![AR puzzle #10 key #3](https://github.com/HomelessPhD/AR_Puzzles/blob/42008e05471a8821fdf8d1277455f597c14ab6f5/PZL10/pics/pzl10_key_3.jpg)
-....
+
+Most hunters sees here the Palpatin face and letter a (arweave reference) upon it. Here is the Wiki picture of Palpatin (from cosplay photo) that is likely being used here
 
 ## 4-th key
 
