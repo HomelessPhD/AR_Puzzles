@@ -12,6 +12,11 @@ Puzzle consists of the HTML page (sources also attached in this git - but could 
 
 ![AR puzzle #10 solving](https://github.com/HomelessPhD/AR_Puzzles/blob/8bf62655e36fb91f9db36fa8cfe44059f149495a/PZL10/pics/PZL_10_solving.png )
 
+# Assembling the puzzle
+The puzzle originally given by shread or dissassebled picture - here what one can obtained assembling it back to the one picture
+
+![AR puzzle #10 keys ASSEMBLED](https://github.com/HomelessPhD/AR_Puzzles/blob/f9fa2f2795d35a2183ff00159a8692bb2e17125d/PZL10/pics/pzl_10_assembled.jpg)
+
 # The official hints given by the puzzle creator are listed below:
 
     
