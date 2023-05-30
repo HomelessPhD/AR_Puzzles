@@ -29,21 +29,32 @@ The puzzle originally given by shread or dissassebled picture - here what one ca
 Some ideas came to my mind, others were captured from Twitter or\and the telegram group [[3]](@arweavep) - you definitely should visit it for ideas sharing.
 (at first few months i have forcefully avoided visiting any forums or groups when i saw the puzzle at first because i thought that ideas of others could freeze my own thinking process - it is when you start to think primarly in the way proposed by some other solver and, got stuck on it, but later trying my own ideas with my own dummy brute forcing method i skipped that rule. I am actively posting any ideas came to my mind in that group, hoping someone of us will be able to solve the puzzle sharing some part of revenue and GLORY)
 
-There are pretty "classic" ideas of what each image could code, but also there apretty exotic ideas. The last will be discussed at the end of this paper. Lets consider each picture one by one at first:
+There are pretty "classic" ideas of what each image could code, but also there apretty exotic ideas. The last will be discussed at the end of this paper. Lets consider each picture "objects" one by one at first:
 
 ## 1-st key
 
+![AR puzzle #10 key #1](https://github.com/HomelessPhD/AR_Puzzles/blob/42008e05471a8821fdf8d1277455f597c14ab6f5/PZL10/pics/pzl10_key_1.jpg)
 ....
 
 ## 2-nd key
 
+![AR puzzle #10 key #2](https://github.com/HomelessPhD/AR_Puzzles/blob/42008e05471a8821fdf8d1277455f597c14ab6f5/PZL10/pics/pzl10_key_2.jpg)
 ....
-
 
 ## 3-rd key
 
+![AR puzzle #10 key #3](https://github.com/HomelessPhD/AR_Puzzles/blob/42008e05471a8821fdf8d1277455f597c14ab6f5/PZL10/pics/pzl10_key_3.jpg)
 ....
 
+## 4-th key
+
+![AR puzzle #10 key #4](https://github.com/HomelessPhD/AR_Puzzles/blob/42008e05471a8821fdf8d1277455f597c14ab6f5/PZL10/pics/pzl10_key_4.jpg)
+....
+
+## 5-th key
+
+![AR puzzle #10 key #1](https://github.com/HomelessPhD/AR_Puzzles/blob/42008e05471a8821fdf8d1277455f597c14ab6f5/PZL10/pics/pzl10_key_5.jpg)
+....
 
 
 # "Exotic" ideas
