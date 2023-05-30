@@ -34,7 +34,8 @@ There are pretty "classic" ideas of what each image could code, but also there a
 ## 1-st key
 
 ![AR puzzle #10 key #1](https://github.com/HomelessPhD/AR_Puzzles/blob/42008e05471a8821fdf8d1277455f597c14ab6f5/PZL10/pics/pzl10_key_1.jpg)
-....
+
+It is a stock image of dice [[4]](https://www.nicepng.com/ourpic/u2e6r5w7w7a9q8a9_open-dice-svg/) with "win" numbers "1" and "4" AND all shown numbers here are: "2,1,4" and "2,4".
 
 ## 2-nd key
 
@@ -135,7 +136,7 @@ https://twitter.com/ArweaveP/status/1250025710133092353
 
 [3] Telegram group of Arweave puzzles solvers community - @arweavep
 
-
+[4] Dice stock image - https://www.nicepng.com/ourpic/u2e6r5w7w7a9q8a9_open-dice-svg/
 
 [11] MiningPredict (my twitter page) - https://twitter.com/miningpredict
 
