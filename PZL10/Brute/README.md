@@ -18,11 +18,11 @@ in this git around this README file) code in there
 Do not forget to adjust the script for YOUr needs replacing default "keys" (inputs):
 
 ```
-var k_1 = [""];
-var k_2 = [""];
-var k_3 = [""];
-var k_4 = [""];
-var k_5 = [""];
+var k_1 = ["key1"];
+var k_2 = ["key2"];
+var k_3 = ["key3"];
+var k_4 = ["key4"];
+var k_5 = ["key5"];
 ```
 
 The script work could be easily paralelized - just open few instances of the page and make the same procedure in both, BUT adjust the parameters in script: look at variables **thr_ind** and **thr_num**.
