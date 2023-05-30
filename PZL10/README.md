@@ -87,39 +87,39 @@ It contains the corrupted (unfinished) string: "...nesis #28", AND a key attache
 
 The "...nesis #28" could be referece the Genesis block of Arweave, where the first investors have put short messages. I have composed a simple python script to get all messages in one file to analize them (could be found in "genesis_block" folder here in github). The 30 messages (transactions data) shown below (others could be founbd in the same folder "genesis_block"):
 ```
-Karthik's Birthday
-order is nothing more than a characteristic of the human inability to accept chaos.
-hebikvandaagalgezegthoeveelikvanjehou. RR-MK-K-E en Roetie
-RG08
-Together we shall witness and guard the history of mankind. AG.
-Monkey Capital with Daniel Harrison is a crypto scam group. 
-Git Good
-More Rigs
-Good luck archain! Great project. Hope this is the start of the new internet. Love to my children Oliver N and Deirdre O and lady Lisa xx
-Good luck!
-Sammen for Drammen
-ROCK SOLID
-sonatix
-test
-guys!
-Good luck Sam and team.
-test
-Dedicated to my sons
-test
-Remember Bitcoins? If so, send your spares to this address, since they're now obsolete! 1eZr2EfVhdBfpF2JHrVTrAHsgHgywWo4D
-Hello world :-)
-this sounds like a really promising project!
-Namo Buddhaya
-Hey. See you when the price hits 1000$ per token :)
-internet forever
-Grow Archain grow
-transparency and integrity are the salvation of humanity.  
-We'll see what happens
-To my sons future
-This is very exciting and I wholeheartedly support this project :)
+1] Karthik's Birthday
+2] order is nothing more than a characteristic of the human inability to accept chaos.
+3] hebikvandaagalgezegthoeveelikvanjehou. RR-MK-K-E en Roetie
+4] RG08
+5] Together we shall witness and guard the history of mankind. AG.
+6] Monkey Capital with Daniel Harrison is a crypto scam group. 
+7] Git Good
+8] More Rigs
+9] Good luck archain! Great project. Hope this is the start of the new internet. Love to my children Oliver N and Deirdre O and lady Lisa xx
+10] Good luck!
+11] Sammen for Drammen
+12] ROCK SOLID
+13] sonatix
+14] test
+15] guys!
+16] Good luck Sam and team.
+17] test
+18] Dedicated to my sons
+19] test
+20] Remember Bitcoins? If so, send your spares to this address, since they're now obsolete! 1eZr2EfVhdBfpF2JHrVTrAHsgHgywWo4D
+21] Hello world :-)
+22] this sounds like a really promising project!
+23] Namo Buddhaya
+24] Hey. See you when the price hits 1000$ per token :)
+25] internet forever
+26] Grow Archain grow
+27] transparency and integrity are the salvation of humanity.  
+28] We'll see what happens
+29] To my sons future
+30] This is very exciting and I wholeheartedly support this project :)
 
 ```
-
+***We'll see what happens*** - this phrase is the #28 transaction data in the Arweave genesis block (or "To my sons future" if index the first message with 0) 
 
 # "Exotic" ideas
 
