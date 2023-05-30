@@ -71,12 +71,54 @@ Some remind here the Palpatine quote: "The time has come. Execture ***order 66**
 ## 4-th key
 
 ![AR puzzle #10 key #4](https://github.com/HomelessPhD/AR_Puzzles/blob/42008e05471a8821fdf8d1277455f597c14ab6f5/PZL10/pics/pzl10_key_4.jpg)
-....
+
+It simply contain the string "[0-19]". 
+One may assume here several ideas, it either code one integer from 0 to 19 interval, it slice the asnwers to the
+previous keys to only 20 characters (all chras with indexes from 0 to 19 from the formed on previous step string)
+or specify that it should be 20 char length, it should be simply 20 integer numbers 0,1,2,3,....,19 ("0123.....19") 
 
 ## 5-th key
 
 ![AR puzzle #10 key #1](https://github.com/HomelessPhD/AR_Puzzles/blob/42008e05471a8821fdf8d1277455f597c14ab6f5/PZL10/pics/pzl10_key_5.jpg)
-....
+
+The "fifth key" is special - it is separated from the main picture and so oculd be assumed not as a key to the solution BUT hint (meaning its not about adding extra characters to the answer in extra to the previous keys but rather describe the whole solution along with previous keys).
+
+It contains the corrupted (unfinished) string: "...nesis #28", AND a key attached to this string with help of clip. There are some hieroglyphs on the key. Some one describe them as "Earth" (try google translator - it will result in Chinese as "地 球"). Symbols on the key could actually be important or simply be part of the stock key used here (it could be a brand Earth or Globe or similar).
+
+The "...nesis #28" could be referece the Genesis block of Arweave, where the first investors have put short messages. I have composed a simple python script to get all messages in one file to analize them (could be found in "genesis_block" folder here in github). The 30 messages (transactions data) shown below (others could be founbd in the same folder "genesis_block"):
+```
+Karthik's Birthday
+order is nothing more than a characteristic of the human inability to accept chaos.
+hebikvandaagalgezegthoeveelikvanjehou. RR-MK-K-E en Roetie
+RG08
+Together we shall witness and guard the history of mankind. AG.
+Monkey Capital with Daniel Harrison is a crypto scam group. 
+Git Good
+More Rigs
+Good luck archain! Great project. Hope this is the start of the new internet. Love to my children Oliver N and Deirdre O and lady Lisa xx
+Good luck!
+Sammen for Drammen
+ROCK SOLID
+sonatix
+test
+guys!
+Good luck Sam and team.
+test
+Dedicated to my sons
+test
+Remember Bitcoins? If so, send your spares to this address, since they're now obsolete! 1eZr2EfVhdBfpF2JHrVTrAHsgHgywWo4D
+Hello world :-)
+this sounds like a really promising project!
+Namo Buddhaya
+Hey. See you when the price hits 1000$ per token :)
+internet forever
+Grow Archain grow
+transparency and integrity are the salvation of humanity.  
+We'll see what happens
+To my sons future
+This is very exciting and I wholeheartedly support this project :)
+
+```
 
 
 # "Exotic" ideas
