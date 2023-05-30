@@ -23,6 +23,9 @@ The puzzle originally given by shread or dissassebled picture - here what one ca
 ```
     From Twitter:
     
+    *] 1,2,4,8 = solved
+       3,5,7,9 = not solved yet
+       it seems like odds are harder?
 
 ```    
 
