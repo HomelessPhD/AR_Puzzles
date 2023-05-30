@@ -1,0 +1,580 @@
+1673979095472	geckodriver	INFO	Listening on 127.0.0.1:50295
+1673979095949	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "33081" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileI1rnmY"
+Gtk-Message: 20:11:35.965: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673979096347	Marionette	INFO	Marionette enabled
+1673979096349	Marionette	INFO	Listening on port 36497
+Read port: 36497
+WebDriver BiDi listening on ws://127.0.0.1:33081
+1673979096445	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileI1rnmY/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:33081/devtools/browser/4e0cc1b8-0f9f-4942-ac7c-b5a5611f3a70
+JavaScript warning: https://viewblock.io/_next/static/chunks/main-8c9c30bd447e7b01.js, line 1: unreachable code after return statement
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1673979100231	Marionette	INFO	Stopped listening on port 36497
+1673982860793	geckodriver	INFO	Listening on 127.0.0.1:54715
+1673982861278	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "44007" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilepMZZYZ"
+Gtk-Message: 21:14:21.295: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673982861678	Marionette	INFO	Marionette enabled
+1673982861680	Marionette	INFO	Listening on port 37223
+WebDriver BiDi listening on ws://127.0.0.1:44007
+Read port: 37223
+1673982861875	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepMZZYZ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:44007/devtools/browser/f3e37492-8168-48e7-b3a6-c767754793c9
+JavaScript warning: https://viewblock.io/_next/static/chunks/main-8c9c30bd447e7b01.js, line 1: unreachable code after return statement
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript warning: https://viewblock.io/_next/static/chunks/main-8c9c30bd447e7b01.js, line 1: unreachable code after return statement
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1673982865013	Marionette	INFO	Stopped listening on port 37223
+1673982986591	geckodriver	INFO	Listening on 127.0.0.1:57757
+1673982987062	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "59163" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileiHucwY"
+Gtk-Message: 21:16:27.078: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673982987461	Marionette	INFO	Marionette enabled
+1673982987464	Marionette	INFO	Listening on port 34011
+WebDriver BiDi listening on ws://127.0.0.1:59163
+Read port: 34011
+1673982987641	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileiHucwY/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59163/devtools/browser/ad55b5a7-1398-45e1-840d-6965a4035c92
+JavaScript warning: https://viewblock.io/_next/static/chunks/main-8c9c30bd447e7b01.js, line 1: unreachable code after return statement
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript warning: https://viewblock.io/_next/static/chunks/main-8c9c30bd447e7b01.js, line 1: unreachable code after return statement
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1673983146251	Marionette	INFO	Stopped listening on port 34011
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1673983148651	geckodriver	INFO	Listening on 127.0.0.1:49863
+1673983149146	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "53819" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileElKeka"
+Gtk-Message: 21:19:09.162: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673983149546	Marionette	INFO	Marionette enabled
+1673983149549	Marionette	INFO	Listening on port 35161
+WebDriver BiDi listening on ws://127.0.0.1:53819
+Read port: 35161
+1673983149743	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileElKeka/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53819/devtools/browser/984413ae-37a3-40b2-af09-7470cc58fe4d
+JavaScript warning: https://viewblock.io/_next/static/chunks/main-8c9c30bd447e7b01.js, line 1: unreachable code after return statement
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript warning: https://viewblock.io/_next/static/chunks/main-8c9c30bd447e7b01.js, line 1: unreachable code after return statement
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1673983154819	Marionette	INFO	Stopped listening on port 35161
+1673983814503	geckodriver	INFO	Listening on 127.0.0.1:52687
+1673983814983	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "40513" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilexn1fXq"
+Gtk-Message: 21:30:14.999: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673983815386	Marionette	INFO	Marionette enabled
+1673983815389	Marionette	INFO	Listening on port 43917
+WebDriver BiDi listening on ws://127.0.0.1:40513
+Read port: 43917
+1673983815580	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexn1fXq/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:40513/devtools/browser/2711652b-47cc-4c6f-ad39-46c4d129f082
+JavaScript warning: https://viewblock.io/_next/static/chunks/main-8c9c30bd447e7b01.js, line 1: unreachable code after return statement
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript warning: https://viewblock.io/_next/static/chunks/main-8c9c30bd447e7b01.js, line 1: unreachable code after return statement
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1673983830941	Marionette	INFO	Stopped listening on port 43917
+1673984008856	geckodriver	INFO	Listening on 127.0.0.1:47411
+1673984009326	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "38115" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileThDUwB"
+Gtk-Message: 21:33:29.342: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673984009722	Marionette	INFO	Marionette enabled
+1673984009724	Marionette	INFO	Listening on port 38387
+Read port: 38387
+WebDriver BiDi listening on ws://127.0.0.1:38115
+1673984009821	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1673984806848	geckodriver	INFO	Listening on 127.0.0.1:44551
+1673984807330	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "47227" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilesbVG1S"
+Gtk-Message: 21:46:47.348: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673984807738	Marionette	INFO	Marionette enabled
+1673984807741	Marionette	INFO	Listening on port 44771
+Read port: 44771
+WebDriver BiDi listening on ws://127.0.0.1:47227
+1673984807878	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesbVG1S/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:47227/devtools/browser/9434f298-346e-4b3d-be6d-bbef5f58f72d
+JavaScript warning: https://viewblock.io/_next/static/chunks/main-8c9c30bd447e7b01.js, line 1: unreachable code after return statement
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript warning: https://viewblock.io/_next/static/chunks/main-8c9c30bd447e7b01.js, line 1: unreachable code after return statement
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1673984823035	Marionette	INFO	Stopped listening on port 44771
+1673984823616	geckodriver	INFO	Listening on 127.0.0.1:49921
+1673984824078	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "59959" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile27EIqa"
+Gtk-Message: 21:47:04.095: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673984824496	Marionette	INFO	Marionette enabled
+1673984824498	Marionette	INFO	Listening on port 38307
+Read port: 38307
+WebDriver BiDi listening on ws://127.0.0.1:59959
+1673984824608	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile27EIqa/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59959/devtools/browser/3ba32f86-f085-4e07-8417-d196f029ad33
+JavaScript warning: https://viewblock.io/_next/static/chunks/main-8c9c30bd447e7b01.js, line 1: unreachable code after return statement
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript warning: https://viewblock.io/_next/static/chunks/main-8c9c30bd447e7b01.js, line 1: unreachable code after return statement
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1673984839074	Marionette	INFO	Stopped listening on port 38307
+1673984839684	geckodriver	INFO	Listening on 127.0.0.1:46135
+1673984840144	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "52101" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileGBNMLI"
+Gtk-Message: 21:47:20.160: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673984840611	Marionette	INFO	Marionette enabled
+1673984840614	Marionette	INFO	Listening on port 41977
+Read port: 41977
+WebDriver BiDi listening on ws://127.0.0.1:52101
+1673984840676	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGBNMLI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52101/devtools/browser/3381d6d2-1108-48e9-abdd-11418869df18
+JavaScript warning: https://viewblock.io/_next/static/chunks/main-8c9c30bd447e7b01.js, line 1: unreachable code after return statement
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript warning: https://viewblock.io/_next/static/chunks/main-8c9c30bd447e7b01.js, line 1: unreachable code after return statement
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1673984853883	Marionette	INFO	Stopped listening on port 41977
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1673984854420	geckodriver	INFO	Listening on 127.0.0.1:35683
+1673984854902	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "39251" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileGlcl8M"
+Gtk-Message: 21:47:34.918: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673984855307	Marionette	INFO	Marionette enabled
+1673984855310	Marionette	INFO	Listening on port 37185
+WebDriver BiDi listening on ws://127.0.0.1:39251
+Read port: 37185
+1673984855509	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGlcl8M/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:39251/devtools/browser/0400ff75-0ae5-4a1b-8265-8dd74948524c
+JavaScript warning: https://viewblock.io/_next/static/chunks/main-8c9c30bd447e7b01.js, line 1: unreachable code after return statement
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript warning: https://viewblock.io/_next/static/chunks/main-8c9c30bd447e7b01.js, line 1: unreachable code after return statement
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1673984868810	Marionette	INFO	Stopped listening on port 37185
+1673984869391	geckodriver	INFO	Listening on 127.0.0.1:52913
+1673984869849	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "57995" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilehMC1hj"
+Gtk-Message: 21:47:49.865: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673984870262	Marionette	INFO	Marionette enabled
+1673984870265	Marionette	INFO	Listening on port 38155
+WebDriver BiDi listening on ws://127.0.0.1:57995
+Read port: 38155
+1673984870438	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehMC1hj/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57995/devtools/browser/1d1a47f6-f853-45e4-9b1d-89daa4d558ae
+JavaScript warning: https://viewblock.io/_next/static/chunks/main-8c9c30bd447e7b01.js, line 1: unreachable code after return statement
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript warning: https://viewblock.io/_next/static/chunks/main-8c9c30bd447e7b01.js, line 1: unreachable code after return statement
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1673984883551	Marionette	INFO	Stopped listening on port 38155
+1673984884099	geckodriver	INFO	Listening on 127.0.0.1:33071
+1673984884558	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "58051" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileQkoJ6k"
+Gtk-Message: 21:48:04.576: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673984884973	Marionette	INFO	Marionette enabled
+1673984884975	Marionette	INFO	Listening on port 40203
+WebDriver BiDi listening on ws://127.0.0.1:58051
+Read port: 40203
+1673984885142	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQkoJ6k/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58051/devtools/browser/ae4109a7-31a0-4a33-8f9b-eb69004d8f54
+JavaScript warning: https://viewblock.io/_next/static/chunks/main-8c9c30bd447e7b01.js, line 1: unreachable code after return statement
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript warning: https://viewblock.io/_next/static/chunks/main-8c9c30bd447e7b01.js, line 1: unreachable code after return statement
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1673984898693	Marionette	INFO	Stopped listening on port 40203
+1673984899241	geckodriver	INFO	Listening on 127.0.0.1:52093
+1673984899702	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "55467" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilepfeWBa"
+Gtk-Message: 21:48:19.719: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673984900111	Marionette	INFO	Marionette enabled
+1673984900113	Marionette	INFO	Listening on port 37295
+WebDriver BiDi listening on ws://127.0.0.1:55467
+Read port: 37295
+1673984900305	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepfeWBa/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55467/devtools/browser/c0d96230-5377-4f9a-a7a2-2532c7df1f32
+JavaScript warning: https://viewblock.io/_next/static/chunks/main-8c9c30bd447e7b01.js, line 1: unreachable code after return statement
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript warning: https://viewblock.io/_next/static/chunks/main-8c9c30bd447e7b01.js, line 1: unreachable code after return statement
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1673984913907	Marionette	INFO	Stopped listening on port 37295
+1673984914479	geckodriver	INFO	Listening on 127.0.0.1:59937
+1673984914935	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "54511" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiletf3dkg"
+Gtk-Message: 21:48:34.951: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673984915354	Marionette	INFO	Marionette enabled
+1673984915356	Marionette	INFO	Listening on port 44203
+WebDriver BiDi listening on ws://127.0.0.1:54511
+Read port: 44203
+1673984915539	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletf3dkg/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54511/devtools/browser/cc5ca542-3233-4076-90e7-9a0c5fd5238b
+JavaScript warning: https://viewblock.io/_next/static/chunks/main-8c9c30bd447e7b01.js, line 1: unreachable code after return statement
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript warning: https://viewblock.io/_next/static/chunks/main-8c9c30bd447e7b01.js, line 1: unreachable code after return statement
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1673984928943	Marionette	INFO	Stopped listening on port 44203
+1673984929542	geckodriver	INFO	Listening on 127.0.0.1:50331
+1673984930003	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "50525" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileFT1K1w"
+Gtk-Message: 21:48:50.021: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673984930415	Marionette	INFO	Marionette enabled
+1673984930418	Marionette	INFO	Listening on port 42823
+WebDriver BiDi listening on ws://127.0.0.1:50525
+Read port: 42823
+1673984930615	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFT1K1w/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50525/devtools/browser/b575203d-5e30-44c2-9e90-5f3f36b46000
+JavaScript warning: https://viewblock.io/_next/static/chunks/main-8c9c30bd447e7b01.js, line 1: unreachable code after return statement
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript warning: https://viewblock.io/_next/static/chunks/main-8c9c30bd447e7b01.js, line 1: unreachable code after return statement
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1673984943737	Marionette	INFO	Stopped listening on port 42823
+1673984944293	geckodriver	INFO	Listening on 127.0.0.1:60411
+1673984944750	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "54823" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileHLeSLn"
+Gtk-Message: 21:49:04.766: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673984945166	Marionette	INFO	Marionette enabled
+1673984945168	Marionette	INFO	Listening on port 36975
+Read port: 36975
+WebDriver BiDi listening on ws://127.0.0.1:54823
+1673984945309	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHLeSLn/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54823/devtools/browser/695857bc-d70e-408c-8fc1-6a878f65bbef
+JavaScript warning: https://viewblock.io/_next/static/chunks/main-8c9c30bd447e7b01.js, line 1: unreachable code after return statement
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript warning: https://viewblock.io/_next/static/chunks/main-8c9c30bd447e7b01.js, line 1: unreachable code after return statement
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1673984958748	Marionette	INFO	Stopped listening on port 36975
+1673984959292	geckodriver	INFO	Listening on 127.0.0.1:54209
+1673984959752	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "37549" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileG1Fhxm"
+Gtk-Message: 21:49:19.769: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673984960172	Marionette	INFO	Marionette enabled
+1673984960175	Marionette	INFO	Listening on port 46605
+Read port: 46605
+WebDriver BiDi listening on ws://127.0.0.1:37549
+1673984960292	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileG1Fhxm/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:37549/devtools/browser/b1e22486-2148-420a-877a-ceb664e70082
+JavaScript warning: https://viewblock.io/_next/static/chunks/main-8c9c30bd447e7b01.js, line 1: unreachable code after return statement
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript warning: https://viewblock.io/_next/static/chunks/main-8c9c30bd447e7b01.js, line 1: unreachable code after return statement
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1673984973231	Marionette	INFO	Stopped listening on port 46605
+1673984973800	geckodriver	INFO	Listening on 127.0.0.1:56229
+1673984974251	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "43179" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileYbapP6"
+Gtk-Message: 21:49:34.267: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673984974662	Marionette	INFO	Marionette enabled
+1673984974664	Marionette	INFO	Listening on port 45035
+WebDriver BiDi listening on ws://127.0.0.1:43179
+Read port: 45035
+1673984974837	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYbapP6/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:43179/devtools/browser/c60b4285-ef96-4c7a-9583-8dba0fd6a915
+JavaScript warning: https://viewblock.io/_next/static/chunks/main-8c9c30bd447e7b01.js, line 1: unreachable code after return statement
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript warning: https://viewblock.io/_next/static/chunks/main-8c9c30bd447e7b01.js, line 1: unreachable code after return statement
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1673984989397	Marionette	INFO	Stopped listening on port 45035
+1673984990003	geckodriver	INFO	Listening on 127.0.0.1:52641
+1673984990464	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "44045" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileCP1kfp"
+Gtk-Message: 21:49:50.482: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673984990872	Marionette	INFO	Marionette enabled
+1673984990874	Marionette	INFO	Listening on port 36411
+WebDriver BiDi listening on ws://127.0.0.1:44045
+Read port: 36411
+1673984991057	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCP1kfp/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:44045/devtools/browser/9bc4898e-eee4-42bb-81b3-0730259223d8
+JavaScript warning: https://viewblock.io/_next/static/chunks/main-8c9c30bd447e7b01.js, line 1: unreachable code after return statement
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript warning: https://viewblock.io/_next/static/chunks/main-8c9c30bd447e7b01.js, line 1: unreachable code after return statement
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://viewblock.io/_next/static/chunks/framework-6a24ea55bfe2d3c0.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1673985004390	Marionette	INFO	Stopped listening on port 36411
