@@ -129,7 +129,7 @@ The "...nesis #28" could be referece the Genesis block of Arweave, where the fir
 
 `to be continued`
 
-# Brute-Force - "that's impossible (?!)" [12](https://www.youtube.com/watch?v=6ixvpLCdqkA)
+# Brute-Force - "that's impossible (?!)" [8](https://www.youtube.com/watch?v=6ixvpLCdqkA)
 ![Its necessary](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL3/pics/Cooper_necessary.gif)
 ![brute it TARS!!!](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL3/pics/interstellar-cooper.gif)
 
@@ -139,36 +139,35 @@ Tiamat (the puzzle creator) has defended the puzzle from blind bruteforce. The w
 ....
 function decodewallet(t,e)
 {
-    for(var i=CryptoJS.SHA512(e),n=0;n<11512;n++)
-	    i=CryptoJS.SHA512(i);
+    for(var i = CryptoJS.SHA512(e), n = 0; n < 11512; n++)
+        i = CryptoJS.SHA512(i);
 		
-	CryptoJS.algo.AES.keySize=32,CryptoJS.algo.EvpKDF.cfg.iterations=1e4,CryptoJS.algo.EvpKDF.cfg.keySize=32;
-	var r = CryptoJS.AES.decrypt(t,i.toString());
-	
-	return out=hex2a(r),out
+    CryptoJS.algo.AES.keySize = 32,CryptoJS.algo.EvpKDF.cfg.iterations=1e4,CryptoJS.algo.EvpKDF.cfg.keySize=32;
+    var r = CryptoJS.AES.decrypt(t,i.toString());
+    
+	return out = hex2a(r),out
 }
 ....
 
-var msg="U2FsdGVkX1+E2/9....<LOTS OF SYMBOLS - SEE THE SOURCES>"
+var msg="U2FsdGVkX18Q23DTuKvD6i+mZJD....<LOTS OF SYMBOLS - SEE THE SOURCES>"
 
-function proceed() {
-	var x = document.getElementsByClassName("inputs");
-        var code="";
-        for (var i=0;i<x.length;i++)
-                code+=x[i].value;
-
-	a=decodewallet(msg,code);
-	if (a.search('"kty":"RSA"')>-1) {
-		document.getElementById('dstatus').innerHTML="SUCCESS";
-		download("arweave_keyfile_G2BaxD9phYHJ55VaEY-aX28FtQCKLORMMQSc74IaqYg.json",a);
-	}
-	else document.getElementById('dstatus').innerHTML="FAILED";
+function proceed() 
+{
+    var code = document.getElementById('code').value;
+    a = decodewallet(msg,code);
+    if (a.search('"kty":"RSA"')>-1) 
+    {
+        document.getElementById('dstatus').innerHTML="SUCCESS";
+        download("arweave_keyfile_bkjJGw3NLxs8OAyRxgTL-QFpiB3lBJqZ76kDhWdB-Rs.json",a);
+    }
+    else 
+        document.getElementById('dstatus').innerHTML ="FAILED";
 }
 
 ```
 First, the bruteforce of the inputs is slown down by 11512 SHA512 + AES decryption. On a typical CPU you could expect around 0.5 sec for one thread (or CPU core) to compute this decrypting in browser (javascript that is in the original page) 
 
-The Second problem - javascript library CryptoJS used here for computing AES decrypting: seems like it has a bug\feature that makes its results unique for some cases. Thus, using 512-bit key the CryptoJS AES gives the result that the typical AES library - not [[13]](https://github.com/brix/crypto-js/issues/293) and so to build some efficient brute force instrument, the coder will need at least to adjust the AES library he use to follow CryptoJS ruined logic. At least, that is how i see it now.
+The Second problem - javascript library CryptoJS used here for computing AES decrypting: seems like it has a bug\feature that makes its results unique for some cases. Thus, using 512-bit key the CryptoJS AES gives the result that the typical AES library - not [[9]](https://github.com/brix/crypto-js/issues/293) and so to build some efficient brute force instrument, the coder will need at least to adjust the AES library he use to follow CryptoJS ruined logic. At least, that is how i see it now.
 
 In general, the list of answers to try on this puzzle could be all possible combinations of all allowed symbols that will result in a huge list (assume all numbers {0-9}, letters{a-z}, special chars {,.\|+=...} ~ 50 different symbols or so) == `50^32 ~ 10^54` but that unreal to be brutted even if some efficient code will brute this task on all bitcoin ASICS on the plannet with their typical hashing speed.
 
@@ -187,7 +186,7 @@ Anyway, with my JS approach i bruted a million inputs per day - and no success.
 
 Thank you for spending time on my notes, i hope it was not totally useless and you've found something interesting. 
 
-Any ideas\questions or propositions you may send to generalizatorSUB@gmail.com - also look at my twitter [[11]](https://twitter.com/miningpredict) @MiningPredict.
+Any ideas\questions or propositions you may send to generalizatorSUB@gmail.com - also look at my twitter [[7]](https://twitter.com/miningpredict) @MiningPredict.
 
 -------------------------------------------------------------------------
 ### References:
@@ -205,11 +204,11 @@ https://twitter.com/ArweaveP/status/1250025710133092353
 
 [6] Execute order 66 - https://www.youtube.com/watch?v=sNjWpZmxDgg
 
-[11] MiningPredict (my twitter page) - https://twitter.com/miningpredict
+[7] MiningPredict (my twitter page) - https://twitter.com/miningpredict
 
-[12] "that's impossible (?!) no it's necessary"  - https://www.youtube.com/watch?v=6ixvpLCdqkA
+[8] "that's impossible (?!) no it's necessary"  - https://www.youtube.com/watch?v=6ixvpLCdqkA
 
-[13] CryptoJS bug - https://github.com/brix/crypto-js/issues/293
+[9] CryptoJS bug - https://github.com/brix/crypto-js/issues/293
 
 -------------------------------------------------------------------------
 ### Support
