@@ -45,7 +45,8 @@ It is an image of  three numbers: 6, 3, 18. They could mean the Arweave ICO date
 
 ```
 ...
-Important: 1.1% of genesis block supply (55 mln tokens) is available in the public sale, for which there is a hardcap of $400k USD.
+Important: 1.1% of genesis block supply (55 mln tokens) is available in the public sale,
+for which there is a hardcap of $400k USD.
 ...
  TOKEN SALE: 3 JUN – 6 JUN (2018)
 Ticker: AR Token 
