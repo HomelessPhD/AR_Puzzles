@@ -35,13 +35,13 @@ There are pretty "classic" ideas of what each image could code, but also there a
 
 ![AR puzzle #10 key #1](https://github.com/HomelessPhD/AR_Puzzles/blob/42008e05471a8821fdf8d1277455f597c14ab6f5/PZL10/pics/pzl10_key_1.jpg)
 
-It is a stock image of dice [[4]](https://www.nicepng.com/ourpic/u2e6r5w7w7a9q8a9_open-dice-svg/) with "win" numbers "1" and "4" AND all shown numbers here are: "2,1,4" and "2,4".
+It is a stock image of ***dice*** [[4]](https://www.nicepng.com/ourpic/u2e6r5w7w7a9q8a9_open-dice-svg/) with ***"win" numbers "1" and "4"*** AND ***all shown numbers here are: "2,1,4" and "2,4"***.
 
 ## 2-nd key
 
 ![AR puzzle #10 key #2](https://github.com/HomelessPhD/AR_Puzzles/blob/42008e05471a8821fdf8d1277455f597c14ab6f5/PZL10/pics/pzl10_key_2.jpg)
 
-It is an image of  three numbers: 6, 3, 18. They could mean the Arweave ICO date: 2018\06\03 that could be interpreted as Arweave ICO date. Known facts about that [[5]](https://icodrops.com/arweave/):
+It is an image of  three numbers: ***6, 3, 18***. They could mean the ***Arweave ICO date***: 2018\06\03 that could be interpreted as Arweave ICO date. Known facts about that [[5]](https://icodrops.com/arweave/):
 
 ```
 ...
@@ -62,7 +62,11 @@ Whitelist: YES (UNTIL 25 MAY, JOIN ) Accepts: ETH
 
 ![AR puzzle #10 key #3](https://github.com/HomelessPhD/AR_Puzzles/blob/42008e05471a8821fdf8d1277455f597c14ab6f5/PZL10/pics/pzl10_key_3.jpg)
 
-Most hunters sees here the Palpatin face and letter a (arweave reference) upon it. Here is the Wiki picture of Palpatin (from cosplay photo) that is likely being used here
+Most hunters sees here the [Palpatine](https://en.wikipedia.org/wiki/Palpatine) face and letter a (***arweave reference***) upon it. Here is the Wiki picture of ***Palpatine*** (from cosplay photo) that is likely being used here (may be some else is used - just an example):
+
+![AR puzzle #10 key #3 Palpatine?](https://github.com/HomelessPhD/AR_Puzzles/blob/4fde45185c80c656410baa1f00bc50bab4151822/PZL10/pics/PZL10_palpatine.png)
+
+Some remind here the Palpatine quote: "The time has come. Execture ***order 66***..." [[6]](https://www.youtube.com/watch?v=sNjWpZmxDgg). Same time, the number 66 could be related to Arweave - the max coins(native token - AR) supply of arweave is ***66 000 000***.
 
 ## 4-th key
 
@@ -156,6 +160,8 @@ https://twitter.com/ArweaveP/status/1250025710133092353
 [4] Dice stock image - https://www.nicepng.com/ourpic/u2e6r5w7w7a9q8a9_open-dice-svg/
 
 [5] Arweave ICO - https://icodrops.com/arweave/
+
+[6] Execute order 66 - https://www.youtube.com/watch?v=sNjWpZmxDgg
 
 [11] MiningPredict (my twitter page) - https://twitter.com/miningpredict
 
