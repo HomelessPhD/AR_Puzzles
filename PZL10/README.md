@@ -210,6 +210,8 @@ https://twitter.com/ArweaveP/status/1250025710133092353
 
 [6'] Darth Sidious (Palpatine) - https://nl.wikipedia.org/wiki/Darth_Sidious
 
+[7] Trumps' "We'll see what happens - https://www.youtube.com/watch?v=5mTv8unqFbQ
+
 [8] "that's impossible (?!) no it's necessary"  - https://www.youtube.com/watch?v=6ixvpLCdqkA
 
 [9] CryptoJS bug - https://github.com/brix/crypto-js/issues/293
