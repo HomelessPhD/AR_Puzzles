@@ -121,7 +121,9 @@ The "...nesis #28" could be referece the Genesis block of Arweave, where the fir
 30] This is very exciting and I wholeheartedly support this project :)
 
 ```
-***We'll see what happens*** - this phrase is the #28 transaction data in the Arweave genesis block (or "To my sons future" if index the first message with 0) 
+***We'll see what happens*** - this phrase is the #28 transaction data in the Arweave genesis block (or "To my sons future" if index the first message with 0)
+
+Some people could remind here the Trump with this quote [[7]](https://www.youtube.com/watch?v=5mTv8unqFbQ)
 
 # "Exotic" ideas
 
@@ -188,7 +190,7 @@ Anyway, with my JS approach i bruted a million inputs per day - and no success.
 
 Thank you for spending time on my notes, i hope it was not totally useless and you've found something interesting. 
 
-Any ideas\questions or propositions you may send to generalizatorSUB@gmail.com - also look at my twitter [[7]](https://twitter.com/miningpredict) @MiningPredict.
+Any ideas\questions or propositions you may send to generalizatorSUB@gmail.com - also look at my twitter [[10]](https://twitter.com/miningpredict) @MiningPredict.
 
 -------------------------------------------------------------------------
 ### References:
@@ -208,11 +210,11 @@ https://twitter.com/ArweaveP/status/1250025710133092353
 
 [6'] Darth Sidious (Palpatine) - https://nl.wikipedia.org/wiki/Darth_Sidious
 
-[7] MiningPredict (my twitter page) - https://twitter.com/miningpredict
-
 [8] "that's impossible (?!) no it's necessary"  - https://www.youtube.com/watch?v=6ixvpLCdqkA
 
 [9] CryptoJS bug - https://github.com/brix/crypto-js/issues/293
+
+[10] MiningPredict (my twitter page) - https://twitter.com/miningpredict
 
 -------------------------------------------------------------------------
 ### Support
