@@ -64,7 +64,7 @@ Whitelist: YES (UNTIL 25 MAY, JOIN ) Accepts: ETH
 
 ![AR puzzle #10 key #3](https://github.com/HomelessPhD/AR_Puzzles/blob/42008e05471a8821fdf8d1277455f597c14ab6f5/PZL10/pics/pzl10_key_3.jpg)
 
-Most hunters sees here the [Palpatine](https://nl.wikipedia.org/wiki/Darth_Sidious) face and letter a (***arweave reference***) upon it. Here is the Wiki picture of ***(Darth Sidious) Palpatine*** (from cosplay photo) that is likely being used here (may be some else is used - just an example):
+Most hunters sees here the Palpatine (Darth Sidious) [[6']](https://nl.wikipedia.org/wiki/Darth_Sidious) face and letter a (***arweave reference***) upon it. Here is the Wiki picture of ***(Darth Sidious) Palpatine*** (from cosplay photo) that is likely being used here (may be some else is used - just an example):
 
 ![AR puzzle #10 key #3 Palpatine?](https://github.com/HomelessPhD/AR_Puzzles/blob/2735324397077aa9444a4ba19f524deeda83c6e9/PZL10/pics/PZL_10_Palpatine.jpg)
 
