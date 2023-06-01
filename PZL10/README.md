@@ -3,8 +3,7 @@
 Here i am going to publish ideas i consider about and dummy instruments related to Arweave puzzle #10.
 
 This puzzle is one from the series of Arweave Puzzles made by @Tiamat (official Arweave project discord member, apps developer, miner, early investor). Originally, puzzle posted in official @Tiamat twitter [[1]](
-https://twitter.com/ArweaveP/status/1250025710133092353): with hints and link to the blockchain [[2]](https://d5zw4kksq5gasg7ezkjvdpey562svcviatdltuyga43lrkexvngq.arweave.net/H3NuKVKHTAkb5MqTUbyY77UqiqgExrnTBgc2uKiXq00
-)
+https://twitter.com/ArweaveP/status/1250025710133092353): with hints and link to the blockchain [[2]](https://2xzm6mh75smp5ivf2img3biam3iu7qhodsw5mk7cimkx7g4trl4a.arweave.net/1fLPMP_smP6ipdIYbYUAZtFPwO4crdYr4kMVf5uTivg)
 
 Puzzle consists of the HTML page (sources also attached in this git - but could be found on Arweave "blockchain") page with an AES encrypted message (the Arweave wallet with **500 AR** coins on it, that is around of **5 k$** right now). The decryption mechanism is already built in page so the solver should only type the correct symbols to the long placeholder as show on picture below. The key to the puzzle solving is an image of some shread picture that likely to show separated pictures\objects:
 
