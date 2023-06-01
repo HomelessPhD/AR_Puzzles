@@ -64,11 +64,11 @@ Whitelist: YES (UNTIL 25 MAY, JOIN ) Accepts: ETH
 
 ![AR puzzle #10 key #3](https://github.com/HomelessPhD/AR_Puzzles/blob/42008e05471a8821fdf8d1277455f597c14ab6f5/PZL10/pics/pzl10_key_3.jpg)
 
-Most hunters sees here the [Palpatine](https://en.wikipedia.org/wiki/Palpatine) face and letter a (***arweave reference***) upon it. Here is the Wiki picture of ***Palpatine*** (from cosplay photo) that is likely being used here (may be some else is used - just an example):
+Most hunters sees here the [Palpatine](https://nl.wikipedia.org/wiki/Darth_Sidious) face and letter a (***arweave reference***) upon it. Here is the Wiki picture of ***(Darth Sidious) Palpatine*** (from cosplay photo) that is likely being used here (may be some else is used - just an example):
 
-![AR puzzle #10 key #3 Palpatine?](https://github.com/HomelessPhD/AR_Puzzles/blob/4fde45185c80c656410baa1f00bc50bab4151822/PZL10/pics/PZL10_palpatine.png)
+![AR puzzle #10 key #3 Palpatine?](https://github.com/HomelessPhD/AR_Puzzles/blob/2735324397077aa9444a4ba19f524deeda83c6e9/PZL10/pics/PZL_10_Palpatine.jpg)
 
-Some remind here the Palpatine quote: "The time has come. Execture ***order 66***..." [[6]](https://www.youtube.com/watch?v=sNjWpZmxDgg). Same time, the number 66 could be related to Arweave - the max coins(native token - AR) supply of arweave is ***66 000 000***.
+Some remind here the Palpatine (Darth Sidious) quote: "The time has come. Execture ***order 66***..." [[6]](https://www.youtube.com/watch?v=sNjWpZmxDgg). Same time, the number 66 could be related to Arweave - the max coins(native token - AR) supply of arweave is ***66 000 000***.
 
 ## 4-th key
 
@@ -205,6 +205,8 @@ https://twitter.com/ArweaveP/status/1250025710133092353
 [5] Arweave ICO - https://icodrops.com/arweave/
 
 [6] Execute order 66 - https://www.youtube.com/watch?v=sNjWpZmxDgg
+
+[6'] Darth Sidious (Palpatine) - https://nl.wikipedia.org/wiki/Darth_Sidious
 
 [7] MiningPredict (my twitter page) - https://twitter.com/miningpredict
 
