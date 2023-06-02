@@ -85,6 +85,10 @@ or specify that it should be 20 char length, it should be simply 20 integer numb
 
 The "fifth key" is special - it is separated from the main picture and so oculd be assumed not as a key to the solution BUT hint (meaning its not about adding extra characters to the answer in extra to the previous keys but rather describe the whole solution along with previous keys).
 
+Some ppl were confused by fonts, speculating about the sizes of digits "2" and "8". They definitely have different sizes, BUT - its just a font speciality. Here i found out that "nesis #28" typed and drawn in Candara front looks almost the same as the key in the puzzle:
+
+![AR puzzle #10 nesis 28 - CANDARA font](https://github.com/HomelessPhD/AR_Puzzles/blob/0906fcc297c1c7ee4c45e82b37e0c866271626db/PZL10/pics/pzl10_nesis28.png)
+
 It contains the corrupted (unfinished) string: "...nesis #28", AND a key attached to this string with help of clip. There are some hieroglyphs on the key. Some one describe them as "Earth" (try google translator - it will result in Chinese as "地 球"). Symbols on the key could actually be important or simply be part of the stock key used here (it could be a brand Earth or Globe or similar). (Also possible valuable fact - the hole on the paper where clip attached forming ***MAPLE LEAF*** picture)
 
 The "...nesis #28" could be referece the Genesis block of Arweave, where the first investors have put short messages. I have composed a simple python script to get all messages in one file to analize them (could be found in "genesis_block" folder here in github). The 30 messages (transactions data) shown below (others could be founbd in the same folder "genesis_block"):
