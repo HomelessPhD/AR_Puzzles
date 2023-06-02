@@ -129,7 +129,7 @@ Some people could remind here the Trump with this quote [[7]](https://www.youtub
 
 ![AR puzzle #10 tx 286](https://github.com/HomelessPhD/AR_Puzzles/blob/2dd6a26ded3225e20f2c2c195fb04529ae91a34e/PZL10/pics/pzl10_tx_286.png)
 
-![AR puzzle #10 tx 28](https://github.com/HomelessPhD/AR_Puzzles/blob/2dd6a26ded3225e20f2c2c195fb04529ae91a34e/PZL10/pics/pzl10_tx_28.png)
+![AR puzzle #10 tx 28](https://github.com/HomelessPhD/AR_Puzzles/blob/7e3cc2178b12bd2a0192d08c92a4ba789514eb5b/PZL10/pics/pzl_10_tx_28.png)
 
 Still unsure about that... "We'll see what happens" looks better option for the puzzle than test....
 
