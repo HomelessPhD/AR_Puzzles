@@ -125,6 +125,14 @@ The "...nesis #28" could be referece the Genesis block of Arweave, where the fir
 
 Some people could remind here the Trump with this quote [[7]](https://www.youtube.com/watch?v=5mTv8unqFbQ)
 
+***Strange thing that seems to be true is that transactions in arveaweve explorer listed in reversed to the index order. At least the genesis block transactions are listed reversed to the presented by the same explorer tx index order (see screenshot below). And so, the tx #28 from the block 0 (genesis block) could be not the "We'll see what happens", but "test".***
+
+![AR puzzle #10 tx 286](https://github.com/HomelessPhD/AR_Puzzles/blob/2dd6a26ded3225e20f2c2c195fb04529ae91a34e/PZL10/pics/pzl10_tx_286.png)
+
+![AR puzzle #10 tx 28](https://github.com/HomelessPhD/AR_Puzzles/blob/2dd6a26ded3225e20f2c2c195fb04529ae91a34e/PZL10/pics/pzl10_tx_28.png)
+
+Still unsure about that... "We'll see what happens" looks better option for the puzzle than test....
+
 # "Exotic" ideas
 
 1] ....
