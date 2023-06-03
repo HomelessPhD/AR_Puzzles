@@ -32,13 +32,10 @@ Puzzle consists of the HTML page (sources also attached in this git - but could 
 4] It is not hard actually, someone which followed the project during last six months 
 should solve 7 images easily and for 1 some luck needed 
 
-5] When you reach a question/part and you have more answers for it, most likely none of them
-is the right one 🙂
-
-6] It's not my fault that people see a tree with - - - -  and they actually type TREE and
+5] It's not my fault that people see a tree with - - - -  and they actually type TREE and
 expect to unlock.
 
-7] (Some dev about other dev guessing the answer for pic 4) Haha interesting, when we first 
+6] (Some dev about other dev guessing the answer for pic 4) Haha interesting, when we first 
 looked at it, I think @arweave-india got number 4 😆 -> (PZL creator) I'm 99% she was thinking 
 about the right answer, which  by the way, in the sketch was different, but this one was so 
 obvious, I just adjusted to it:)  -> (that other dev that guessing) Hehe, I think I might be 
