@@ -45,6 +45,14 @@ Seasons, Life of Pi, Behemoth.
     
 ```
 
+```
+    From Discord:
+
+When you reach a question/part and you have more answers for it, most likely none of them
+is the right one 🙂
+
+```
+
 * There are some extra hints coded in page - some picture\objects shows the small textual hint when the mouse cursor points them at (shown in details below).
 
 
