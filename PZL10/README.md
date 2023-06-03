@@ -85,7 +85,7 @@ or specify that it should be 20 char length, it should be simply 20 integer numb
 
 The "fifth key" is special - it is separated from the main picture and so oculd be assumed not as a key to the solution BUT hint (meaning its not about adding extra characters to the answer in extra to the previous keys but rather describe the whole solution along with previous keys).
 
-Some ppl were confused by fonts, speculating about the sizes of digits "2" and "8". They definitely have different sizes, BUT - its just a font speciality. Here i found out that "nesis #28" typed and drawn in Candara front looks almost the same as the key in the puzzle:
+Some ppl were confused by fonts, speculating about the sizes of digits "2" and "8". They definitely have different sizes, BUT - its just a font speciality. Here i found out that "nesis #28" typed and drawn in ***Candara*** front looks almost the same as the key in the puzzle:
 
 ![AR puzzle #10 nesis 28 - CANDARA font](https://github.com/HomelessPhD/AR_Puzzles/blob/0906fcc297c1c7ee4c45e82b37e0c866271626db/PZL10/pics/pzl10_nesis28.png)
 
