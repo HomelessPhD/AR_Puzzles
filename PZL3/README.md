@@ -214,13 +214,26 @@ Finally, i'd consider the next keys here: `base, data, apps, dapp, star, cost, c
 
 1) I suppose, all the puzzle could be related to Arweave project [[10]](https://arweave.news/what-is-arweave-ar/),[[10']](https://arwiki.wiki/#/en/main) or even more convrete - the mining. Fresh article about Arweave mining could be found here [[10'']](https://arwiki.wiki/#/en/arweave-mining)
 
+  I have read most of Discord messages for the period mentioned in Tiamat hint (1 January of 2019 - 31 May of 2019). I have found few facts:
+  ```
+   - Just a lil time has passed since the mining begun to actually reward miners with BLOCK rewards. Some ppl mentioned that the block rewards was 7 coins per block,
+      and later was changed to 32-33 coins per block. The given time interval related to the most profitable time to mine AR. The block rewards is at peak value above its
+      short history, the size of the blockchain (weavechain) is reasonably small (30-60 GBs), not many miners participate. Some ppl stated they mined coins with approximate
+      cost around 0.02$ per coin assuming their spendings (on renting VPS or paying for electricity + equipment)
+   - Some investors complained about such mining "profitability" \ rewarding cause the ICO investors payed around 0.73$ per AR coin. Some of them asking for possible 
+   compensation but the team and community is against it. Soon the block reward will start to decrease and the difficulty of mining would increase due to new miners anyway.
+   - People in discords and else places complained about the fact, that there is no place to buy or sell AR coins. The only official possible way  to buy or sell coins is
+    OTC through "Base58" that has a minimal purchase threshold (10 000$). Other way to buy or sell tokens some risky OTC trades outside of discord.
+   - Many people ask and demand on creating the INDEX for the content that was uploaded to Arweave Blockchain cause its mostly impossible to search some interesting data on the 
+   AR. 
+  ```
+
 2) I have posted in twitter [[11]](https://twitter.com/miningpredict) an exotic idea - all 8 "keys" should form one sentence. Moreover, some words or symbols typed in __ __ __ __ placeholders could decay to pieces forming several words with its neighbors. Just look at an example below:
 
 ![idea?](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL3/pics/idea.png)
 
 3) Some telegram member assumed, that each picture could somehow be related to symbols on the PC keyboard: `1 - "!", 2 - "@", 3 - "#", 4 - "$", 5 - "%", 6 - "^", 7 - "&", 8 - "*"`
 Should say, that this idea seems very funny and same time interesting. `"!"` - could be related to company anouncement (may be year or date),  `"@"` could be related to emails or just mail, `"#"` is for hashing, `"$"` - even presented on the picture itself and could be related to cash or cost or sell and swap or rate ..., `"%"` - rate (no great ideas here, maybe its from controlling symbols), `"^"` - top of the tree or fork or root etc., `"&"` - could be related to pools where miner & miner & miner ... do the work (lol), `"*"` - points even drawn on that picture but could be related to star or "luck" (anything). 
-
 
 `to be continued`
 
