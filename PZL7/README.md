@@ -40,7 +40,7 @@ Puzzle consists of the HTML page (sources also attached in this git - but could 
 ```
     Message in AR blockchain:
 
-These have been circulating among some group of solvers, of course they are not the straight answers, but they will lead you there:
+10] These have been circulating among some group of solvers, of course they are not the straight answers, but they will lead you there:
 Seasons, Life of Pi, Behemoth.
     
 ```
@@ -48,8 +48,11 @@ Seasons, Life of Pi, Behemoth.
 ```
     From Discord:
 
-When you reach a question/part and you have more answers for it, most likely none of them
+11] When you reach a question/part and you have more answers for it, most likely none of them
 is the right one 🙂
+
+12] Some guy asked: "Tiamat any chance of giving another hint about the "manner" in puzzle 7?". Tiamat answered: "consider both visual and technical context".
+
 
 ```
 
