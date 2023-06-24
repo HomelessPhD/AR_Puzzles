@@ -39,7 +39,7 @@ Puzzle consists of the HTML page (sources also attached in this git - but could 
 ```    
 
 ```
-    Message in AR blockchain:
+    Message FROM TIAMAT (the puzzle creator) in AR blockchain:
 
 10] These have been circulating among some group of solvers, of course they are not the straight
     answers, but they will lead you there:
