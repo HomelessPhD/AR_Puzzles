@@ -1,6 +1,6 @@
 # Arweave Puzzle #11 - "#Stegonagraphy ...format does not matter..."
 
-Here i am going to publish ideas i consider about and dummy instruments related to Arweave puzzle #11.
+Here i am going to publish ideas i consider about and dummy instruments related to  - ... Arweave puzzle #11.
 
 This puzzle is one from the series of Arweave Puzzles made by @Tiamat (official Arweave project discord member, apps developer, miner, early investor). Originally, puzzle posted in official @Tiamat twitter [[1]](https://twitter.com/arweavep/status/1252961944807641090): with hints and link to the blockchain [[2]](https://bmzbghtrbcleimhve3nf7f7owqwmllfjgwu67toc6wtsagmp3h3a.arweave.net/CzITHnEIlkQw9SbaX5futCzFrKk1qe_NwvWnIBmP2fY)
 
@@ -30,7 +30,7 @@ Some ideas came to my mind, others were captured from Twitter or\and the telegra
 (at first few months i have forcefully avoided visiting any forums or groups when i saw the puzzle at first because i thought that ideas of others could freeze my own thinking process - it is when you start to think primarly in the way proposed by some other solver and, got stuck on it, but later trying my own ideas with my own dummy brute forcing method i skipped that rule. I am actively posting any ideas came to my mind in that group, hoping someone of us will be able to solve the puzzle sharing some part of revenue and GLORY)
 
 ## Picture METADATA
-Given *.PNG file (picture) contain some interesting METADATA:
+Given *.PNG file (picture) contains some interesting METADATA:
 1] ```color_type: Grayscale with Alpha``` - The image has extra 8bit channel withing the Grayscale. The alpha channel, that code the "transaprecy", mostly zero over all picture but have non-zero values in some points around the Biggest Boat - it could be a hint that stresses us to pay bigger attention to the biggest boat, it could be coincidence showing that boat was copy-pasted from another canvas and so its just a noise in alpha channel, or it could be done in order to save the PNG image from twitter destortion (PNG images without alpha channel usually re-packed by twitter and so could loss some information, i faced that thing by myself and to avoid that staff the user could add some aplha channel data to the picture)
 
 2] Some less valuable data - better view this in HEX format (discussed a bit lower in this article - PNG chunks data)
@@ -63,7 +63,7 @@ The "comment" field appeared (that is ignored by typical Image Viewers) with the
 
 The datecreate and datemodify fields are "strange", right? create 2020-03-30T11:38:07+03:00 modify 2020-03-30T11:34:44+03:00. This seemed strange to me at first, but later i've checked others Tiamat puzzle pictures and found out this occasion in them too. So, for now, i am not so happy and enthusiastic with this strange dates (modified earlier than created, and difference is 203 seconds?) 
 
-Also, the one who solving this should consider the date of 1 ETH transfer: 04-14-2020 09:10:29 in accordance to etherscan. 
+Also, the one whos solving this should consider the date of 1 ETH transfer: 04-14-2020 09:10:29 in accordance to etherscan. 
 
 
 ## PNG service fields - "PNG chunks"
@@ -79,10 +79,20 @@ I've noticed cHRM PNG chunk - nice 32 bytes (just like the Private Key should be
 Have also tried to list all PNG chunk names: 4948445267414d416348524d624b474470485973494441547445587449454e44. No success.
 
 ## LSB
-....
+One of the simplest methods of Steganography in the concept of Steganography is the Least Significant Bit. The Least Significant Bit (LSB) method hides the message by inserting the message at the lower or rightmost bits in the cover work file as a medium to hide the message.
+
+Its a classic STEGO method for hiding some data (bit stream) inside of another file bytes. (Better read about it in WIKI or somewhereelse - just google). Anyway, i've tried to interpret each pixel of the image as LSB bit (bits) container. I've taken 1st last bit of each byte, 2nd last bit, 3rd last bit, ...., [1st and 2nd], [1st, 2nd and 3rd], ... - nothing have given me some reasonable message.
+
+I have also tried to make the same with only non-zero bytes (pixels) - nothing too.
+
+I have noticed strange pixels in the first line of the picture (zoom picture and you will see strange non-zero pixels over mostly zero (white) line) - tried to play with them without a success again. Tried here both ASCI interpretation and simply treat 256 of them as Priv Key.
+
+I have noticed the alpha channel non-zero pixels that edging the Biggest Boat - those pixels Gray Scale value was useless to me again.
+
+There are nearly infinity possibilities to interpret the pixels - one complexier than other, and so i doubt that Priv Key  was hidden here this "classic Stego" way.
 
 ## BUILDING HEIGHT-WIDTH
-The first thing that could came to mind looking that picture - the "buildings" code something. There are exactly 12 buildings, right? And one of possible way to code the Private Key is 12 BEP39 words. Interesting coincidence.
+The first thing that came to mind looking at that picture - the "buildings" code something. There are exactly 12 buildings, right? And one of possible ways to code the Private Key using 12 BEP39 words seed. Interesting coincidence.
 
 I've tried to estimate the building sizes:
 
@@ -119,7 +129,7 @@ Here Histogram, few "collored" picture + central (127 p. with 40 p. width) histo
 
 ![filtered histogram 3](https://github.com/HomelessPhD/AR_Puzzles/blob/b9781b93c256d7868a48e11ae0f6d87a27d03706/PZL11/pics/plain_FILTERED_3.png)
 
-Should add here - i've tried to cut different parts of histogram, played with that alog and yet no result. BUT i rellay feel like this is it, there could be a text typed and noised on on that boat image. Zooming out i mostly see it.
+Should add here - i've tried to cut different parts of histogram, played with that alog and yet no result. BUT i rellay feel like this is it, there could be a text typed and noised on that boat image. Zooming out i mostly see it.
 
 ![boat hide wallet](https://github.com/HomelessPhD/AR_Puzzles/blob/f2d7820a5191dd3db05e3d6cdc6a6de3e5a27a7d/PZL11/pics/plain_boat.png)
 
