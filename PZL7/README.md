@@ -72,7 +72,9 @@ There are pretty "classic" ideas of what each image could code, but also there a
 
 The first object (key) is an image of a tree with four types of leaves: winter type (no leaves), springt type (flower or young leaves), summer type (green leaves), autumn type (yellow leaves). The hint ecnoded in page (as shown here) contains two symbols: "V*". That could mean that the answer to this part of the puzzle is some series of symbols that starts with "V". The first thing that came here to mind is `"four seasons"` - the `group of four violin concertos by Italian composer Antonio Vivaldi, each of which gives musical expression to a season of the year` [[5]](https://en.wikipedia.org/wiki/The_Four_Seasons_(Vivaldi)). The hint maid by @Tiamat (puzzle developer) in his message on AR blockchain kind of supports this way of thinking. So, the probable answer here is `"Vivaldi"` itself, right?
 
-Finally, i consider the next keys: `"Vivaldi"`, `"vivaldi"`, `"AntonioLucioVivaldi"`, `"AntonioVivaldi"`, `"Antonio"`, `"music"`, `"violin"`, `"Valid"`, `"valid"`, `....`
+Some also have noticed another option here - Vertumnus (Latin pronunciation: [wɛr'tʊmnʊs]; also Vortumnus or Vertimnus) is the god of seasons, change and plant growth, as well as gardens and fruit trees. Starts with "V", related to seasons and plants. 
+
+Finally, i consider the next keys: `"Vivaldi"`, `"vivaldi"`, `"AntonioLucioVivaldi"`, `"AntonioVivaldi"`, `"Antonio"`, `"music"`, `"violin"`, `"Valid"`, `"valid"`, `"Vertumnus"`,`"Vortumnus"`,`"Vertimnus"`, `....`
 
 ## 2-nd key
 ![2-nd key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL7/pics/2.png )
