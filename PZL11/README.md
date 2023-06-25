@@ -35,6 +35,19 @@ Some ideas came to my mind, others were captured from Twitter or\and the telegra
 ## BUILDING HEIGHT-WIDTH
 ....
 
+## Information hidden in the plain sight - may be even in plain text. It could private key, seed phrase or some valuable hint etc.
+Guessed that KEY is written as plain text:  some pixel values used for PK and others to form the picture, make the noise, distruct. 
+Here Histogram, few "collored" picture + central (127 p. with 40 p. width) histo-slice. I feel like PK is on the biggest boat but cant get it.
+
+![HISTOGRAM](https://github.com/HomelessPhD/AR_Puzzles/blob/b9781b93c256d7868a48e11ae0f6d87a27d03706/PZL11/pics/plain_HIST.png)
+
+![filtered histogram 1](https://github.com/HomelessPhD/AR_Puzzles/blob/b9781b93c256d7868a48e11ae0f6d87a27d03706/PZL11/pics/plain_FILTERED_1.png)
+
+![filtered histogram 2](https://github.com/HomelessPhD/AR_Puzzles/blob/b9781b93c256d7868a48e11ae0f6d87a27d03706/PZL11/pics/plain_FILTERED_2.png)
+
+![filtered histogram 3](https://github.com/HomelessPhD/AR_Puzzles/blob/b9781b93c256d7868a48e11ae0f6d87a27d03706/PZL11/pics/plain_FILTERED_3.png)
+
+
 # "Exotic" ideas
 
 1] What if the given picture represent some real world place? Some skyscrappers pictured or shotted above the reaver or smth?!
