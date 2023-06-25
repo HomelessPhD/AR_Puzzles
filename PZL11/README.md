@@ -29,6 +29,40 @@ Puzzle consists of the single PNG file (picture) (sources also attached in this 
 Some ideas came to my mind, others were captured from Twitter or\and the telegram group [[4]](@arweavep) - you definitely should visit it for ideas sharing.
 (at first few months i have forcefully avoided visiting any forums or groups when i saw the puzzle at first because i thought that ideas of others could freeze my own thinking process - it is when you start to think primarly in the way proposed by some other solver and, got stuck on it, but later trying my own ideas with my own dummy brute forcing method i skipped that rule. I am actively posting any ideas came to my mind in that group, hoping someone of us will be able to solve the puzzle sharing some part of revenue and GLORY)
 
+## Picture METADATA
+Given *.PNG file (picture) contain some interesting METADATA:
+1] ```color_type: Grayscale with Alpha``` - The image has extra 8bit channel withing the Grayscale. The alpha channel, that code the "transaprecy", mostly zero over all picture but have non-zero values in some points around the Biggest Boat - it could be a hint that stresses us to pay bigger attention to the biggest boat, it could be coincidence showing that boat was copy-pasted from another canvas and so its just a noise in alpha channel, or it could be done in order to save the PNG image from twitter destortion (PNG images without alpha channel usually re-packed by twitter and so could loss some information, i faced that thing by myself and to avoid that staff the user could add some aplha channel data to the picture)
+
+2] Some less valuable data - better view this in HEX format (discussed a bit lower in this article - PNG chunks data)
+```
+gamma 2.2
+white_point_x 0.3127
+white_point_y 0.329
+red_x 0.64
+red_y 0.33
+green_x 0.3
+green_y 0.6
+blue_x 0.15
+blue_y 0.06
+background_color 0
+pixels_per_unit_x 2835
+pixels_per_unit_y 2835
+pixel_units meters
+```
+
+3] And here is something really interesting:
+```
+warning [minor] Text/EXIF chunk(s) found after PNG IDAT (may be ignored by some readers)
+comment 0xFF2142E98E09b5344994F9bEB9C56C95506B9F17
+datecreate 2020-03-30T11:38:07+03:00
+datemodify 2020-03-30T11:34:44+03:00
+image_size 1600x1105
+```
+
+Dates specified in metada: create 2020-03-30T11:38:07+03:00 modify 2020-03-30T11:34:44+03:00.
+
+Also, the one who solving this should consider the date of 1 ETH transfer: 04-14-2020 09:10:29 in accordance to etherscan. 
+
 ## LSB
 ....
 
@@ -54,6 +88,8 @@ Maybe we should name all objects on image, write out all their synonyms, filter 
 [shadow]: shadow, gloom, obscure, cover,
 ...
 ```
+
+
 
 ## Information hidden in the plain sight - may be even in plain text. It could private key, seed phrase or some valuable hint etc.
 Guessed that KEY is written as plain text:  some pixel values used for PK and others to form the picture, make the noise, distruct. 
