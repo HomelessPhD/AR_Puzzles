@@ -68,6 +68,8 @@ Also, the one who solving this should consider the date of 1 ETH transfer: 04-14
 
 ## PNG service fields - "PNG chunks"
 
+[[5]](https://www.nayuki.io/page/png-file-chunk-inspector)
+
 ## LSB
 ....
 
@@ -83,7 +85,7 @@ width:  115 90  100 170 100 100 150 110 110 100 70  50
 
 But have not succeed Private Key extraction, yet.
 May be we should transform this sizes to 256 bit number (introduce some grid for height\width and transform this 12\12 numbers into 256 bits .... 
-Maybe we should rank the BEP39 wordlist (2048 English words of different length from 4 to 8 letter - check here [[5]](https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt)
+Maybe we should rank the BEP39 wordlist (2048 English words of different length from 4 to 8 letter - check here [[6]](https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt)
 
 Maybe we should name all objects on image, write out all their synonyms, filter through BIP39 English word-list and than list them in the order of lengths like buildings height? 
 
@@ -149,7 +151,9 @@ https://twitter.com/arweavep/status/1252961944807641090
 
 [4] Telegram group of Arweave puzzles solvers community - @arweavep
 
-[5] BEP39 English seed wordlist - https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt
+[5] PNG service fields (chunks) inspecting tool -  https://www.nayuki.io/page/png-file-chunk-inspector
+
+[6] BEP39 English seed wordlist - https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt
 
 [*] MiningPredict (my twitter page) - https://twitter.com/miningpredict
 
