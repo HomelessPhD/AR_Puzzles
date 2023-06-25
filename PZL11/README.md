@@ -33,7 +33,23 @@ Some ideas came to my mind, others were captured from Twitter or\and the telegra
 ....
 
 ## BUILDING HEIGHT-WIDTH
-....
+The first thing that could came to mind looking that picture - the "buildings" code something. There are exactly 12 buildings, right? And one of possible way to code the Private Key is 12 BEP39 words. Interesting coincidence.
+
+I've tried to estimate the building sizes:
+
+```
+height: 100 190 90  165 240 55  180 160 90  160 100 190
+width:  115 90  100 170 100 100 150 110 110 100 70  50
+```
+
+But have not succeed Private Key extraction, yet.
+May be we should transform this sizes to 256 bit number.... maybe we should rank the BEP39 wordlist (2048 English words of different length from 4 to 8 letter - check here [[5]](https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt)
+
+Maybe we should name all objects on image, write out all their synonyms, filter through BIP39 English word-list and than list them in the order of lengths like buildings height? 
+
+[boat]: boat, craft, canoe, sail, ship, bottom
+[shadow]: shadow, gloom, obscure, cover,
+
 
 ## Information hidden in the plain sight - may be even in plain text. It could private key, seed phrase or some valuable hint etc.
 Guessed that KEY is written as plain text:  some pixel values used for PK and others to form the picture, make the noise, distruct. 
@@ -85,7 +101,7 @@ https://twitter.com/arweavep/status/1252961944807641090
 
 [4] Telegram group of Arweave puzzles solvers community - @arweavep
 
-
+[5] BEP39 English seed wordlist - https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt
 
 [*] MiningPredict (my twitter page) - https://twitter.com/miningpredict
 
