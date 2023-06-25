@@ -68,7 +68,13 @@ Also, the one who solving this should consider the date of 1 ETH transfer: 04-14
 
 ## PNG service fields - "PNG chunks"
 
-[[5]](https://www.nayuki.io/page/png-file-chunk-inspector)
+A PNG file is composed of an 8-byte signature header, followed by any number of chunks that contain control data / metadata / image data. Each chunk contains three standard fields – 4-byte length, 4-byte type code, 4-byte CRC – and various internal fields that depend on the chunk type.
+
+There are online tools for PNG "chunks" inspection, here is one of them [[5]](https://www.nayuki.io/page/png-file-chunk-inspector).
+
+I've noticed cHRM PNG chunk - nice 32 bytes (just like the Private Key should be): 00007a26000080840000fa00000080e8000075300000ea6000003a9800001770. Tried reversed too. No success.
+
+![PNG chunks](https://github.com/HomelessPhD/AR_Puzzles/blob/13acff7c922b35015a04556534219b6d8a20401e/PZL11/pics/Chunks.png)
 
 ## LSB
 ....
