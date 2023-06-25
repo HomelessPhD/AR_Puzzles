@@ -59,9 +59,14 @@ datemodify 2020-03-30T11:34:44+03:00
 image_size 1600x1105
 ```
 
-Dates specified in metada: create 2020-03-30T11:38:07+03:00 modify 2020-03-30T11:34:44+03:00.
+The "comment" field appeared (that is ignored by typical Image Viewers) with the Prize address. I have not found this address anywhere else than in Tiamat comment and i guess Tiamat meant this place where we cand found the Prize Address.
+
+The datecreate and datemodify fields are "strange", right? create 2020-03-30T11:38:07+03:00 modify 2020-03-30T11:34:44+03:00. This seemed strange to me at first, but later i've checked others Tiamat puzzle pictures and found out this occasion in them too. So, for now, i am not so happy and enthusiastic with this strange dates (modified earlier than created, and difference is 143 seconds?) 
 
 Also, the one who solving this should consider the date of 1 ETH transfer: 04-14-2020 09:10:29 in accordance to etherscan. 
+
+
+## PNG service fields - "PNG chunks"
 
 ## LSB
 ....
@@ -92,6 +97,7 @@ Maybe we should name all objects on image, write out all their synonyms, filter 
 
 
 ## Information hidden in the plain sight - may be even in plain text. It could private key, seed phrase or some valuable hint etc.
+
 Guessed that KEY is written as plain text:  some pixel values used for PK and others to form the picture, make the noise, distruct. 
 Here Histogram, few "collored" picture + central (127 p. with 40 p. width) histo-slice. I feel like PK is on the biggest boat but cant get it.
 
@@ -106,6 +112,8 @@ Here Histogram, few "collored" picture + central (127 p. with 40 p. width) histo
 Should add here - i've tried to cut different parts of histogram, played with that alog and yet no result. BUT i rellay feel like this is it, there could be a text typed and noised on on that boat image. Zooming out i mostly see it.
 
 ![boat hide wallet](https://github.com/HomelessPhD/AR_Puzzles/blob/f2d7820a5191dd3db05e3d6cdc6a6de3e5a27a7d/PZL11/pics/plain_boat.png)
+
+And yet another thing - "https://twitter.com/ArweaveP". Thats 20 symbols written on the picture, on the plain sight. Tried to make sha256 form it and nothing. Tried its ASCII adding zero bytes - nothing again.
 
 
 # "Exotic" ideas
