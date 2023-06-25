@@ -11,5 +11,7 @@ Solving of Arweave Puzzles
 
 [Puzzle #10 (NOT Solved)](https://github.com/HomelessPhD/AR_Puzzles/tree/main/PZL10)
 
+[Puzzle #11 (NOT Solved)](https://github.com/HomelessPhD/AR_Puzzles/tree/main/PZL11)
+
 ONGOING - in the middle of operation, wait for updates!
 (please, someone, save me from this madeness - 1 BTC would be enough for me to calm and simply got regular job)
