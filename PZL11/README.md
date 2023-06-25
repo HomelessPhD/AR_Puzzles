@@ -37,8 +37,13 @@ Some ideas came to my mind, others were captured from Twitter or\and the telegra
 
 # "Exotic" ideas
 
-1] ....
+1] What if the given picture represent some real world place? Some skyscrappers pictured or shotted above the reaver or smth?!
 
+Like Canary Wharf or some else city with "scyscrapers" panorama (Sidney, Boston, New York ....). 
+May be the author left the key or hint in Google Maps (for example on photo uploaded and bounded to the specific coordinates).
+
+![scyscrapper #1](https://github.com/HomelessPhD/AR_Puzzles/blob/ca373d9e7e72805666c072250ed285096412db1c/PZL11/pics/skyscrap_1.jpg)
+![scyscrapper #2](https://github.com/HomelessPhD/AR_Puzzles/blob/ca373d9e7e72805666c072250ed285096412db1c/PZL11/pics/skyscrap_2.jpg)
 
 
 `to be continued`
