@@ -61,7 +61,7 @@ image_size 1600x1105
 
 The "comment" field appeared (that is ignored by typical Image Viewers) with the Prize address. I have not found this address anywhere else than in Tiamat comment and i guess Tiamat meant this place where we cand found the Prize Address.
 
-The datecreate and datemodify fields are "strange", right? create 2020-03-30T11:38:07+03:00 modify 2020-03-30T11:34:44+03:00. This seemed strange to me at first, but later i've checked others Tiamat puzzle pictures and found out this occasion in them too. So, for now, i am not so happy and enthusiastic with this strange dates (modified earlier than created, and difference is 143 seconds?) 
+The datecreate and datemodify fields are "strange", right? create 2020-03-30T11:38:07+03:00 modify 2020-03-30T11:34:44+03:00. This seemed strange to me at first, but later i've checked others Tiamat puzzle pictures and found out this occasion in them too. So, for now, i am not so happy and enthusiastic with this strange dates (modified earlier than created, and difference is 203 seconds?) 
 
 Also, the one who solving this should consider the date of 1 ETH transfer: 04-14-2020 09:10:29 in accordance to etherscan. 
 
