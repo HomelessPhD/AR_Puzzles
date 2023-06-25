@@ -47,6 +47,10 @@ Here Histogram, few "collored" picture + central (127 p. with 40 p. width) histo
 
 ![filtered histogram 3](https://github.com/HomelessPhD/AR_Puzzles/blob/b9781b93c256d7868a48e11ae0f6d87a27d03706/PZL11/pics/plain_FILTERED_3.png)
 
+Should add here - i've tried to cut different parts of histogram, played with that alog and yet no result. BUT i rellay feel like this is it, there could be a text typed and noised on on that boat image. Zooming out i mostly see it.
+
+![boat hide wallet](https://github.com/HomelessPhD/AR_Puzzles/blob/f2d7820a5191dd3db05e3d6cdc6a6de3e5a27a7d/PZL11/pics/plain_boat.png)
+
 
 # "Exotic" ideas
 
