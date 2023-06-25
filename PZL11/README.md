@@ -43,13 +43,17 @@ width:  115 90  100 170 100 100 150 110 110 100 70  50
 ```
 
 But have not succeed Private Key extraction, yet.
-May be we should transform this sizes to 256 bit number.... maybe we should rank the BEP39 wordlist (2048 English words of different length from 4 to 8 letter - check here [[5]](https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt)
+May be we should transform this sizes to 256 bit number (introduce some grid for height\width and transform this 12\12 numbers into 256 bits .... 
+Maybe we should rank the BEP39 wordlist (2048 English words of different length from 4 to 8 letter - check here [[5]](https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt)
 
 Maybe we should name all objects on image, write out all their synonyms, filter through BIP39 English word-list and than list them in the order of lengths like buildings height? 
 
+```
+...
 [boat]: boat, craft, canoe, sail, ship, bottom
 [shadow]: shadow, gloom, obscure, cover,
-
+...
+```
 
 ## Information hidden in the plain sight - may be even in plain text. It could private key, seed phrase or some valuable hint etc.
 Guessed that KEY is written as plain text:  some pixel values used for PK and others to form the picture, make the noise, distruct. 
