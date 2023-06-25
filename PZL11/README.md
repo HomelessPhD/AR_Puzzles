@@ -76,6 +76,8 @@ I've noticed cHRM PNG chunk - nice 32 bytes (just like the Private Key should be
 
 ![PNG chunks](https://github.com/HomelessPhD/AR_Puzzles/blob/13acff7c922b35015a04556534219b6d8a20401e/PZL11/pics/Chunks.png)
 
+Have also tried to list all PNG chunk names: 4948445267414d416348524d624b474470485973494441547445587449454e44. No success.
+
 ## LSB
 ....
 
