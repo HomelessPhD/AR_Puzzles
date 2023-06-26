@@ -175,40 +175,45 @@ Finally, i'd consider the next keys here: `base, data, apps, dapp, star, cost, c
    assumed as final solution but could point us in the right direction:
    ```
    [1] It is the first picture in puzzle and so i could assume its order could mean something - most ppl would get know
-   about the ARWEAVE at its announcement and so its "(ANNO)UNCE". It pictures the 4 letters "ANNO" leaving "UNCE" for solution.
-       (its pretty weak i should say)  
-       Another idea that is actually pretty close to previous - it is the first picture meaning the START of the project. And 
-   it has 4 letters "ANNO" that mean "SINCE" meaning in some languages (in Europe one could meat the string on the building
-   "ANNO 1902" meaning that building was build in 1902 and currently stay since that year). 
-   So i could assume here the "(SINCE )2014", "(SINCE )2015",..., "(SINCE )2018" or "(SINCE )2019" with slicing it to the year only 4-digit answer.
-       (this looks better than previous option, but still weal)
+   about the ARWEAVE at its announcement and so its "(ANNO)UNCE". It pictures the 4 letters "ANNO" leaving "UNCE"
+   for solution. (its pretty weak i should say)  
+       Another idea that is actually pretty close to previous - it is the first picture meaning the START of the
+   project. And it has 4 letters "ANNO" that mean "SINCE" meaning in some languages (in Europe one could meat the
+   string on the building "ANNO 1902" meaning that building was build in 1902 and currently stay since that year). 
+   So i could assume here the "(SINCE )2014", "(SINCE )2015",..., "(SINCE )2018" or "(SINCE )2019" with slicing
+   it to the year only 4-digit answer. (this looks better than previous option, but still weak)
        
-   [2] The second picture could show the sale date 2018\06\03 that forms the concept for answer AND showing the BLOCK as shaping hint.
-   Some token sale site giving this string on googling the sale: "Important: 1.1% of genesis block supply (55 mln tokens) is 
-   available in the public sale, for which there is a hardcap of $400k USD."
+   [2] The second picture could show the sale date 2018\06\03 that forms the concept for answer AND showing the BLOCK
+   as shaping hint. Some token sale site giving this string on googling the sale: "Important: 1.1% of genesis block
+   supply (55 mln tokens) is available in the public sale, for which there is a hardcap of $400k USD."
    And "1.1%( of genesis block)" could be the answer here. As well, as "(token)sale"
-       The crazy option about "SNOW HILL" (as concept) + THE ROAD (the hint) that leads to "MD12" answer also fits the general idea, but weakly.
+   The crazy option about "SNOW HILL" (as concept) + THE ROAD (the hint) that leads to "MD12" answer also fits the
+   general idea, but weakly.
        
-   [3] The third picture, as it was mentioned, shows the mining process (the concept for the answer) - before N 1.7.0.0 the SHA384 algorithm
-   for minining were used. AND answer-shaping hint "SH" (two letter pictured on the image) shape the answer to "(SH)A384".
+   [3] The third picture, as it was mentioned, shows the mining process (the concept for the answer) - before N 1.7.0.0
+   the SHA384 algorithm for minining were used. AND answer-shaping hint "SH" (two letter pictured on the image) shape
+   the answer to "(SH)A384".
    
-   [4] The fourth picture (the lower its part) could image the "AR CASH" concept (the native token of the network that is actually were called as AR.CASH".
-   While the ARWEAVE LOGO on the upper part of the picture could shape the answer slicing it to 4-letter: "(AR.)CASH" 
+   [4] The fourth picture (the lower its part) could image the "AR CASH" concept (the native token of the network that
+   is actually were called as AR.CASH".  While the ARWEAVE LOGO on the upper part of the picture could shape the answer
+   slicing it to 4-letter: "(AR.)CASH" 
    
    [5] The fifth picture is a MAP of THREE COUNTRIES: Denmark Norway Sweden (DNS).
-   Its pretty weak and generally hard to - workaround using the proposed concept-hint rule, but the answer here could be "(DNS)PORT" or
-   "(DNS)1984" or "(PORT)1984" or "(MAP)SCAN". Propose your options in terms of concept-hint idea guys.
+   Its pretty weak and generally hard to - workaround using the proposed concept-hint rule, but the answer here could be
+   "(DNS)PORT" or "(DNS)1984" or "(PORT)1984" or "(MAP)SCAN". Propose your options in terms of concept-hint idea guys.
    
-   [6] The sixth picture shows the TREE that have 4 roots, 4 branches and 32 leafs. I could assume that MERKLE TREE pictured here, that
-   is the concept. And TREE is a answer-shaping hint here. The MERKLE tree is actually a HASH tree so i could assume "HASH(TREE)" solution.
+   [6] The sixth picture shows the TREE that have 4 roots, 4 branches and 32 leafs. I could assume that MERKLE TREE
+   pictured here, that is the concept. And TREE is a answer-shaping hint here. The MERKLE tree is actually a HASH tree
+   so i could assume "HASH(TREE)" solution.
    
-   [7] This picture could be interpreted as "UP" and "CACTUS". Weak idea here to think it pointing to the UPVEST investor. The letters Up shaped on
-   the picture as some weird cactus (needles around letters) and one could assume "WEST" here that very close to VEST - thats why UPVEST seemed to be
-   a concept here. The hint - those two letters "UP" that shape the answer to "(UP)VEST"
+   [7] This picture could be interpreted as "UP" and "CACTUS". Weak idea here to think it pointing to the UPVEST investor.
+   The letters Up shaped on the picture as some weird cactus (needles around letters) and one could assume "WEST" here that
+   very close to VEST - thats why UPVEST seemed to be a concept here. The hint - those two letters "UP" that shape the answer
+   to "(UP)VEST"
    
-   [8] Here, again, a weak solution - there are 58 circular objects on the picture that will be assumed as a hint. The concept part could be taken from 
-   the fact that it is the final picture. Some crypto operations end with BASE58 encodings. BASE58 could be the concept while "58" is a answer-shaping hint.
-   The solution - "BASE(58)"
+   [8] Here, again, a weak solution - there are 58 circular objects on the picture that will be assumed as a hint. The concept
+   part could be taken from the fact that it is the final picture. Some crypto operations end with BASE58 encodings. BASE58
+   could be the concept while "58" is a answer-shaping hint.  The solution - "BASE(58)"
    
    ```
 
