@@ -221,27 +221,41 @@ Finally, i'd consider the next keys here: `base, data, apps, dapp, star, cost, c
 
   I have read most of Discord messages for the period mentioned in Tiamat hint (1 January of 2019 - 31 May of 2019). I have found few facts:
   ```
-   - Just a lil time has passed since the mining begun to actually reward miners with BLOCK rewards. Some ppl mentioned that the block rewards was 7 coins per block,
-      and later was changed to 32-33 coins per block. The given time interval related to the most profitable time to mine AR. The block rewards is at peak value above its
-      short history, the size of the blockchain (weavechain) is reasonably small (30-60 GBs), not many miners participate. Some ppl stated they mined coins with approximate
-      cost around 0.02$ per coin assuming their spendings (on renting VPS or paying for electricity + equipment)
-   - Some investors complained about such mining "profitability" \ rewarding cause the ICO investors payed around 0.73$ per AR coin. Some of them asking for possible 
-   compensation but the team and community is against it. Soon the block reward will start to decrease and the difficulty of mining would increase due to new miners anyway.
-   - People in discords and else places complained about the fact, that there is no place to buy or sell AR coins. The only official possible way  to buy or sell coins is
-    OTC through "Base58" that has a minimal purchase threshold (10 000$). Other way to buy or sell tokens some risky OTC trades outside of discord.
-   - Many people ask and demand on creating the INDEXER for the content that was uploaded to Arweave Blockchain cause its mostly impossible to search some interesting data on the 
-   AR. The developers of AR aggrees, saying they be very thankfull for such an instrument or service (it could be a service on a dedicated server etc.) calling it ARoogle. 
-   Few enthusiastic users - developers of applications for AR aplying their forces to build some helpfull apps. <will add here the link to helpfull app>
-   Also, some functionality of this kind is given by ARQL (available in those days too)
-   - One memeber created pretty simple and yet very usefull and important app - the ArweaveID. This app links the wallet address with a label (name) to be used in other apps.
-   For example, send ARmails using this ID etc...
-   - Just like now, there were a possibility to get a free coins for experiments: 5 AR. Developers stated they had taken contermeasures againgst abusers of this "faucet" or "drop".
-   - Also, some users mentioned UpVest asking the developers about some problems in managing their ICO tokens (withdrawing) from UpVest - seems like there were just a few problems and they have been solved,
-   but UpVest hav been mentioned.
-   - Some miners worrying that the data uploaded to Arweave blockchain - the data the miner should store to actually get rewards, could contain illegal information. Developers stated
-   that they are working on that problem. One of possible and already implemented on that time solution is to filter the stored data (by key words or hash).
-   - There were mentions of SILO that is a promising AR project made in colloboration with LOKI. Seems like the AR team has made their part of the work (at least first versions) on this
-   time interval and waited for LOKI to do their part of the work.
+   - Just a lil time has passed since the mining begun to actually reward miners with BLOCK rewards. Some ppl mentioned that
+     the block rewards was 7 coins per block, and later was changed to 32-33 coins per block. The given time interval related
+     to the most profitable time to mine AR. The block rewards is at peak value above its short history, the size of the blockchain
+     (weavechain) is reasonably small (30-60 GBs), not many miners participate. Some ppl stated they mined coins with approximate
+     cost around 0.02$ per coin assuming their spendings (on renting VPS or paying for electricity + equipment)
+
+   -   Some investors complained about such mining "profitability" \ rewarding cause the ICO investors payed around 0.73$ per AR coin.
+     Some of them asking for possible compensation but the team and community is against it. Soon the block reward will start to
+     decrease and the difficulty of mining would increase due to new miners anyway.
+
+   -   People in discords and else places complained about the fact, that there is no place to buy or sell AR coins. The only official
+     possible way  to buy or sell coins is OTC through "Base58" that has a minimal purchase threshold (10 000$). Other way to buy or
+     sell tokens some risky OTC trades outside of discord.
+
+   -   Many people ask and demand on creating the INDEXER for the content that was uploaded to Arweave Blockchain cause its mostly
+     impossible to search some interesting data on the AR. The developers of AR aggrees, saying they be very thankfull for such an
+     instrument or service (it could be a service on a dedicated server etc.) calling it ARoogle. 
+     Few enthusiastic users - developers of applications for AR aplying their forces to build some helpfull apps. <will add here the
+     link to helpfull app>  Also, some functionality of this kind is given by ARQL (available in those days too)
+
+   -   One memeber created pretty simple and yet very usefull and important app - the ArweaveID. This app links the wallet address
+    with a label (name) to be used in other apps.  For example, send ARmails using this ID etc...
+
+   -   Just like now, there were a possibility to get a free coins for experiments: 5 AR. Developers stated they had taken contermeasures
+    againgst abusers of this "faucet" or "drop".
+
+   -   Also, some users mentioned UpVest asking the developers about some problems in managing their ICO tokens (withdrawing) from
+    UpVest - seems like there were just a few problems and they have been solved, but UpVest hav been mentioned.
+
+   -   Some miners worrying that the data uploaded to Arweave blockchain - the data the miner should store to actually get rewards, could
+    contain illegal information. Developers stated that they are working on that problem. One of possible and already implemented on
+    that time solution is to filter the stored data (by key words or hash).
+
+   -   There were mentions of SILO that is a promising AR project made in colloboration with LOKI. Seems like the AR team has made their
+    part of the work (at least first versions) on this time interval and waited for LOKI to do their part of the work.
   ```
   
   So i guessed here for ideas, that the solution related to: mining process, the way to get coins, the companies involved in ar life etc.
