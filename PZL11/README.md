@@ -116,7 +116,7 @@ Maybe we should name all objects on image, write out all their synonyms, filter 
 
 
 
-## Information hidden in the plain sight - may be even in plain text. It could private key, seed phrase or some valuable hint etc.
+## Information hidden in the plain sight - may be even in plain text. It could be the private key, the seed phrase or some valuable hint etc.
 
 Guessed that KEY is written as plain text:  some pixel values used for PK and others to form the picture, make the noise, distruct. 
 Here Histogram, few "collored" picture + central (127 p. with 40 p. width) histo-slice. I feel like PK is on the biggest boat but cant get it.
