@@ -129,7 +129,7 @@ Some could propose LOKI or SILO here (arweave product) [[7]](https://arweave.med
 
 ![LOKI - SILO](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL3/pics/LOKI_SILO.png)
 
-Finally, i'd consider the next keys here: `artx, LOKI, SILO, coin, cash, data, cost, rate, swap, sell, list, view, arql, luck, ...`
+Finally, i'd consider the next keys here: `artx, LOKI, SILO, coin, cash, data, cost, rate, AR/$, swap, sell, list, view, arql, luck, ...`
 
 ## 5-th key
 ![5-th key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL3/pics/5.png )
