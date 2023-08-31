@@ -278,6 +278,9 @@ Finally, i'd consider the next keys here: `base, data, apps, dapp, star, cost, c
 3) Some telegram member assumed, that each picture could somehow be related to symbols on the PC keyboard: `1 - "!", 2 - "@", 3 - "#", 4 - "$", 5 - "%", 6 - "^", 7 - "&", 8 - "*"`
 Should say, that this idea seems very funny and same time interesting. `"!"` - could be related to company anouncement (may be year or date),  `"@"` could be related to emails or just mail, `"#"` is for hashing, `"$"` - even presented on the picture itself and could be related to cash or cost or sell and swap or rate ..., `"%"` - rate (no great ideas here, maybe its from controlling symbols), `"^"` - top of the tree or fork or root etc., `"&"` - could be related to pools where miner & miner & miner ... do the work (lol), `"*"` - points even drawn on that picture but could be related to star or "luck" (anything). 
 
+4) What if all the 8-keys related to the process the data undergo in AR network?
+DATA -> sign\hash -> hash\mine -> sent (broadcasted) -> scan (mapping?) -> ... (list? node?) -> pool (mempool?) or pull -> base or code (encode).....
+
 `to be continued`
 
 # Brute-Force - "that's impossible (?!)" [12](https://www.youtube.com/watch?v=6ixvpLCdqkA)
