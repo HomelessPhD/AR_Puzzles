@@ -40,12 +40,15 @@ It seemed to be an entry point of this Scavanger Hunt because it has an arrow th
 
 Finally, i consider the next keys: `"a", "A", "x", "X", "*", ".", "0", "1", " ",....`
 
+### CORRECT KEY VALUE HERE IS: "*"
+
 ## 2-nd key
 ![2-nd key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL5/pics/2.png )
 This images the mushroom and butterfly. Could be coded by first letters as `mb` or `MB` or `Mb` (yeah, like megabyte, hmm). Also could be coded by the length of words: `89` (`"It also can be a number."` remember?).
 
 Finally, i'd consider the next keys here: `"mb", "Mb", "MB", "89", "sh", ...`
 
+### CORRECT KEY VALUE HERE IS: "48"
 
 ## 3-rd key
 Here are the general idea about what picture representes key # 3 - the shining moon with a notes...
@@ -63,6 +66,8 @@ Considering the second option, i could assume here `"top"` or `"tip"` or  (top o
 
 Finally, i'd consider the next keys here: `"N14"`, `"#14"`, `"n14"`, `"o27"`, `"O27"`, `"c#m"`, `"C#M"`, `"LbB"`, `"LVB"`, `"lvb"`, `"GCE"`, `"gce"`,`"gcE"`,`"GCe"`, `"top"`, `"tip"`,`...`
 
+### CORRECT KEY VALUE HERE IS: "GCE"
+
 ## 4-th key
 ![4-th key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL5/pics/4.png )
 
@@ -70,6 +75,8 @@ As a Ukrainian\Russian native speaker, the first thing i see here is cyrilic let
 ![Eris symbol](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL5/pics/Eris_symbol.png )
 
 Finally, i'd consider the next keys here: `"Eris"`,`"eris"`,`"ERIS"`,`"Elli"`,`"elli"`,`...`
+
+### CORRECT KEY VALUE HERE IS: "Eris"
 
 ## 5-th key
 ![5-th key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL5/pics/5.png )
@@ -80,12 +87,16 @@ Taking @Tiamat hint about the tree: `"For GoT fans, the tree should ring a bell 
 
 Finally, i'd consider the next keys here: `"Umber"`, `"umber'`, `"amber"`,`"Amber'`,`"House'`,`"house"`, `...`
 
+### CORRECT KEY VALUE HERE IS: "Umber"
+
 ## 6-th key
 ![6-th key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL5/pics/6.png )
 
 This is ... piece of wood?! So - `"lumber"`, `"Lumber"`, `"timber"`, `"Timber"`. Some assume it points us to the logarithm of some number... but i dont know how to relate it with other puzzle parts though.
 
 Finally, i'd consider the next keys here: `"lumber"`, `"Lumber"`, `"timber"`, `"Timber"`, `...`
+
+### CORRECT KEY VALUE HERE IS: "CASTLE" <----- THE TERM FROM CHESS, position denoted by O-O (that is drawn on the log on picture - check carefully, i was also in shoch of this, but its true)
 
 ## 7-th key
 ![7-th key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL5/pics/7.png )
@@ -96,7 +107,7 @@ Most would relate this to Pablo Picasso [[8]](https://en.wikipedia.org/wiki/Pabl
 
 Finally, i'd consider the next keys here: `"Picasso"`,`"picasso"`, `...`
 
-
+### CORRECT KEY VALUE HERE IS: "Picasso"
 
 # "Exotic" ideas
 
