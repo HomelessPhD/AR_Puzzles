@@ -136,7 +136,9 @@ But another idea seems more promising. Searching for crypto related facts relate
 
 ![Vitalik](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL7/pics/VB.jpg )
 
-Finally, i'd consider the next keys here: `"Buterin"`, `"buterin"`,`"Vitalik"`,`"vitalik"`,`"Network"`,`"network"`, `"ANABP01"`, `"anabp01"`, `"Achacha"`, `"achacha"`, `...`
+Another interesting idea is about NFTs - usually when some one trying to find the origin of NFTs he could stop by ["Quantum"](https://nftnow.com/art/quantum-the-first-piece-of-nft-art-ever-created/) as the first NFT minter. Quantum is also a 7 letter word and it was relevant in 2014 year. So its a nice option to be the solution here.
+
+Finally, i'd consider the next keys here: `"Buterin"`, `"buterin"`,`"Vitalik"`,`"vitalik"`, `"Quantum"`,`"Network"`,`"network"`, `"ANABP01"`, `"anabp01"`, `"Achacha"`, `"achacha"`, `...`
 
 ## 8-th key
 ![7-th key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL7/pics/8.png )
