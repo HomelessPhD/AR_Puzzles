@@ -19,12 +19,12 @@ Do not forget to adjust the script for YOUr needs replacing default "keys" (inpu
 
 ```
 var k_1 = ["1","0","*","_",".","A","a"];  
-var k_2 = ["mb","Mb","MB","89"];
-var k_3 = ["Top","top","LVB","LvB","N14","n14","#14","o27","O27"];
+var k_2 = ["mb","Mb","48","89"];
+var k_3 = ["Top","LVB","LvB","GCE","GCe","n14","#14","o27","O27"];
 var k_4 = ["Eris","eris"];
-var k_5 = ["Umber","umber","Amber","amber"];
-var k_6 = ["lumber","Lumber","timber","Timber"];
-var k_7 = ["Picasso","picasso"];
+var k_5 = ["Umber","umber","Amber"];
+var k_6 = ["Lumber","Castle","timber","Timber"];
+var k_7 = ["Picasso"];
 ```
 
 The script work could be easily paralelized - just open few instances of the page and make the same procedure in both, BUT adjust the parameters in script: look at variables **thr_ind** and **thr_num**.
