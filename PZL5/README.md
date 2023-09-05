@@ -48,7 +48,7 @@ This images the mushroom and butterfly. Could be coded by first letters as `mb` 
 
 It was hinted it could be a number, right? Well 89 - that was for mashroom (8 letters) + batterfly (9 letters) not worked BUT, THERE ARE 4 GROUPS OF "blade of grass" (green pieces under mashroom) and in total there are 8 "blade of grass": 48. JEEEEEEZ.
 
-Finally, i'd consider the next keys here: `"mb", "Mb", "MB", "89", "sh", ...`
+Finally, i'd consider the next keys here: `"mb", "Mb", "MB","48", "89", "sh", ...`
 
 ### CORRECT KEY VALUE HERE IS: "48"
 
