@@ -46,6 +46,8 @@ Finally, i consider the next keys: `"a", "A", "x", "X", "*", ".", "0", "1", " ",
 ![2-nd key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL5/pics/2.png )
 This images the mushroom and butterfly. Could be coded by first letters as `mb` or `MB` or `Mb` (yeah, like megabyte, hmm). Also could be coded by the length of words: `89` (`"It also can be a number."` remember?).
 
+It was hinted it could be a number, right? Well 89 - that was for mashroom (8 letters) + batterfly (9 letters) not worked BUT, THERE ARE 4 GROUPS OF "blade of grass" (green pieces under mashroom) and in total there are 8 "blade of grass": 48. JEEEEEEZ.
+
 Finally, i'd consider the next keys here: `"mb", "Mb", "MB", "89", "sh", ...`
 
 ### CORRECT KEY VALUE HERE IS: "48"
