@@ -39,7 +39,9 @@ There are pretty "classic" ideas of what each image could code, but also there a
 
 ![AR puzzle #12 key #1](https://github.com/HomelessPhD/AR_Puzzles/blob/ca63438a7f33a366ccc9430b59c3cd7140609f74/PZL12/pics/pzl_12_key_1.png)
 
+This looks just like a part of IQ test, right? Complete and follow the pattern - objects in the series have several "features" and each feature follows its series (in IQ tests). Following this idea, one may assume that question is about the color of the "last" 6th flag that is drawn white here, and that all flags have three or four features: endpoint (form of endpoints), flag location (bottom, mid, top), flag color, flag "direction" (left of right). 
 
+Another idea, that all the flags code something - some number, some date or event, some name (person or organization), some term?
 
 ## 2-nd key
 
