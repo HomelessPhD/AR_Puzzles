@@ -41,6 +41,12 @@ There are pretty "classic" ideas of what each image could code, but also there a
 
 This looks just like a part of IQ test, right? Complete and follow the pattern - objects in the series have several "features" and each feature follows its series (in IQ tests). Following this idea, one may assume that question is about the color of the "last" 6th flag that is drawn white here, and that all flags have three or four features: endpoint (form of endpoints), flag location (bottom, mid, top), flag color, flag "direction" (left of right). 
 
+You see - they seem like goes in pairs: 1 flag with ball + 1 flag without a ball and position\direction of flags are opposite everytime. Thats the key to this IQ test
+
+![AR puzzle #12 key #1 IQ test](https://github.com/HomelessPhD/AR_Puzzles/blob/8ff1ffe4d91be7b64554e1770a79c66a748017d5/PZL12/pics/pzl_12_key_IQ_test.png)
+
+Should we guess the collor of "white" flag should have in this series?
+
 Another idea, that all the flags code something - some number, some date or event, some name (person or organization), some term?
 
 ## 2-nd key
