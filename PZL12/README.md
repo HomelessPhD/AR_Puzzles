@@ -37,24 +37,24 @@ There are pretty "classic" ideas of what each image could code, but also there a
 
 ## 1-st key
 
-![AR puzzle #10 key #1](https://github.com/HomelessPhD/AR_Puzzles/blob/42008e05471a8821fdf8d1277455f597c14ab6f5/PZL10/pics/pzl10_key_1.jpg)
+![AR puzzle #12 key #1](https://github.com/HomelessPhD/AR_Puzzles/blob/ca63438a7f33a366ccc9430b59c3cd7140609f74/PZL12/pics/pzl_12_key_1.png)
 
 
 
 ## 2-nd key
 
-![AR puzzle #10 key #2](https://github.com/HomelessPhD/AR_Puzzles/blob/42008e05471a8821fdf8d1277455f597c14ab6f5/PZL10/pics/pzl10_key_2.jpg)
+![AR puzzle #12 key #2](https://github.com/HomelessPhD/AR_Puzzles/blob/ca63438a7f33a366ccc9430b59c3cd7140609f74/PZL12/pics/pzl_12_key_2.png)
 
 
 ## 3-rd key
 
-![AR puzzle #10 key #3](https://github.com/HomelessPhD/AR_Puzzles/blob/42008e05471a8821fdf8d1277455f597c14ab6f5/PZL10/pics/pzl10_key_3.jpg)
+![AR puzzle #12 key #3](https://github.com/HomelessPhD/AR_Puzzles/blob/ca63438a7f33a366ccc9430b59c3cd7140609f74/PZL12/pics/pzl_12_key_3.png)
 
 
 
 ## 4-th key
 
-![AR puzzle #10 key #4](https://github.com/HomelessPhD/AR_Puzzles/blob/42008e05471a8821fdf8d1277455f597c14ab6f5/PZL10/pics/pzl10_key_4.jpg)
+![AR puzzle #12 key #4](https://github.com/HomelessPhD/AR_Puzzles/blob/ca63438a7f33a366ccc9430b59c3cd7140609f74/PZL12/pics/pzl_12_key_4.png)
 
 # "Exotic" ideas
 
