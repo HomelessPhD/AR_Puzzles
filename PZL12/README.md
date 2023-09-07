@@ -39,7 +39,7 @@ There are pretty "classic" ideas of what each image could code, but also there a
 
 ![AR puzzle #12 key #1](https://github.com/HomelessPhD/AR_Puzzles/blob/ca63438a7f33a366ccc9430b59c3cd7140609f74/PZL12/pics/pzl_12_key_1.png)
 
-    This looks just like a part of IQ test, right? Complete and follow the pattern - objects in the series have several "features" and each feature follows its series (in IQ tests). Following this idea, one may assume that question is about the color of the "last" 6th flag that is drawn white here, and that all flags have three or four features: endpoint (form of endpoints), flag location (bottom, mid, top), flag color, flag "direction" (left of right). 
+This looks just like a part of IQ test, right? Complete and follow the pattern - objects in the series have several "features" and each feature follows its series (in IQ tests). Following this idea, one may assume that question is about the color of the "last" 6th flag that is drawn white here, and that all flags have three or four features: endpoint (form of endpoints), flag location (bottom, mid, top), flag color, flag "direction" (left of right). 
 
 Another idea, that all the flags code something - some number, some date or event, some name (person or organization), some term?
 
@@ -47,7 +47,7 @@ Another idea, that all the flags code something - some number, some date or even
 
 ![AR puzzle #12 key #2](https://github.com/HomelessPhD/AR_Puzzles/blob/ca63438a7f33a366ccc9430b59c3cd7140609f74/PZL12/pics/pzl_12_key_2.png)
 
-    The ***WHALE*** and the ***date: 16-03-2020***. The association that came to my mind when i see WHALE in context of ARweave is ***Andreessen Horowitz*** (or ***a16z***) cause he have supported ARweave investing much funds in it (probably the largest AR investor). And googling the date in cotext of ARweave investment\support even make this idea more likely to be the correct way of thinking [[4]](https://twitter.com/BTCDaMac/status/1302589688172158978) [[4']](https://www.forbes.com/sites/michaelhaley/2020/03/16/arweaves-permanent-library-of-alexandria-on-blockchain-to-halt-censorship-empower-information/) [[4'']](https://www.crunchbase.com/funding_round/arweave-seed--7ab9cadf) [[4''']](https://arweave.medium.com/arweave-news-march-7034ed9479e2).
+The ***WHALE*** and the ***date: 16-03-2020***. The association that came to my mind when i see WHALE in context of ARweave is ***Andreessen Horowitz*** (or ***a16z***) cause he have supported ARweave investing much funds in it (probably the largest AR investor). And googling the date in cotext of ARweave investment\support even make this idea more likely to be the correct way of thinking [[4]](https://twitter.com/BTCDaMac/status/1302589688172158978) [[4']](https://www.forbes.com/sites/michaelhaley/2020/03/16/arweaves-permanent-library-of-alexandria-on-blockchain-to-halt-censorship-empower-information/) [[4'']](https://www.crunchbase.com/funding_round/arweave-seed--7ab9cadf) [[4''']](https://arweave.medium.com/arweave-news-march-7034ed9479e2).
 [FORBES article](https://www.forbes.com/sites/michaelhaley/2020/03/16/arweaves-permanent-library-of-alexandria-on-blockchain-to-halt-censorship-empower-information/), that connect the investment news and the date (the article published in 16-03-2020) is also attached in this github (key2_FORBS_article.html in "extra" section)
 
 So, i assume the answer is somehow related OR point to - the Andreessen Horowitz (and maybe other involved investors: 
