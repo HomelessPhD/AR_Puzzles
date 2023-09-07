@@ -71,31 +71,33 @@ Tiamat (the puzzle creator) has defended the puzzle from blind bruteforce. The w
 
 ```
 ....
-function decodewallet(t,e)
+function decodewallet(t, e)
 {
-    for(var i = CryptoJS.SHA512(e), n = 0; n < 11512; n++)
+    for (var i = CryptoJS.SHA512(e), n = 0; n < 11512; n++)
         i = CryptoJS.SHA512(i);
-		
-    CryptoJS.algo.AES.keySize = 32,CryptoJS.algo.EvpKDF.cfg.iterations=1e4,CryptoJS.algo.EvpKDF.cfg.keySize=32;
-    var r = CryptoJS.AES.decrypt(t,i.toString());
-    
-	return out = hex2a(r),out
+
+    CryptoJS.algo.AES.keySize = 32,
+    CryptoJS.algo.EvpKDF.cfg.iterations = 1e4,
+    CryptoJS.algo.EvpKDF.cfg.keySize = 32;
+    var r = CryptoJS.AES.decrypt(t, i.toString());
+
+    return out = hex2a(r), out
 }
 ....
 
-var msg="U2FsdGVkX18Q23DTuKvD6i+mZJD....<LOTS OF SYMBOLS - SEE THE SOURCES>"
+var msg="U2FsdGVkX185RdQ4hP1hJTBpuz6pKjHyS+aY6XLFW....<LOTS OF SYMBOLS - SEE THE SOURCES>"
 
-function proceed() 
+function proceed()
 {
     var code = document.getElementById('code').value;
-    a = decodewallet(msg,code);
-    if (a.search('"kty":"RSA"')>-1) 
+    a = decodewallet(msg, code);
+    if (a.search('"kty":"RSA"') > -1)
     {
-        document.getElementById('dstatus').innerHTML="SUCCESS";
-        download("arweave_keyfile_bkjJGw3NLxs8OAyRxgTL-QFpiB3lBJqZ76kDhWdB-Rs.json",a);
+        document.getElementById('dstatus').innerHTML = "SUCCESS";
+        download("arweave_keyfile_XRGEfkMbCMHeTY9mZI9Lh6hf8EmA8RstmBFUjDm40fg.json", a);
     }
-    else 
-        document.getElementById('dstatus').innerHTML ="FAILED";
+    else
+        document.getElementById('dstatus').innerHTML = "FAILED";
 }
 
 ```
@@ -126,21 +128,13 @@ Any ideas\questions or propositions you may send to generalizatorSUB@gmail.com -
 ### References:
 
 [1] Original @ArweaveP (@Tiamat) tweet - 
-https://twitter.com/ArweaveP/status/1250025710133092353
+https://twitter.com/arweavep/status/1257613928185675776
 
-[2] Arweave Puzzle #10 stored in Arweave "blockchain" - https://2xzm6mh75smp5ivf2img3biam3iu7qhodsw5mk7cimkx7g4trl4a.arweave.net/1fLPMP_smP6ipdIYbYUAZtFPwO4crdYr4kMVf5uTivg
+[2] Arweave Puzzle #12 stored in Arweave "blockchain" - https://qmu25gaaftcgs45i6l4r6oqea7c6xsxowwrv56epxpd4ghnvikfa.arweave.net/gymumAAsxGlzqPL5HzoEB8Xryu61o174j7vHwx21Qoo
 
 [3] Telegram group of Arweave puzzles solvers community - @arweavep
 
-[4] Dice stock image - https://www.nicepng.com/ourpic/u2e6r5w7w7a9q8a9_open-dice-svg/
-
-[5] Arweave ICO - https://icodrops.com/arweave/
-
-[6] Execute order 66 - https://www.youtube.com/watch?v=sNjWpZmxDgg
-
-[6'] Darth Sidious (Palpatine) - https://nl.wikipedia.org/wiki/Darth_Sidious
-
-[7] Trumps' "We'll see what happens - https://www.youtube.com/watch?v=5mTv8unqFbQ
+...
 
 [8] "that's impossible (?!) no it's necessary"  - https://www.youtube.com/watch?v=6ixvpLCdqkA
 
