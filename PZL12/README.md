@@ -23,7 +23,8 @@ The general idea (that is based on previous solved Tiamat puzzles) that the answ
     
 ```
     From Twitter:
-    
+    1] "58 chars CS" - meaning the length of the answer is 58 characters and type is case sensitive
+
     *] 1,2,4,8 = solved
        3,5,7,9 = not solved yet
        it seems like odds are harder?
