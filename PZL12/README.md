@@ -73,6 +73,8 @@ Square (101111), Romb (2111112), Rectangle(111211021) and finally a Hexagon. The
 
 Well, there are few ideas about it. It could be about the names of figures - maybe the name coded through ASCII or alphabet etc. Maybe its about number of free-parameters of figure ( just 1 side for square, 1 side and 1 angle for romb, 2 sides for rectangle (maybe 2 sides and 1 angle if this is paralelogram) and hexagon with, i guess, 1 side and 2 angles. 
 
+It could be even the series of parameters (their values) in the drawing tool where these shapes were dranw.
+
 I will think about this more later....
 
 
