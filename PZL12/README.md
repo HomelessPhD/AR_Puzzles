@@ -45,6 +45,15 @@ There are pretty "classic" ideas of what each image could code, but also there a
 
 ![AR puzzle #12 key #2](https://github.com/HomelessPhD/AR_Puzzles/blob/ca63438a7f33a366ccc9430b59c3cd7140609f74/PZL12/pics/pzl_12_key_2.png)
 
+The ***WHALET*** and the ***date: 16-03-2020***. The association that came to my mind when i see WHALE in context of ARweave is ***Andreessen Horowitz*** (or ***a16z***) cause he have supported ARweave investing much funds in it (probably the largest AR investor). And googling the date in cotext of ARweave investment\support even make this idea more likely to be the correct way of thinking [[4]](https://twitter.com/BTCDaMac/status/1302589688172158978) [[4']](https://www.forbes.com/sites/michaelhaley/2020/03/16/arweaves-permanent-library-of-alexandria-on-blockchain-to-halt-censorship-empower-information/) [[4'']](https://www.crunchbase.com/funding_round/arweave-seed--7ab9cadf) [[4''']](https://arweave.medium.com/arweave-news-march-7034ed9479e2).
+[4'](https://www.forbes.com/sites/michaelhaley/2020/03/16/arweaves-permanent-library-of-alexandria-on-blockchain-to-halt-censorship-empower-information/) FORBS article, that connect the investment news and the date (the article published in 16-03-2020) is also attached in this github (key2_FORBS_article.html in "extra" section)
+
+So, i assume the answer is somehow related OR point to - the Andreessen Horowitz (and maybe other involved investors: 
+![AR puzzle #12 key #2](https://github.com/HomelessPhD/AR_Puzzles/blob/5cacd5c6924748da94512c609d91832fb24d3c9c/PZL12/pics/funding_round_ARweave.png)
+
+***Union Square Ventures, Coinbase Ventures, Andreessen Horowitz, a16z crypto***
+
+
 
 ## 3-rd key
 
@@ -134,6 +143,10 @@ https://twitter.com/arweavep/status/1257613928185675776
 
 [3] Telegram group of Arweave puzzles solvers community - @arweavep
 
+[4] Some hunter tweeted: "16/03/2020  $8.3 million funding round Arweave received from Andreessen Horowitz. Read in a Forbes article." - https://twitter.com/BTCDaMac/status/1302589688172158978
+[4'] That 16/03/2020 FORBS article about ARweave (mention the investment) - https://www.forbes.com/sites/michaelhaley/2020/03/16/arweaves-permanent-library-of-alexandria-on-blockchain-to-halt-censorship-empower-information/
+[4''] Seed Round - Arweave: (including Andreessen Horowitz) https://www.crunchbase.com/funding_round/arweave-seed--7ab9cadf
+[4'''] "Grants & Funding" article - https://arweave.medium.com/arweave-news-march-7034ed9479e2
 ...
 
 [8] "that's impossible (?!) no it's necessary"  - https://www.youtube.com/watch?v=6ixvpLCdqkA
