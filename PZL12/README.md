@@ -69,11 +69,19 @@ ALTERNATIVE theory (less likely to be true, but who knows??) - googling 16-03-20
 
 ![AR puzzle #12 key #3](https://github.com/HomelessPhD/AR_Puzzles/blob/ca63438a7f33a366ccc9430b59c3cd7140609f74/PZL12/pics/pzl_12_key_3.png)
 
+Square (101111), Romb (2111112), Rectangle(111211021) and finally a Hexagon. The first thing one may assume here is we should define the series of digits for Hexagon guessing the pattern..
+
+Well, there are few ideas about it. It could be about the names of figures - maybe the name coded through ASCII or alphabet etc. Maybe its about number of free-parameters of figure ( just 1 side for square, 1 side and 1 angle for romb, 2 sides for rectangle (maybe 2 sides and 1 angle if this is paralelogram) and hexagon with, i guess, 1 side and 2 angles. 
+
+I will think about this more later....
 
 
 ## 4-th key
 
 ![AR puzzle #12 key #4](https://github.com/HomelessPhD/AR_Puzzles/blob/ca63438a7f33a366ccc9430b59c3cd7140609f74/PZL12/pics/pzl_12_key_4.png)
+
+One may assume its just a 5 letter word like: Alien or Aline, Anile, Elain, Liane. But other option here is to follow the same IQ tests idea and try to reshape the squares with letters. Each square with letter have 4 sections with different dashing.
+What if we should cut the squeres and re-sample them into new 5 squres with else letters - like, maybe combining same dashing style in 1 squre or something like that??
 
 # "Exotic" ideas
 
