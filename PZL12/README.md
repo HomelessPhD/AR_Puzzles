@@ -70,7 +70,7 @@ ALTERNATIVE theory (less likely to be true, but who knows??) - googling 16-03-20
 
 # "Exotic" ideas
 
-1] ....
+1] THE FORBES articles (or some else magazines?!). Just look at articles that has been found for key #2. And now open other articles of the same author in FORBES [[this]](https://www.forbes.com/sites/michaelhaley/2020/01/30/digital-art-framed-and-collected-on-blockchain/), [[that]](https://www.forbes.com/sites/michaelhaley/2020/03/16/arweaves-permanent-library-of-alexandria-on-blockchain-to-halt-censorship-empower-information/) and [[last]](https://www.forbes.com/sites/michaelhaley/2020/02/26/tim-draper-backed-aragon-disrupts-traditional-governance-with-a-decentralized-court/). Maybe articles made by "Michael Stephen Haley" means something here. Just another crazy idea guys, but you should open your mind for such things time to time.
 
 
 `to be continued`
