@@ -1,18 +1,18 @@
-var k_1 = ["icon","logo","text","name",'page',"html","link","tags","apps","http","main","hack","mail","type","luck"];
+var k_1 = ["2014", "2015", "2016", "2017", "2018", "2019", "a16z", "ANHO", "hack", "logo", "tags", "apps", "dapp", "text", "icon", "name", "page", "anon", "html", "link", "http", "main", "mail", "type", "json", "file", "luck", "free", "drop", "UNCE", "curl", "data","from"];
   
-var k_2 = ["md12","mine","mail","hash","path","road","main","link","text","code","luck"];
+var k_2 = ["md12", "mine", "mail", "path", "road", "main", "link", "text", "code","sign", "hash", "fund", "date", "towm", "city", "hill", "snow", "data", "mark", "luck", "sale","0.73", "bash", "head"];
 
-var k_3 = ["a384","-384","asic","hash","luck"];
+var k_3 = ["ASIC", "a384", "-384", "hash", "mine", "farm", "earn", "gpus", "Elli", "IPFS", "luck", "algo"];
 
-var k_4 = ["cash","cost","swap","cost","rate","artx" ,"sell","list","arql","view","data","luck"];
+var k_4 = ["artx", "LOKI", "SILO", "coin", "cash", "data", "cost", "rate", "AR/$", "swap", "sell", "list", "view", "arql", "luck", "fees", "when","send","sent","0.73"];
 
-var k_5 = [" dns","port","1984","scan","luck"];
+var k_5 = ["scan", "port", "1984", "silo", "loki", " dns", "luck", "free", "lang", ".erl","from"];
 
-var k_6 = ["root","ASMT","node","byte","data","beam","luck"];
+var k_6 = ["tree", "root", "ASMT", "node", "byte", "data", "beam", "luck", "SILO", "32AR", "9788","list","peer","size"];
 
-var k_7 = ["pool","pull","vest","node","luck"];
+var k_7 = ["pull",  "pool", "vest","west", "node", "fork", "luck"];
 
-var k_8 = ["base","data","apps","star","cost","code","luck"];
+var k_8 = ["base", "data", "apps", "dapp", "star", "cost", "code", "luck", "dots","peer"];
 
 var code_u_arr = [];
 for (var i_1=0; i_1 < k_1.length; i_1++)
