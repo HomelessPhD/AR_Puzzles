@@ -70,6 +70,8 @@ The first thing the solvers usually do here is googling this number "21863" that
 
 Another interesting idea about this picture - "21863" missing the "0". In other words - it is a date: 2018\06\03 that could be interpreted as Arweave ICO date for example, that also give "date", "fund" keys.
 
+P.S. There is Snow Hill streat (?) very close to the ARweave HeadQuarters in London - so it could point us to this location or the SnowHill itself (head or maybe "sh" for bash etc.)
+
 Finally, i'd consider the next keys here: `md12, mine, mail, path, road, main, link, text, code, hash, fund, date, towm city, hill, snow, data, mark, luck, sale, bash, head, ...`
 
 Someone could also look for the block number 21863 - but there is nothing interesting about it. (sure, many complex manipulations could be done with block data - but that is a dead end).
