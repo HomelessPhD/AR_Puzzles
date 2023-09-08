@@ -129,7 +129,7 @@ Some could propose LOKI or SILO here (arweave product) [[7]](https://arweave.med
 
 ![LOKI - SILO](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL3/pics/LOKI_SILO.png)
 
-Finally, i'd consider the next keys here: `artx, LOKI, SILO, coin, cash, data, cost, rate, AR/$, swap, sell, list, view, arql, luck, ...`
+Finally, i'd consider the next keys here: `artx, LOKI, SILO, coin, cash, data, cost, rate, AR/$, swap, sell, list, view, arql, luck, fees, ...`
 
 ## 5-th key
 ![5-th key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL3/pics/5.png )
@@ -146,7 +146,9 @@ Thats the tree. Interesting fact - it seems to have 4 roots, 4 branches, 32 leaf
 Well, not gonna judge his statement, but he said #3 should be very easy, so the option TREE was on my list before i've found that discord statement made by him. Tree could symbolize the graph or tree-like data structure. So it could be data, root, node or their alliases like "beam" (the is the name of the node program or daemon - correct me if i wrong). Also it could be Arweave-Sparse Merkle Tree (ASMT). Look this page stored in arweave for example [[8]](https://5ykygzjsftdm7ri7dutxuj45jiabjs7mvidaw5gaqbvcwkwm7wlq.arweave.net/7hWDZTIsxs_FHx0neiedSgAUy-yqBgt0wIBqKyrM_Zc
 ).
 
-Finally, i'd consider the next keys here: `tree, root, ASMT, node, byte, data, beam, luck, SILO ...`
+Tree have 32 leafs ( 9 leafs, 7 leafs, 8 leafs, 8 leafs) - that is approximately the number of coins emitted by miner on each block in 01-2019 - 06-2019 so pic 6 could be 32AR or some else reward synonimous. 
+
+Finally, i'd consider the next keys here: `tree, root, ASMT, node, byte, data, beam, luck, SILO, 32AR, 9788, ...`
 
 ## 7-th key
 ![7-th key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL3/pics/7.png )
@@ -280,6 +282,43 @@ Should say, that this idea seems very funny and same time interesting. `"!"` - c
 
 4) What if all the 8-keys related to the process the data undergo in AR network?
 DATA -> sign\hash -> hash\mine -> sent (broadcasted) -> scan (mapping?) -> ... (list? node?) -> pool (mempool?) or pull -> base or code (encode).....
+
+5) Back to the idea of mining. Here what i've found in Discord:
+```
+curl  http://127.0.0.1:1984/peers
+```
+
+```
+Try running just:  curl https://raw.githubusercontent.com/ArweaveTeam/arweave/master/install.sh | bash && cd arweave
+```
+
+```
+From github:
+Ubuntu/Debian Linux Quickstart
+
+You can download the Arweave codebase, all dependencies and start mining straight away by
+opening a terminal and running:
+
+curl https://raw.githubusercontent.com/ArweaveTeam/arweave/master/install.sh | bash && cd arweave && ./arweave-server mine peer xxx.xxx.xxx.xxx peer yyy.yyy.yyy.yyy
+
+Don’t forget to change xxx.xxx.xxx.xxx, yyy.yyy.yyy.yyy, etc to the IP addresses you want to peer with.
+```
+
+```
+You can ask any node in the network and they'll reply with all matching txs they know about,
+curl -X POST \
+  https://arweave.net/arql \
+  -H 'cache-control: no-cache' \
+  -d '{
+    "op": "equals",
+    "expr1": "App-Name",
+    "expr2": "querweave"
+}'
+```
+
+So, i guess, the puzzle could be somehow related to the mine process - commands that user should run.
+
+For example, ***CURL*** could sound similar to CURVE or CURve Line and be the answer to pic 1. ***BASH*** files extensions are .SH and so it actually could be the asnwer to pic 2 - pic 2 shows the zip code of Snow Hill (SH). The ***MINE*** is what the pic 3 is about. Maybe the 4th pic is COIN or CASH (like AR.CASH or AR coin) etc. This idea could and should be speculated more. Tree have 32 leafs ( 9 leafs, 7 leafs, 8 leafs, 8 leafs) - that is approximately the number of coins emitted by miner on each block in 01-2019 - 06-2019 so pic 6 could be 32AR or some else reward synonimous. The 7th pic is about pool (mining pool or reward pool or storage pool - there are options...).
 
 `to be continued`
 
