@@ -57,7 +57,7 @@ ANNO could be interpreted as "since" meaning the year (like the "ANNO 1901" that
 ANHO could be assumed to denote the investor who supported the Arweave project by a descent investment - "ANdreessen HOrowitz" or "a16z" that is a logo of his company and so it could be the key.
 More trivial answers here would be 4-letter words somehow related to Arweave or the image.
 
-Finally, i consider the next keys: `2014, 2015, 2016, 2017, 2018, 2019, a16z, ANHO, hack, logo, tags, apps, dapp, hack, text, icon, name, page, anon, html, link, http, main, mail, type, json, file, luck, free, drop, UNCE, curl, ....`
+Finally, i consider the next keys: `2014, 2015, 2016, 2017, 2018, 2019, a16z, ANHO, hack, logo, tags, apps, dapp, text, icon, name, page, anon, html, link, http, main, mail, type, json, file, luck, free, drop, UNCE, curl, data, from, ....`
 
 ## 2-nd key
 ![2-nd key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL3/pics/2.png )
@@ -117,7 +117,7 @@ Reliability and operations improvements
 Recalling that picture likely to image the mining process and contains two letters "SH", the next ideas instantly come to mind:
 "ASIC" (the mining algorithm has been changed from sha384 to RandomX that should have helped ordinary miners in their battle with ASICS), "a384" or "-384"  that stands form SHA 384 that is an old mining algorithm the was replaced by RandomX in this release. Also, HTTP server Ellis were replaced with Cowboy. And some IPFS arrangements as well.
  
-Finally, i'd consider the next keys here: `ASIC, a384, -384, a256, -256, hash, mine, farm, earn, gpus, Elli, IPFS, luck, ...`
+Finally, i'd consider the next keys here: `ASIC, a384, -384, a256, -256, hash, mine, farm, earn, gpus, Elli, IPFS, luck, algo, ...`
 
 ## 4-th key
 ![4-th key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL3/pics/4.png )
@@ -129,7 +129,7 @@ Some could propose LOKI or SILO here (arweave product) [[7]](https://arweave.med
 
 ![LOKI - SILO](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL3/pics/LOKI_SILO.png)
 
-Finally, i'd consider the next keys here: `artx, LOKI, SILO, coin, cash, data, cost, rate, AR/$, swap, sell, list, view, arql, luck, fees, ...`
+Finally, i'd consider the next keys here: `artx, LOKI, SILO, coin, cash, data, cost, rate, AR/$, swap, sell, list, view, arql, luck, fees, when, send, sent, 0.73 ...`
 
 ## 5-th key
 ![5-th key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL3/pics/5.png )
@@ -138,7 +138,7 @@ One may notice here the map of SCANdinavia or more like Denmark, Norway, Sweden 
 
 The programing language ERLang came from Sweden (? that fact was mentioned by the AR developer in discord). Sweden is the part of Scandinavian countries - one of those drawn on the pic5. So erlang or .erl could be the answer to pic5.
 
-Finally, i'd consider the next keys here: `scan, port, 1984, silo, loki, " dns", luck, free, lang, .erl,  ...`
+Finally, i'd consider the next keys here: `scan, port, 1984, silo, loki, " dns", luck, free, lang, .erl, from, ...`
 
 ## 6-th key
 ![6-th key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL3/pics/6.png )
@@ -150,7 +150,7 @@ Well, not gonna judge his statement, but he said #3 should be very easy, so the 
 
 Tree have 32 leafs ( 9 leafs, 7 leafs, 8 leafs, 8 leafs) - that is approximately the number of coins emitted by miner on each block in 01-2019 - 06-2019 so pic 6 could be 32AR or some else reward synonimous. 
 
-Finally, i'd consider the next keys here: `tree, root, ASMT, node, byte, data, beam, luck, SILO, 32AR, 9788, ...`
+Finally, i'd consider the next keys here: `tree, root, ASMT, node, byte, data, beam, luck, SILO, 32AR, 9788, list, peer, size, ...`
 
 ## 7-th key
 ![7-th key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL3/pics/7.png )
@@ -166,7 +166,7 @@ Finally, i'd consider the next keys here: `pull,  pool, vest, node, fork, luck,.
 
 The last one is tricky, but seems to be mentioned by @Tiamat in his official twitter hints: " Did anybody count the dots?". Considering he pointed the picture 8 only and all black object on it, it results in 58 "dots". The base58 encoding is a typical in cryptosphere, so BASE could be mean here.
 
-Finally, i'd consider the next keys here: `base, data, apps, dapp, star, cost, code, luck, dots, ...`
+Finally, i'd consider the next keys here: `base, data, apps, dapp, star, cost, code, luck, dots, peer ...`
 
 
 # "Exotic" ideas
