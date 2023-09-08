@@ -57,7 +57,7 @@ ANNO could be interpreted as "since" meaning the year (like the "ANNO 1901" that
 ANHO could be assumed to denote the investor who supported the Arweave project by a descent investment - "ANdreessen HOrowitz" or "a16z" that is a logo of his company and so it could be the key.
 More trivial answers here would be 4-letter words somehow related to Arweave or the image.
 
-Finally, i consider the next keys: `2014, 2015, 2016, 2017, 2018, 2019, a16z, ANHO, hack, logo, tags, apps, dapp, hack, text, icon, name, page, anon, html, link, http, main, mail, type, json, file, luck, free, drop, UNCE,....`
+Finally, i consider the next keys: `2014, 2015, 2016, 2017, 2018, 2019, a16z, ANHO, hack, logo, tags, apps, dapp, hack, text, icon, name, page, anon, html, link, http, main, mail, type, json, file, luck, free, drop, UNCE, curl, ....`
 
 ## 2-nd key
 ![2-nd key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL3/pics/2.png )
@@ -70,7 +70,7 @@ The first thing the solvers usually do here is googling this number "21863" that
 
 Another interesting idea about this picture - "21863" missing the "0". In other words - it is a date: 2018\06\03 that could be interpreted as Arweave ICO date for example, that also give "date", "fund" keys.
 
-Finally, i'd consider the next keys here: `md12, mine, mail, path, road, main, link, text, code, hash, fund, date, towm city, hill, snow, data, mark, luck, sale ...`
+Finally, i'd consider the next keys here: `md12, mine, mail, path, road, main, link, text, code, hash, fund, date, towm city, hill, snow, data, mark, luck, sale, bash, head, ...`
 
 Someone could also look for the block number 21863 - but there is nothing interesting about it. (sure, many complex manipulations could be done with block data - but that is a dead end).
 
@@ -164,7 +164,7 @@ Finally, i'd consider the next keys here: `pull,  pool, vest, node, fork, luck,.
 
 The last one is tricky, but seems to be mentioned by @Tiamat in his official twitter hints: " Did anybody count the dots?". Considering he pointed the picture 8 only and all black object on it, it results in 58 "dots". The base58 encoding is a typical in cryptosphere, so BASE could be mean here.
 
-Finally, i'd consider the next keys here: `base, data, apps, dapp, star, cost, code, luck,...`
+Finally, i'd consider the next keys here: `base, data, apps, dapp, star, cost, code, luck, dots, ...`
 
 
 # "Exotic" ideas
