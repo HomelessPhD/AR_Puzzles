@@ -136,7 +136,9 @@ Finally, i'd consider the next keys here: `artx, LOKI, SILO, coin, cash, data, c
 
 One may notice here the map of SCANdinavia or more like Denmark, Norway, Sweden (DNS). And first things could be reasoned here: it is SCAN or PORT that is used in Arweave node that is 1984. Some others propose here LOKI from Scandinavian mythology that is also a name of " a decentralised network" that collaborated with Arweave in "the creation of SILO" (one of arweave product) [[7]](https://arweave.medium.com/building-silo-a-truly-private-internet-556c860222ca).
 
-Finally, i'd consider the next keys here: `scan, port, 1984, silo, loki, " dns", luck, free, ...`
+The programing language ERLang came from Sweden (? that fact was mentioned by the AR developer in discord). Sweden is the part of Scandinavian countries - one of those drawn on the pic5. So erlang or .erl could be the answer to pic5.
+
+Finally, i'd consider the next keys here: `scan, port, 1984, silo, loki, " dns", luck, free, lang, .erl,  ...`
 
 ## 6-th key
 ![6-th key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL3/pics/6.png )
