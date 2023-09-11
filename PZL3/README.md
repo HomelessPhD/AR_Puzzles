@@ -68,7 +68,7 @@ The first thing the solvers usually do here is googling this number "21863" that
 
 ![Snow HIll MD12 - ZIP 21863](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL3/pics/MD12.png)
 
-Another interesting idea about this picture - "21863" missing the "0". In other words - it is a date: 2018\06\03 that could be interpreted as Arweave ICO date for example, that also give "date", "2018", "fund", "zero", "null", "0.73" (the price at ico) keys.
+Another interesting idea about this picture - "21863" missing the "0". In other words - it is a date: 2018\06\03 that could be interpreted as Arweave ICO date for example, that also give "date", "2018", "fund", "zero", "null", "0.73" (the price at ico) keys. Here the missed "0" could also point to the 0 block (ZERO block - the initial block in AR chain).
 
 P.S. There is Snow Hill streat (?) very close to the ARweave HeadQuarters in London - so it could point us to this location or the SnowHill itself ("head", "main", "home" or maybe "sh" for "bash" etc.)
 
