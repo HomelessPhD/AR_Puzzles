@@ -48,6 +48,46 @@ You see - they seem like goes in pairs: 1 flag with ball + 1 flag without a ball
 
 Should we guess the collor of "white" flag should have in this series?
 
+Here i written out the colors of flags:
+
+```
+Colors  (RGB)      
+red:    c0 00 00  192 0   0
+purple: 41 00 80   65 0 128
+
+gray:   80 80 80  128 128 128 
+green:  3f 80 00   63 128   0
+
+purple: 7f 00 ff   127   0 255
+white:  ff ff ff   255 255 255
+
+
+Colors  (CMYK)      
+red:    0%, 100%, 100%, 25%
+purple: 49%, 100%, 0%, 50% 
+
+gray:   0%,   0%,   0%, 50% 
+green:  51%,  0%, 100%, 50%
+
+purple: 50%, 100%, 0%, 0%
+white:  0%     0%, 0%, 0%
+
+```
+
+And tried to identify the [names](https://colors.artyclick.com/color-name-finder/) of colors, but not sure about it:
+
+```
+red:    Guardsman Red / Milano Red / Rosso Corsa / Venetian Red / Scarlet
+purple:  Kingfisher Daisy / Indigo / Royal Purple / Persian Indigo / Purple Monster
+
+gray:   Granite / Medium Grey / Friar Grey / Battleship Grey / Hurricane
+green:  Dark Grass Green / Napier Green / Medium Spring Green / Tree Green / Green Leaf
+
+purple: ArtyClick Purple / Electric Indigo / Vivid Violet / Purplish Blue / Dark Violet
+white:  White / Romance / Ceramic / Pale Grey / Milk White
+
+```
+
 Another idea, that all the flags code something - some number, some date or event, some name (person or organization), some term?
 
 ## 2-nd key
@@ -69,14 +109,40 @@ ALTERNATIVE theory (less likely to be true, but who knows??) - googling 16-03-20
 
 ![AR puzzle #12 key #3](https://github.com/HomelessPhD/AR_Puzzles/blob/ca63438a7f33a366ccc9430b59c3cd7140609f74/PZL12/pics/pzl_12_key_3.png)
 
-Square (101111), Romb (2111112), Rectangle(111211021) and finally a Hexagon. The first thing one may assume here is we should define the series of digits for Hexagon guessing the pattern..
+Square (101111), Rhombus or Diamond (2111112), Rectangle(111211021) and finally a Hexagon. The first thing one may assume here is we should define the series of digits for Hexagon guessing the pattern..
 
 Well, there are few ideas about it. It could be about the names of figures - maybe the name coded through ASCII or alphabet etc. Maybe its about number of free-parameters of figure ( just 1 side for square, 1 side and 1 angle for romb, 2 sides for rectangle (maybe 2 sides and 1 angle if this is paralelogram) and hexagon with, i guess, 1 side and 2 angles. 
 
 It could be even the series of parameters (their values) in the drawing tool where these shapes were dranw.
 
-I will think about this more later....
+Seems like each digit in the digit series represent some letter in the figure (shape) name (the diamond fits better - thanks for notice)
 
+```
+S Q U A R E
+1 0 1 1 1 1 
+
+D I A M O N D
+2 1 1 1 1 1 2
+
+R E C T A N G L E
+1 1 1 2 1 1 0 2 1
+
+```
+
+Thinking this way, the HEXAGON letters (and though the HEXAGON shape) could be represented by digits taken from known figures:
+
+```
+H E X A G O N
+! 1 ? 1 0 1 1
+```
+Where ! and ? are unknown digits (Letters "H" and "X" have not been used in known shapes names)
+
+Though, i may assume here a simple bruteforce routine with all combinations of different digits for ! and ? placeholders (could be limitied to 0,1,2,3 but
+if resources allow - betteg take all 10 possible values for each digits: 0,1,2,3,4,5,6,7,8,9)
+
+```
+0101011, 0111011, 0121011, ..., 9181011, 9191011
+```
 
 ## 4-th key
 
