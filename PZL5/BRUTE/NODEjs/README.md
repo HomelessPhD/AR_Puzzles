@@ -7,7 +7,7 @@ Here [[1]](https://docs.python-guide.org/starting/install3/linux/), [[2]](https:
 
 Its work is pretty simple and close to what is done in "Browser version". BUT, here are few changes were made to make it more efficient and user-friend. 
 
-The sha512 hashing of the inputs is made in python while the AES job is still done in JavaScript. The script run the task in parralel invoking several threads. 
+The sha512 hashing of the inputs is made in python while the AES job is still done in JavaScript. The script run the task in parallel, invoking several threads. 
 Each thread goes over its part of the search among the resulting solutional space ( combinations of given keys). Each 500 combos (its adjustable in script -
 parameter BATCH_SIZE) each thread print the status information to the LOG file ***main.log*** (in folder ***LOG***) 
 ***AND DUMP ALL TRIED COMBINATIONS OF KEYS INTO  file "pzl5_bruttedAnswers.txt"*** - this file will be used on each next program run to identify wich combinations
@@ -49,7 +49,7 @@ Picasso,picasso
 
 ```
 
-The script works "in parrallel" by defaul - its invoke several threads managing them through semaphore (in order to make the brutted keys dumping safe). 
+The script works "in parallel" by default - its invoke several threads managing them through semaphore (in order to make the brutted keys dumping safe). 
 To adjust amount of threads, adjust the ***t_num*** variable in file ***brute_pzl5.py***:
 
 ```
