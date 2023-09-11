@@ -1,7 +1,7 @@
-1,0,_,.,d,3,*,dfs,1,23,3,fgdf,3423,fdg
-mb,Mb,48,342,ffdfg,21
-LVB,LvB,GCE,223,1
-Eris,eris,12312
-Umber,umber,12312312,123,123,123,34,12,432,245,56
-lumber,Lumber,Castle,345,345,76,345,7,5
-Picasso,picasso,564,656,345,234,6454,4543
+1,0,*,_,.,A,a  
+mb,Mb,48,89
+Top,LVB,LvB,GCE,GCe,n14,#14,o27,O27
+Eris,eris
+Umber,umber,Amber
+Lumber,Castle,timber,Timber
+Picasso
