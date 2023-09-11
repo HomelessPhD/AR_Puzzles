@@ -6,6 +6,7 @@ This way of the Brute-Force will require Python and NODEjs to be installed on yo
 Here [[1]](https://docs.python-guide.org/starting/install3/linux/), [[2]](https://nodejs.org/en/download/package-manager) you can see some guide for Pytohn and NODEjs (or simply google it)
 
 Its work is pretty simple and close to what is done in "Browser version". BUT, here are few changes were made to make it more efficient and user-friend. 
+
 The sha512 hashing of the inputs is made in python while the AES job is still done in JavaScript. The script run the task in parralel invoking several threads. 
 Each thread goes over its part of the search among the resulting solutional space ( combinations of given keys). Each 500 combos (its adjustable in script -
 parameter BATCH_SIZE) each thread print the status information to the LOG file ***main.log*** (in folder ***LOG***) 
@@ -30,6 +31,9 @@ If solution was found - the thread that have found the solution will print it to
 
 
 5) Wait till the script finish its work - monitor the LOG files in the folder LOG
+
+P.S. To stop the program - write 1 (instead of 0) into the "failsafe_AR_3.txt"
+
 ```
 
 Do not forget to adjust the KEYs list for YOUr needs replacing default "keys" (inputs) in file ***"pzl3_KEYS.txt"*** (keys are comma-separated):
