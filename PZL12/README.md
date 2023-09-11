@@ -148,8 +148,13 @@ if resources allow - betteg take all 10 possible values for each digits: 0,1,2,3
 
 ![AR puzzle #12 key #4](https://github.com/HomelessPhD/AR_Puzzles/blob/ca63438a7f33a366ccc9430b59c3cd7140609f74/PZL12/pics/pzl_12_key_4.png)
 
-One may assume its just a 5 letter word like: Alien or Aline, Anile, Elain, Liane. But other option here is to follow the same IQ tests idea and try to reshape the squares with letters. Each square with letter have 4 sections with different dashing.
+One may assume its just a 5 letter word like: ```Alien or Aline, Anile, Elain, Liane```. But other option here is to follow the same IQ tests idea and try to reshape the squares with letters. Each square with letter have 4 sections with different dashing.
 What if we should cut the squeres and re-sample them into new 5 squres with else letters - like, maybe combining same dashing style in 1 squre or something like that??
+
+It also could be the words from more than 5 letters: 6, 7...
+
+Here is the list of possible 6 letter words composed having each known letter ("A", "L", "I", "E", "N"):
+```alevin,alexin,aliens,alined,aliner,alines,alkine,alpine,alvine,ancile,denial,elains,entail,eolian,finale,genial,inhale,inlace,inwale,larine,larnie,lawine,lianes,lienal,linage,lineal,linear,maline,menial,nailed,nailer,penial,pineal,renail,saline,silane,tenail,tineal,valine,veinal,venial,vineal,xenial,venial,vineal,xenial```
 
 # "Exotic" ideas
 
