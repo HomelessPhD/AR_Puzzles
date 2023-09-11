@@ -7,16 +7,18 @@ This puzzle is one from the series of Arweave Puzzles made by @Tiamat (official 
 https://twitter.com/arweavep/status/1257613928185675776): with hints and link to the blockchain [[2]](
 https://qmu25gaaftcgs45i6l4r6oqea7c6xsxowwrv56epxpd4ghnvikfa.arweave.net/gymumAAsxGlzqPL5HzoEB8Xryu61o174j7vHwx21Qoo)
 
-Puzzle consists of the HTML page (sources also attached in this git - but could be found on Arweave "blockchain") page with an AES encrypted message (the Arweave wallet with **400 AR** coins on it, that is around of **1.7 k$** right now). The decryption mechanism is already built in page so the solver should only type the correct symbols to the long placeholder as show on picture below. The key to the puzzle solving is an image of some shread picture that likely to show separated pictures\objects:
+Puzzle consists of the HTML page (sources also attached in this git - but could be found on Arweave "blockchain") page with an AES encrypted message (the Arweave wallet with **400 AR** coins on it, that is around of **1.7 k$** right now). The decryption mechanism is already built in page so the solver should only type the correct symbols to the long placeholder as show on picture below. The keys to the puzzle solving are 4 "puzzle pieces" that are likely to show separated pictures\objects:
 
 ![AR puzzle #12 keys](https://github.com/HomelessPhD/AR_Puzzles/blob/d80ac17173d9939321b49f4caa805cd7eba4b025/PZL12/pics/pzl_12_keys.png)
 
-![AR puzzle #10 solving](https://github.com/HomelessPhD/AR_Puzzles/blob/d80ac17173d9939321b49f4caa805cd7eba4b025/PZL12/pics/pzl_12_solving.png)
+![AR puzzle #12 solving](https://github.com/HomelessPhD/AR_Puzzles/blob/d80ac17173d9939321b49f4caa805cd7eba4b025/PZL12/pics/pzl_12_solving.png)
 
 # Assembling the puzzle
 The puzzle consists of 4 separated parts that, actually, could be assembled in several different combinations forming 1 concatinated answer OR all 4 parts could somehow point to unique answer (term, date, event etc.)
 
 The general idea (that is based on previous solved Tiamat puzzles) that the answer forms from sub-answers to each 4 puzzle parts concatinating them with no spaces in between. ***but options are possible here***
+
+***IMPORTANT THING TO TAKE IN MIND*** - pieces of this puzzles could be connect in different ways, so, going with that concatenation idea ***the solver should consider different permuations*** of puzzles 4 pieces.
 
 # The official hints given by the puzzle creator are listed below:
 
@@ -32,7 +34,7 @@ The general idea (that is based on previous solved Tiamat puzzles) that the answ
 ```    
 
 Some ideas came to my mind, others were captured from Twitter or\and the telegram group [[3]](@arweavep) - you definitely should visit it for ideas sharing.
-(at first few months i have forcefully avoided visiting any forums or groups when i saw the puzzle at first because i thought that ideas of others could freeze my own thinking process - it is when you start to think primarly in the way proposed by some other solver and, got stuck on it, but later trying my own ideas with my own dummy brute forcing method i skipped that rule. I am actively posting any ideas came to my mind in that group, hoping someone of us will be able to solve the puzzle sharing some part of revenue and GLORY)
+(at first few months i have forcefully avoided visiting any forums or groups when i saw the puzzle at first because i thought that ideas of others could freeze my own thinking process - it is when you start to think primarily in the way proposed by some other solver and, got stuck on it, but later trying my own ideas with my own dummy brute forcing method i skipped that rule. I am actively posting any ideas came to my mind in that group, hoping someone of us will be able to solve the puzzle sharing some part of revenue and GLORY)
 
 There are pretty "classic" ideas of what each image could code, but also there apretty exotic ideas. The last will be discussed at the end of this paper. Lets consider each picture "objects" one by one at first:
 
@@ -46,7 +48,7 @@ You see - they seem like goes in pairs: 1 flag with ball + 1 flag without a ball
 
 ![AR puzzle #12 key #1 IQ test](https://github.com/HomelessPhD/AR_Puzzles/blob/8ff1ffe4d91be7b64554e1770a79c66a748017d5/PZL12/pics/pzl_12_key_IQ_test.png)
 
-Should we guess the collor of "white" flag should have in this series?
+Should we guess the color of "white" flag should have in this series?
 
 Here i written out the colors of flags:
 
@@ -113,7 +115,7 @@ Square (101111), Rhombus or Diamond (2111112), Rectangle(111211021) and finally 
 
 Well, there are few ideas about it. It could be about the names of figures - maybe the name coded through ASCII or alphabet etc. Maybe its about number of free-parameters of figure ( just 1 side for square, 1 side and 1 angle for romb, 2 sides for rectangle (maybe 2 sides and 1 angle if this is paralelogram) and hexagon with, i guess, 1 side and 2 angles. 
 
-It could be even the series of parameters (their values) in the drawing tool where these shapes were dranw.
+It could be even the series of parameters (their values) in the drawing tool where these shapes were drawn.
 
 Seems like each digit in the digit series represent some letter in the figure (shape) name (the diamond fits better - thanks for notice)
 
@@ -137,7 +139,7 @@ H E X A G O N
 ```
 Where ! and ? are unknown digits (Letters "H" and "X" have not been used in known shapes names)
 
-Though, i may assume here a simple bruteforce routine with all combinations of different digits for ! and ? placeholders (could be limitied to 0,1,2,3 but
+Though, i may assume here a simple bruteforce routine with all combinations of different digits for ! and ? placeholders (could be limited to 0,1,2,3 but
 if resources allow - betteg take all 10 possible values for each digits: 0,1,2,3,4,5,6,7,8,9)
 
 ```
