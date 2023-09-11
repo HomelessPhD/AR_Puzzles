@@ -375,6 +375,8 @@ The ideal bruteforce program, i guess, will consist of two parts: the first will
 
 I have composed a simple JavaScript code to do a bruteforce just in browser - thus i could avoid of re-coding CryptoJS features and yet this solution is a snail (very slow - 0.5 sec per core on 1 input). Later i have speed up this approach precomputing sha512 key on the c-program (CPU) and it increased the speed but yet not enough to call this a WIN. JavaScript just killing all mood here. 
 
+***UPDATE*** Check the BRUTE section, i have added more efficient JavaScript+Python brutter. It goes with around 5-6 combos per second on 1 thread and manage the history of brutted combinations. On my 8 thread CPU i have more than 40 combos per sec with this approach.
+
 Anyway, with my JS approach i bruted a million inputs per day - and no success.
 
 `TO BE WRITTEN VERY SOON (day or two i will fill this section)`
