@@ -5,7 +5,7 @@ Solving of Arweave Puzzles
 
 [Puzzle #5 (Solved !!!! )](https://github.com/HomelessPhD/AR_Puzzles/tree/main/PZL5)
 
-[Puzzle #7 (NOT Solved)](https://github.com/HomelessPhD/AR_Puzzles/tree/main/PZL7)
+[Puzzle #7 (Solved !!! )](https://github.com/HomelessPhD/AR_Puzzles/tree/main/PZL7)
 
 [Puzzle #8 (    Solved)](https://github.com/HomelessPhD/AR_Puzzles/tree/main/PZL8)
 
