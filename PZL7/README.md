@@ -1,4 +1,4 @@
-# Arweave Puzzle #7 - "...Puzzle #7 with 3 ETH reward is live!..."
+# Arweave Puzzle #7 - "...Puzzle #7 with 3 ETH reward is live!..." !!! SOLVED (18.09.2023) !!!
 
 Here i am going to publish ideas i consider about and dummy instruments related to Arweave puzzle #7.
 
@@ -76,6 +76,8 @@ Some also have noticed another option here - Vertumnus (Latin pronunciation: [w�
 
 Finally, i consider the next keys: `"Vivaldi"`, `"vivaldi"`, `"AntonioLucioVivaldi"`, `"AntonioVivaldi"`, `"Antonio"`, `"music"`, `"violin"`, `"Valid"`, `"valid"`, `"Vertumnus"`,`"Vortumnus"`,`"Vertimnus"`, `....`
 
+***THE CORRECT SOLUTION HERE IS Vivaldi***
+
 ## 2-nd key
 ![2-nd key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL7/pics/2.png )
 
@@ -87,6 +89,7 @@ Other noticing here the key objects form the `"Life of Pi"` novel\film [[6]](htt
 
 Finally, i'd consider the next keys here: `"LifeOfPi"`, `"lifeofpi"`, `"227"`,`"Pi"`,`"pi"`, `"PiscineMolitorPatel"`, `"PiscinePatel"`, `"Piscine"`, `"RichardParker"`, `"richardparker"`,`"SurajSharma"`,`"surajsharma"`, `"YannMartel"`, `"yannmartel"`, `"Martel"`, `"martel"`, `"Yann"`, `"yann"`, `"Thirsty"`, `"thirsty"`, `"film"`, `"book"`, `"story"`, `...`
 
+***THE CORRECT SOLUTION HERE IS 227***
 
 ## 3-rd key
 ![3-rd key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL7/pics/3.png )
@@ -96,6 +99,8 @@ The image of a plastic bottle with a label "manner". The HTML encoded hint is "{
 (Another idea came to my mind was the name of PET bottles inventor - `"Nathaniel"` [[8]](https://en.wikipedia.org/wiki/Nathaniel_Wyeth_(inventor)))
 
 Finally, i'd consider the next keys here: `"Permanent"`, `"permanent"`, `"Etiquette"`, `"etiquette"`, `"etiquette"`, `"Nathaniel"`, `"nathaniel"`, `...`
+
+***THE CORRECT SOLUTION HERE IS Permanent***
 
 ## 4-th key
 ![4-th key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL7/pics/4.png )
@@ -107,12 +112,17 @@ There is also a short story composed by Edgar Allan Poe named "THE DOMAIN OF ARN
 
 Finally, i'd consider the next keys here: `"Arnheim"`, `"arnheim"`, `"Ellison"`, `"ellison"`, `"Fiction"`, `"fiction"`, `"Mystery"`,`"mystery"`, `"Madness"`,`"madness"`, `"Macabre"`, `"macabre"`, `...`
 
+***THE CORRECT SOLUTION HERE IS Arnheim***
+
 ## 5-th key
 ![5-th key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL7/pics/5.png )
 
 This is an image of a black cat and a flower of daisies that in Russian is also called "margarita". The flower has a face on it hinting us that its "alive". The HTML-encoded hint says "{8}". Some familiar with Russian literature see here a link to Bulgakovs' book "Master and Margarita" [[10]](https://en.wikipedia.org/wiki/The_Master_and_Margarita). Beside of Margarita, there is a cat `Behemoth`: "...An enormous demonic black cat (said to be as big as a hog) who speaks, walks on two legs, and can transform into human shape for brief periods of time. He has a penchant for chess, vodka, pistols, and obnoxious sarcasm. He is evidently the least-respected member of Woland's team – Margarita boldly takes to slapping Behemoth on the head after one of his many ill-timed jokes, without fear of retaliation. In the last chapters, it appears that Behemoth is a demon pageboy, the best clown in the world. His name (Бегемот) refers to both the Biblical monster and the Russian word for hippopotamus...". The @Tiamat hints made on Twitter: `The hint for the cat is "literature"! 📚`, and one made on AR blockchain message: "These have been circulating among some group of solvers, of course they are not the straight answers, but they will lead you there: Seasons, Life of Pi, Behemoth." justifying this ideas and the way of thinking. The answer likely related to Bulgakovs' Master and Margarita.
 
 Finally, i'd consider the next keys here: `"Behemoth"`, `"behemoth"`, `"Bulgakov"`, `"bulgakov"`, `"Azazello"`, `"azazello"`, `"Koroviev"`, `"koroviev"`,  `...`
+
+***THE CORRECT SOLUTION HERE IS Bulgakov***
+
 
 ## 6-th key
 ![6-th key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL7/pics/6.png )
@@ -127,6 +137,8 @@ One active telegram member proposed another "1984" relation for this key: "Who c
 
 Finally, i'd consider the next keys here: `"Solar"`, `"Lunar"`, `"solar"`, `"lunar"`, `"Solareclipse"`, `"SolarEclipse"`, `"solareclipse"`, `"Lunareclipse"`, `"LunarEclipse"`, `"lunareclipse"`, `"1157"`, `"eclipses"`, `"Eclipses"`,`"eclipse"`, `"Eclipse"`, ... `<some years from 1900 to 2100>`, `Orwell`,`GeorgeOrwell`, `...`
 
+***THE CORRECT SOLUTION HERE IS 1157***
+
 ## 7-th key
 ![7-th key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL7/pics/7.png )
 
@@ -139,6 +151,10 @@ But another idea seems more promising. Searching for crypto related facts relate
 Another interesting idea is about NFTs - usually when some one trying to find the origin of NFTs he could stop by ["Quantum"](https://nftnow.com/art/quantum-the-first-piece-of-nft-art-ever-created/) as the first NFT minter. Quantum is also a 7 letter word and it was relevant in 2014 year. So its a nice option to be the solution here.
 
 Finally, i'd consider the next keys here: `"Buterin"`, `"buterin"`,`"Vitalik"`,`"vitalik"`, `"Quantum"`,`"Network"`,`"network"`, `"ANABP01"`, `"anabp01"`, `"Achacha"`, `"achacha"`, `...`
+
+***AAAAAAAAAA*** just got the final answer and here this squirell point out to "Flora and Ulysses" winner of the [2014 NewBerry award (cmon, really??)](https://libguides.astate.edu/c.php?g=14558&p=1003901)
+
+***THE CORRECT SOLUTION HERE IS Ulysses***
 
 ## 8-th key
 ![7-th key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL7/pics/8.png )
@@ -160,6 +176,8 @@ P = 2*(a1+a2+a3+b1+b2+b3)
 Where finally, the perimeter equals to P = 462. The same system may be used to find the perimeters of smaller unknown rectangles: `(a1+b1)*2 = 143`, `(a3+b1)*2=176`, `(a1+b3)*2=176`, `(a3+b3)*2 = 209 `. Interesting fact - all perimeters are 11 multipliers including the perimeter of big (outer) rectangle.
 
 Finally, i'd consider the next keys here: `"462"`, `"11"`, `"143176176209"`,`"14399176154110187176132209"`, `...`
+
+***THE CORRECT SOLUTION HERE IS 143176176209***
 
 # "Exotic" ideas
 
