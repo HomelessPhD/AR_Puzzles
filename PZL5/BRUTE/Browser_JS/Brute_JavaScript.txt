@@ -1,48 +1,51 @@
-# BRUTE FORCE helper in solving Arweave Puzzle #5
+var k_1 = ["1","0","*","_",".","A","a"];
+  
+var k_2 = ["mb","Mb","MB","89"];
 
-## JavaScript solver (very slow but very easy to use)
+var k_3 = ["Top","top","LVB","LvB","N14","n14","#14","o27","O27"];
 
-Based on the idea to simply automotize the input of expected solutions on the puzzle page. It could be run simply from the puzzle page in browser:
-```
-1) Open the puzzle #5 page in browser [1]
-
-2) Turn on the developer tools (ctr+shift+I im most browsers or simply find that feature in the options menu) 
-that will look similar to this [2]
-
-3) Go to the console in developer tools, and type or copy-paste the whole bruteforce JavaScript (found it attached
-in this git around this README file) code in there
-
-4) Wait till the script finish its work
-```
-
-Do not forget to adjust the script for YOUr needs replacing default "keys" (inputs):
-
-```
-var k_1 = ["1","0","*","_",".","A","a"];  
-var k_2 = ["mb","Mb","48","89"];
-var k_3 = ["Top","LVB","LvB","GCE","GCe","n14","#14","o27","O27"];
 var k_4 = ["Eris","eris"];
-var k_5 = ["Umber","umber","Amber"];
-var k_6 = ["Lumber","Castle","timber","Timber"];
-var k_7 = ["Picasso"];
-```
 
-The script work could be easily paralelized - just open few instances of the page and make the same procedure in both, BUT adjust the parameters in script: look at variables **thr_ind** and **thr_num**.
-**thr_num** define the total number of threads you want to run (number of instances) and **thr_ind** define the current index of the thread. So, for example, if you want to run 2 threads of this script (2 instances): you need to open the puzzle #3 page 2 times and run the script in each with different variables values as following:
-```
-page #1 script:
-    ...
-        var thr_ind = 1;
-        var thr_num = 2;   
-    ...
-page #2 script:
-    ...
-        var thr_ind = 2;
-        var thr_num = 2;   
-    ...
-```
+var k_5 = ["Umber","umber","Amber","amber"];
 
-# References
-[1] Arweave Puzzle #5 page - https://d5zw4kksq5gasg7ezkjvdpey562svcviatdltuyga43lrkexvngq.arweave.net/H3NuKVKHTAkb5MqTUbyY77UqiqgExrnTBgc2uKiXq00
+var k_6 = ["lumber","Lumber","timber","Timber"];
 
-[2] Open developers tools \ using Java Script console in Firefox - https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools
+var k_7 = ["Picasso","picasso"];
+
+var code_u_arr = [];
+for (var i_1=0; i_1 < k_1.length; i_1++)
+for (var i_2=0; i_2 < k_2.length; i_2++)
+for (var i_3=0; i_3 < k_3.length; i_3++)
+for (var i_4=0; i_4 < k_4.length; i_4++)
+for (var i_5=0; i_5 < k_5.length; i_5++)
+for (var i_6=0; i_6 < k_6.length; i_6++)
+for (var i_7=0; i_7 < k_7.length; i_7++)
+    code_u_arr.push(k_1[i_1]+k_2[i_2]+k_3[i_3]+k_4[i_4]+k_5[i_5]+k_6[i_6]+k_7[i_7]);
+	
+
+	var thr_ind = 1;
+	var thr_num = 1;
+	var start_ind = (thr_ind-1) * Math.ceil(code_u_arr.length / thr_num);
+	var finish_ind = Math.min(code_u_arr.length, thr_ind * Math.ceil(code_u_arr.length / thr_num));
+	console.log("ind: "+thr_ind+", start: "+start_ind+", finish: "+finish_ind);
+
+	var a_u = ""; 
+	var max_len_res = ""
+	var max_len_ind = 0
+	for (var i_s =start_ind; i_s<finish_ind; i_s++)
+	{
+		a_u = decodewallet(msg, code_u_arr[i_s]);
+		console.log(a_u.search('"kty":"RSA"')+" "+i_s+" | length: "+a_u.length)
+		if(a_u.length>max_len_res.length)
+		{
+		    max_len_res = a_u;
+		    max_len_ind = i_s;
+		}
+		
+		if (a_u.search('"kty":"RSA"')>-1) 
+		{ 
+			download("arweave_keyfile_G2BaxD9phYHJ55VaEY-aX28FtQCKLORMMQSc74IaqYg.json",a_u);
+			console.log(a_u)
+			
+		}
+	}
