@@ -137,14 +137,19 @@ Thinking this way, the HEXAGON letters (and though the HEXAGON shape) could be r
 H E X A G O N
 ! 1 ? 1 0 1 1
 ```
-Where ! and ? are unknown digits (Letters "H" and "X" have not been used in known shapes names)
+Where ! and ? are unknown digits (Letters "H" and "X" have not been used in known shapes names). It is more likely they are 0,1 or 2.
 
-Though, i may assume here a simple bruteforce routine with all combinations of different digits for ! and ? placeholders (could be limited to 0,1,2,3 but
+Someone could assume here a simple bruteforce routine with all combinations of different digits for ! and ? placeholders (could be limited to 0,1,2,3 but
 if resources allow - betteg take all 10 possible values for each digits: 0,1,2,3,4,5,6,7,8,9)
 
 ```
 0101011, 0111011, 0121011, ..., 9181011, 9191011
 ```
+
+But someone have found out, that written on paper some letter would occupy "1 line" while other will use some space below and above as show on picture:
+![AR puzzle #12 key #3](https://github.com/HomelessPhD/AR_Puzzles/blob/21c19ace14d69a41b9ea8a1476a9dec34b15e2bd/PZL12/pics/hexagon_digits.png)
+
+***So THE MOST LIKELY ANSWER HERE IS 2111011 ***
 
 ## 4-th key
 
