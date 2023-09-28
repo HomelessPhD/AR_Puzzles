@@ -149,7 +149,7 @@ if resources allow - betteg take all 10 possible values for each digits: 0,1,2,3
 But someone have found out, that written on paper some letter would occupy "1 line" while other will use some space below and above as show on picture:
 ![AR puzzle #12 key #3](https://github.com/HomelessPhD/AR_Puzzles/blob/21c19ace14d69a41b9ea8a1476a9dec34b15e2bd/PZL12/pics/hexagon_digits.png)
 
-***So THE MOST LIKELY ANSWER HERE IS 2111011 ***
+***So THE MOST LIKELY ANSWER HERE IS 2111011***
 
 ## 4-th key
 
