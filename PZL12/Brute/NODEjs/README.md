@@ -29,6 +29,9 @@ If solution was found - the thread that have found the solution will print it to
    Or
     python brute_pzl12.py
 
+ P.S. There are two scripts: brute_pzl12.py AND brute_pzl12_permute.py. The second one will do the same as first BUT in extra it will
+try all "line" permuations in keys file (it will try to apply the first line to key1,key2,key3,key4 as well as second line, third,...)
+- just to brute the ORDER OF PUZZLE PIECIES
 
 5) Wait till the script finish its work - monitor the LOG files in the folder LOG
 
