@@ -42,6 +42,9 @@ If solution was found - the thread that have found the solution will print it to
 
 3) Install GO and Python (to be accessible from this folder - GO could require some extra manipulation for that.
   i simply proceed through the installation path for Ubuntu described in [2] and thats it)
+3') Make changes in GO libraries as stated above
+3'') BUILD THE GO PROGRAM:
+go build -o pzl5_GOscript pzl5_GOscript.go
 
 4) Run the python script:
     python3 brute_pzl5_GO.py
