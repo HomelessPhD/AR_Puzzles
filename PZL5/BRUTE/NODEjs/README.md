@@ -19,15 +19,15 @@ If solution was found - the thread that have found the solution will print it to
 ```
 1) Create some folder on your PC and download three files there: "brute_pzl5.py", "pzl5_pageCODE.js" and "pzl5_KEYS.txt"
 
-2) Adjust the "pzl3_KEYS.txt" to your brute list
+2) Adjust the "pzl5_KEYS.txt" to your brute list
 
 3) Install NODEjs and Python (to be accessible from this folder - NODEjs could require some extra manipulation for that.
   i simply proceed through the installation described in [3] and thats it)
 
 4) Run the python script:
-    python3 brute_pzl3.py
+    python3 brute_pzl5.py
    Or
-    python brute_pzl3.py
+    python brute_pzl5.py
 
 
 5) Wait till the script finish its work - monitor the LOG files in the folder LOG
