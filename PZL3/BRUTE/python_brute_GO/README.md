@@ -1,6 +1,6 @@
 # BRUTE FORCE helper in solving Arweave Puzzle #3
 
-## GO solver + Python (much much faster than JavaScript or browser solution - up to 50-60 keys per sec PER THREADm resulting in 400-500 keys per sec on my 8 core laptop CPU)
+## GO solver + Python (much much faster than JavaScript or browser solution - up to 50-60 keys per sec PER THREAD resulting in 400-500 keys per sec on my 8 core laptop CPU)
 
 This way of the Brute-Force will require Python and GO to be installed on your system to run the script. 
 Here [[1]](https://docs.python-guide.org/starting/install3/linux/), [[2]](https://www.cyberciti.biz/faq/how-to-install-gol-ang-on-ubuntu-linux/) or [[2']](https://go.dev/doc/install) you can see some guide for Pytohn and GO (or simply google it)
