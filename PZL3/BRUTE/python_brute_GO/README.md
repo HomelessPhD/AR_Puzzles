@@ -84,6 +84,8 @@ To adjust amount of threads, adjust the ***t_num*** variable in file ***brute_pz
     ...
 ```
 
+# P.S: I have bruted pretty much of options so far and shared the list of brutted answers in telegram group - msg me there (or by mail) if you want to get that list as well
+
 # References
 [1] Python installation for Linux - https://docs.python-guide.org/starting/install3/linux/
 
