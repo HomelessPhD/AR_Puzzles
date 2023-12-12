@@ -85,7 +85,6 @@ To adjust amount of threads, adjust the ***t_num*** variable in file ***brute_pz
 
 # There is also an extra version of the scrypt that will try each permutation of the given keys: there are 4 puzzle pieces and generally its a biq question in which order they should be treated (if they should at all) and so ***brute_pzl12_GO_permute.py*** will try the key at their different positions (line1line2line3line4, line1line2line4line3, line1line4line2line3,....)
 
-# P.S: I have bruted pretty much of options so far and shared the list of brutted answers in telegram group - msg me there (or by mail) if you want to get that list as well
 
 # References
 [1] Python installation for Linux - https://docs.python-guide.org/starting/install3/linux/
