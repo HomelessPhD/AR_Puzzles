@@ -377,7 +377,9 @@ I have composed a simple JavaScript code to do a bruteforce just in browser - th
 
 ***UPDATE*** Check the [BRUTE section](https://github.com/HomelessPhD/AR_Puzzles/tree/main/PZL3/BRUTE), i have added more efficient JavaScript+Python brutter. It goes with around 5-6 combos per second on 1 thread and manage the history of brutted combinations. On my 8 thread CPU i have more than 40 combos per sec with this approach.
 
-Anyway, with my JS approach i bruted a million inputs per day - and no success.
+***UPDATE !!! *** Check the [BRUTE section](https://github.com/HomelessPhD/AR_Puzzles/tree/main/PZL3/BRUTE), i have added more efficient GO+Python brutter. It goes with around 40-60 combos per second on 1 thread and manage the history of brutted combinations. On my 8 thread CPU i have more than 450 combos per sec with this approach.
+
+
 
 `TO BE WRITTEN VERY SOON (day or two i will fill this section)`
 
