@@ -6,7 +6,7 @@ This puzzle is one from the series of Arweave Puzzles made by @Tiamat (official 
 
 ***Meanwhile, THE ORIGINAL Tiamat TWEET was DELETED***, but comments (including his own comments as well as mine) are still there.
 
-Puzzle consists of the single PNG file (picture) (sources also attached in this git - but could be found on Arweave "blockchain"). In contrast to most AR puzzles, this one has no encrypted message and so there is no page with decryption code. The author stated that Private Key (to the ***1 ETH (~2400$)*** wallet [[3]](https://etherscan.io/address/0xFF2142E98E09b5344994F9bEB9C56C95506B9F17) somehow "hidden" in this image and the way to claim the prize is to extract the private key from it.
+Puzzle consists of the single PNG file (picture) (sources also attached in this git - but could be found on Arweave "blockchain"). In contrast to most AR puzzles, this one has no encrypted message and so there is no page with decryption code. The author stated that Private Key (to the ***1 ETH (~2800$)*** wallet [[3]](https://etherscan.io/address/0xFF2142E98E09b5344994F9bEB9C56C95506B9F17) somehow "hidden" in this image and the way to claim the prize is to extract the private key from it.
 
 ![AR puzzle #11](https://github.com/HomelessPhD/AR_Puzzles/blob/1bd70c836a55b7b3a093e0cce7186e2daba416b1/PZL11/CzITHnEIlkQw9SbaX5futCzFrKk1qe_NwvWnIBmP2fY.png)
 
