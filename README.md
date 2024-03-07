@@ -16,3 +16,6 @@ Solving of Arweave Puzzles
 [Puzzle #12 (NOT Solved)](https://github.com/HomelessPhD/AR_Puzzles/tree/main/PZL12)
 
 ONGOING - in the middle of operation, wait for updates!
+
+
+Most puzzles were announced in Twitter ( called X now) - the original tweets of the "ArweaveP" been scrapped by me and could be found [here](https://github.com/HomelessPhD/AR_Puzzles/blob/main/ArweaveP_user_tweets.xlsx) (attached in this folder)
