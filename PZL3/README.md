@@ -5,7 +5,7 @@ Here i am going to publish ideas i consider about and dummy instruments related 
 This puzzle is one from the series of Arweave Puzzles made by @Tiamat (official Arweave project discord member, apps developer, miner, early investor). Originally, puzzle posted in official @Tiamat twitter [[1]](https://twitter.com/ArweaveP/status/1132936723162378240): with hints and link to the blockchain [[2]](https://kszeqgxezf5quhzld4nhpasyilhxphclq2peqi5mrn7utxmqhwga.arweave.net/VLJIGuTJewofKx8ad4JYQs93nEuGnkgjrIt_Sd2QPYw
 )
 
-Puzzle consists of the HTML page (sources also attached in this git - but could be found on Arweave "blockchain") page with an AES encrypted message (the Arweave wallet with **1000 AR** coins on it, that is around of **39 k$** right now). The decryption mechanism is already built in page so the solver should only type the correct 4-symbols "words" (4-symbol combinations) to the 8 placeholders as show on picture below. The key to the puzzle solving is an image with 8 separated pictures:
+Puzzle consists of the HTML page (sources also attached in this git - but could be found on Arweave "blockchain") page with an AES encrypted message (the Arweave wallet with **1000 AR** coins on it, that is around of **41 k$** right now). The decryption mechanism is already built in page so the solver should only type the correct 4-symbols "words" (4-symbol combinations) to the 8 placeholders as show on picture below. The key to the puzzle solving is an image with 8 separated pictures:
 
 ![AR puzzle #3 keys](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL3/pics/pzl_3.png )
 
