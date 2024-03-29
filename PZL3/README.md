@@ -59,7 +59,7 @@ More trivial answers here would be 4-letter words somehow related to Arweave or 
 
 UPDATE: Why are all the lines so crooked on this picture? Seems like some latters but drawn with curved lines. Maybe its a letter on the water serface while the wave goes over it? OR MAYBE it point out to the ARC (the piece of circle, curved line). ARC.CASH right?! And chronologically the renaming the project and its native coin from **ARC** to **AR.CASH** was more earlier than later [ARC > AR.CASH](https://arweave.medium.com/arc-ar-cash-f1647c3f456f). Another interesting fact. Look letters - they looks like "AH NO". What if that point us to "NOAH" -> NOAH ARK. ARK again. Athoug, remind the fact that NOAH TOOK animals in pairs to his ark to save them. The 1800 participants of the ["The Arweave Community Token Sale, Part Two"](https://arweave.medium.com/announcing-the-arweave-community-token-sale-part-two-28f2b37c73d6) has been ["...hand-picked..."](https://arweave.medium.com/arweave-network-launch-report-b7e7ffac0f75) .
 
-Finally, i consider the next keys: `2014, 2015, 2016, 2017, 2018, 2019, anno, year, a16z, ANHO, hack, logo, tags, apps, dapp, text, icon, name, page, anon, html, link, http, main, mail, type, json, file, luck, free, drop, UNCE, curl, data, from, Noah,Cash`
+Finally, i consider the next keys: `2014, 2015, 2016, 2017, 2018, 2019, anno, year, a16z, ANHO, hack, logo, tags, apps, dapp, text, icon, name, page, anon, html, link, http, main, mail, type, json, file, luck, free, drop, UNCE, curl, data, from, Noah,Cash,1800,hand,pick,pair,ar->`
 
 ## 2-nd key
 ![2-nd key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL3/pics/2.png )
@@ -142,7 +142,11 @@ One may notice here the map of SCANdinavia or more like Denmark, Norway, Sweden 
 
 The programing language ERLang came from Sweden (? that fact was mentioned by the AR developer in discord). Sweden is the part of Scandinavian countries - one of those drawn on the pic5. So erlang or .erl could be the answer to pic5.
 
-Finally, i'd consider the next keys here: `scan, port, 1984, silo, loki, nord, " dns", luck, free, lang, .erl, from, ...`
+Very interesting fact about some of the Tiamat puzzles - he used the chess references several times already (meaning in puzzles that has been solved know to have chess references). Some one noticed here very interesting thing - keys are 4 char string same as most moves in chess notation, and the map shows Scandinavia. There is a move caled "Scandinavian Defence": [***e4d5***](https://www.chess.com/openings/Scandinavian-Defense) . Elegant, logical and simple (in some sense) answer.
+
+Now
+
+Finally, i'd consider the next keys here: `scan, port, 1984, silo, loki, nord, " dns", luck, free, lang, .erl, from, e4d5,  ...`
 
 ## 6-th key
 ![6-th key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL3/pics/6.png )
