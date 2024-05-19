@@ -24,7 +24,10 @@ Puzzle consists of the single PNG file (picture) (sources also attached in this 
     3] Someone asked for more hints: "Can we get another hint?"
        But Tiamat replied: "Next set of hints when AR reaches $100 :)"
 
-    *]  I understand some of you get a bit frustrated when you can't solve a puzzle. Maybe take it as a chance to learn alternative forms of storing a private key. I.e. how will an attacker know what's with a weird image in your email account? #cryptocurrency #privatekey #wallet
+    *]  I understand some of you get a bit frustrated when you can't solve a puzzle.
+        Maybe take it as a chance to learn alternative forms of storing a private key.
+        I.e. how will an attacker know what's with a weird image in your email account?
+        #cryptocurrency #privatekey #wallet
         .....
         .....
 
