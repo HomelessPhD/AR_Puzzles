@@ -24,6 +24,13 @@ Puzzle consists of the single PNG file (picture) (sources also attached in this 
     3] Someone asked for more hints: "Can we get another hint?"
        But Tiamat replied: "Next set of hints when AR reaches $100 :)"
 
+    *]  I understand some of you get a bit frustrated when you can't solve a puzzle. Maybe take it as a chance to learn alternative forms of storing a private key. I.e. how will an attacker know what's with a weird image in your email account? #cryptocurrency #privatekey #wallet
+        .....
+        .....
+
+        @Kevin34755400 Like I specified, the private key is hidden in the image. One way to try is MEW: Access by Private Key 🤐 good luck!
+
+
 ```    
 
 Some ideas came to my mind, others were captured from Twitter or\and the telegram group [[4]](@arweavep) - you definitely should visit it for ideas sharing.
