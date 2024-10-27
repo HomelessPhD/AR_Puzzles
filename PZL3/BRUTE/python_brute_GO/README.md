@@ -1,5 +1,7 @@
 # BRUTE FORCE helper in solving Arweave Puzzle #3
 
+***TESTED ON LINUX(UBUNTU) and WINDOWS with GO version 1.16. Some reported issues on MAC, but I HAVE NOT TESTED on MAC***
+
 ## GO solver + Python (much much faster than JavaScript or browser solution - up to 50-60 keys per sec PER THREAD resulting in 400-500 keys per sec on my 8 core laptop CPU)
 
 This way of the Brute-Force will require Python and GO to be installed on your system to run the script. 
