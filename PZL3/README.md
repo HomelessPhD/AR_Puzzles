@@ -330,6 +330,19 @@ So, i guess, the puzzle could be somehow related to the mine process - commands 
 
 For example, ***CURL*** could sound similar to CURVE or CURve Line and be the answer to pic 1. ***BASH*** files extensions are .SH and so it actually could be the asnwer to pic 2 - pic 2 shows the zip code of Snow Hill (SH). The ***MINE*** is what the pic 3 is about. Maybe the 4th pic is COIN or CASH (like AR.CASH or AR coin) etc. This idea could and should be speculated more. Tree have 32 leafs ( 9 leafs, 7 leafs, 8 leafs, 8 leafs) - that is approximately the number of coins emitted by miner on each block in 01-2019 - 06-2019 so pic 6 could be 32AR or some else reward synonimous. The 7th pic is about pool (mining pool or reward pool or storage pool - there are options...).
 
+6) Take a better look on Tiamat hint: "Did anybody count the dots?" DOTS - definitely pointig to the last picture, right? 
+
+58 objects draw on the 8th picture. But have you noticed the fun fact about the word DOTS itself?! D + O + T + S == 4 + 15 + 20 + 19 = 58 (each letter transfomred to its index in alphabet). One may assume it as confirmation that DOTS is a real answer here OR that "58" here pointed few different ways...
+
+Can we find something close to that in else pictures?
+
+"It's not my fault that people see a tree with - - - -  and they actually type TREE and expect to unlock."
+
+T + R + E + E = 20 + 18 + 5 + 5 = 48 .... 4 branches .... 8 leafs..?
+....
+
+"
+
 `to be continued`
 
 # Brute-Force - "that's impossible (?!)" [12](https://www.youtube.com/watch?v=6ixvpLCdqkA)
