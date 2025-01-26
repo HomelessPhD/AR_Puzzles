@@ -151,14 +151,14 @@ Finally, i'd consider the next keys here: `scan, port, 1984, silo, loki, nord, "
 ## 6-th key
 ![6-th key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL3/pics/6.png )
 
-Thats the tree. Interesting fact - it seems to have 4 roots, 4 branches, 32 leafs. @Tiamat mentioned this: " It's not my fault that people see a tree with - - - -  and they actually type TREE and expect to unlock.".
+Thats the tree. Interesting fact - it seems to have 4 (four) roots, 4 branches, 32 leafs. @Tiamat mentioned this: " It's not my fault that people see a tree with - - - -  and they actually type TREE and expect to unlock.".
 
 Well, not gonna judge his statement, but he said #3 should be very easy, so the option TREE was on my list before i've found that discord statement made by him. Tree could symbolize the graph or tree-like data structure. So it could be data, root, node or their alliases like "beam" (the is the name of the node program or daemon - correct me if i wrong). Also it could be Arweave-Sparse Merkle Tree (ASMT). Look this page stored in arweave for example [[8]](https://5ykygzjsftdm7ri7dutxuj45jiabjs7mvidaw5gaqbvcwkwm7wlq.arweave.net/7hWDZTIsxs_FHx0neiedSgAUy-yqBgt0wIBqKyrM_Zc
 ).
 
 Tree have 32 leafs ( 9 leafs, 7 leafs, 8 leafs, 8 leafs) - that is approximately the number of coins emitted by miner on each block in 01-2019 - 06-2019 so pic 6 could be 32AR or some else reward synonimous. 
 
-Finally, i'd consider the next keys here: `tree, hash, root, leaf, date, data, ASMT, node, byte, data, beam, luck, SILO, 32AR, 9788, list, peer, size, ...`
+Finally, i'd consider the next keys here: `tree, hash, root, leaf, date, data, ASMT, node, byte, data, beam, luck, SILO, four, fork, 32AR, 9788, list, peer, size, ...`
 
 ## 7-th key
 ![7-th key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL3/pics/7.png )
