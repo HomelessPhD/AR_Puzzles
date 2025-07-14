@@ -98,7 +98,7 @@ This is ... piece of wood?! So - `"lumber"`, `"Lumber"`, `"timber"`, `"Timber"`.
 
 Finally, i'd consider the next keys here: `"lumber"`, `"Lumber"`, `"timber"`, `"Timber"`, `...`
 
-### CORRECT KEY VALUE HERE IS: "CASTLE" <----- THE TERM FROM CHESS, position denoted by O-O (that is drawn on the log on picture - check carefully, i was also in shock of this, but its true)
+### CORRECT KEY VALUE HERE IS: "Castle" <----- THE TERM FROM CHESS, position denoted by O-O (that is drawn on the log on picture - check carefully, i was also in shock of this, but its true)
 
 ## 7-th key
 ![7-th key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL5/pics/7.png )
