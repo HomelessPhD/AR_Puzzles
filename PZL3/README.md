@@ -172,7 +172,7 @@ Finally, i'd consider the next keys here: `pull,  pool, vest, west, node, fork, 
 ## 8-th key
 ![8-th key](https://raw.githubusercontent.com/HomelessPhD/AR_Puzzles/main/PZL3/pics/8.png )
 
-The last one is tricky, but seems to be mentioned by @Tiamat in his official twitter hints: " Did anybody count the dots?". Considering he pointed the picture 8 only and all black object on it, it results in 58 "dots". The base58 encoding is a typical in cryptosphere, so BASE could be mean here.
+The last one is tricky, but seems to be mentioned by @Tiamat in his official twitter hints: " Did anybody count the dots?". Considering he pointed the picture 8 only and all black object on it, it results in 58 "dots". The base58 encoding is a typical in cryptosphere, so BASE could be mean here. Also, back that time, the only official possible way  to buy or sell coins was OTC through "Base58" service (that has had a minimal purchase threshold of 10 000$).
 
 Finally, i'd consider the next keys here: `base, data, apps, dapp, star, cost, code, luck, dots, peer ...`
 
