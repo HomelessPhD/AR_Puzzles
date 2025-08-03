@@ -7,7 +7,7 @@ This puzzle is one from the series of Arweave Puzzles made by @Tiamat (official 
 https://twitter.com/arweavep/status/1257613928185675776): with hints and link to the blockchain [[2]](
 https://qmu25gaaftcgs45i6l4r6oqea7c6xsxowwrv56epxpd4ghnvikfa.arweave.net/gymumAAsxGlzqPL5HzoEB8Xryu61o174j7vHwx21Qoo)
 
-Puzzle consists of the HTML page (sources also attached in this git - but could be found on Arweave "blockchain") page with an AES encrypted message (the Arweave wallet with **400 AR** coins on it, that is around of **6 k$** right now). The decryption mechanism is already built in page so the solver should only type the correct symbols to the long placeholder as show on picture below. The keys to the puzzle solving are 4 "puzzle pieces" that are likely to show separated pictures\objects:
+Puzzle consists of the HTML page (sources also attached in this git - but could be found on Arweave "blockchain") page with an AES encrypted message (the Arweave wallet with **400 AR** coins on it, that is around of **3 k$** right now). The decryption mechanism is already built in page so the solver should only type the correct symbols to the long placeholder as show on picture below. The keys to the puzzle solving are 4 "puzzle pieces" that are likely to show separated pictures\objects:
 
 ![AR puzzle #12 keys](https://github.com/HomelessPhD/AR_Puzzles/blob/d80ac17173d9939321b49f4caa805cd7eba4b025/PZL12/pics/pzl_12_keys.png)
 
