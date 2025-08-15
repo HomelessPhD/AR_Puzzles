@@ -145,6 +145,20 @@ Should add here - i've tried to cut different parts of histogram, played with th
 
 And yet another thing - "https://twitter.com/ArweaveP". Thats 20 symbols written on the picture, on the plain sight. Tried to make sha256 form it and nothing. Tried its ASCII adding zero bytes - nothing again.
 
+# Just a bit of reshape... ?
+The image we consider is a rectangular matrix of 0-255 values. We may operate over matrices in many ways. Let's consider reshaping like the one shown above:
+
+![Reshape Idea](https://github.com/HomelessPhD/AR_Puzzles/blob/ef84b39a67c715132a682bc3918cbef0732b6780/PZL11/pics/dummy_screen_1.png)
+
+Here the row - column sizes have been transformed by reusing the same matrix values (dim_x * dim_y remains the same), but in general we may introduce a reshape with a refill of extra values with zeros, for example.
+
+What if originally the author took a picture with some secret text (private key or some hint or else message)? Then he decided to hide it by simply reshaping the picture as the matrix above. See the example below:
+
+![Reshape Example](https://github.com/HomelessPhD/AR_Puzzles/blob/ef84b39a67c715132a682bc3918cbef0732b6780/PZL11/pics/dummy_screen_2.png)
+
+Such a reshape could be done in a manner that completely looses the visual presence of the initial text - now it looks mostly like noise but still grouped in the picture. The only thing is left to hide these pixel clouds in some "noisy objects" drawn above them. How to recover the initial "secret" out of the result? Just reshape it back - it's a linear operation so it is easily revertable. The only problem is how the extra drawings that could have been done will distort the recovered message. In theory, it can totally trash the result, making it unreadable. But if the author composed it in a right way, it will be readable. Just as example of such a special preparation for easy recovery is to distinguish the original message pixels and the extra drawings by "color" (pixel value): for example, 240 - 245 pixel values are for the original message only while others (0-239 and 246-255) pixel values are for deceiving drawings only respectively. 
+
+Yet, to check this idea, we need to walk over different shifts, different pixel value masking, and it is overwhelming to do it manually.
 
 # "Exotic" ideas
 
