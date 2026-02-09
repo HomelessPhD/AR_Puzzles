@@ -73,8 +73,21 @@ single_thread_speed is an approximate brute speed of a SINGLE CUDA core for your
 The core of this program been composed and shared by an active (puzzle solvers) community member that has his own git - check hiw variant of wrapper [1](https://github.com/Solutio-Cursus/arweave-puzzle-cuda-solver). I have built my own wrapper around this crypto core in order to make it more familliar for me and to my own use, but anyone is wellcome to try it out. Some may found it overload and heavy, i udnerstand this - and i am openned for advices and propositions!
 
 
+### P.S
 
-
+If you faced the following error:
+```
+terminate called after throwing an instance of 'std::runtime_error'
+  what():  locale::facet::_S_create_c_locale name not valid
+Aborted (core dumped)
+```
+... you may try to resolve it via updating the locale
+```
+sudo apt update
+sudo apt install locales
+sudo locale-gen en_US.UTF-8
+sudo update-locale LANG=en_US.UTF-8
+```
 
 ### References:
 
