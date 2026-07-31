@@ -11,6 +11,8 @@
 #include <omp.h>
 #include <iostream>
 
+#include <cstdint>
+
 #include "tools.hpp"
 
 namespace tools {
