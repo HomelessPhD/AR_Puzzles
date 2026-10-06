@@ -1,5 +1,5 @@
 
-# Arweave Puzzle #12 - ... short IQ test or ARweave quiz...
+# Arweave Puzzle #12 - ... short IQ test or ARweave quiz... (SOLVED !!! ???)
 
 Here i am going to publish ideas i consider about and dummy instruments related to Arweave puzzle #12.
 
