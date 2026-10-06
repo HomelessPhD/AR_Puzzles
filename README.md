@@ -13,7 +13,7 @@ Solving of Arweave Puzzles
 
 [Puzzle #11 (NOT Solved)](https://github.com/HomelessPhD/AR_Puzzles/tree/main/PZL11)
 
-[Puzzle #12 (NOT Solved)](https://github.com/HomelessPhD/AR_Puzzles/tree/main/PZL12)
+[Puzzle #12 (Solved)](https://github.com/HomelessPhD/AR_Puzzles/tree/main/PZL12)
 
 ONGOING - in the middle of operation, wait for updates!
 
